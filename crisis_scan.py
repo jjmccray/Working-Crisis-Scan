@@ -455,6 +455,7 @@ def fetch_rss(start, end, watchlist):
 # --------------------------------------------------------------------------
 
 def write_markdown(all_results, start, end, out_path):
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
     with open(out_path, "w") as f:
         f.write(f"# Crisis Scan Digest — {start.isoformat()} to {end.isoformat()}\n\n")
         f.write(f"*Generated {dt.datetime.now().strftime('%Y-%m-%d %H:%M')}*\n\n")
@@ -502,12 +503,14 @@ def write_json(all_results, start, end, out_path):
         "errors": RUN_ERRORS,
         "candidates": sorted(all_results, key=lambda r: r["date"], reverse=True),
     }
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
     with open(out_path, "w") as f:
         json.dump(payload, f, indent=2)
     log(f"JSON digest written to {out_path}")
 
 
 def append_csv_log(all_results, csv_path):
+    os.makedirs(os.path.dirname(csv_path) or ".", exist_ok=True)
     file_exists = os.path.isfile(csv_path)
     with open(csv_path, "a", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=["pulled_at", "source", "date", "headline", "url", "tags"])
