@@ -1,0 +1,126 @@
+name: Weekly Crisis Scan
+
+# Two ways this runs:
+#  1. schedule — every Monday at 12:00 UTC (~7am/8am US Eastern depending on DST).
+#     Adjust the cron below if you want a different day/time.
+#  2. workflow_dispatch — a manual "Run workflow" button under the Actions tab,
+#     and what the dashboard's "Run scan" link opens. Same job either way.
+on:
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Lookback window in days"
+        required: false
+        default: "7"
+
+permissions:
+  contents: write   # needed to commit digest.md/digest.json/candidates_log.csv back to the repo
+  pages: write
+  id-token: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run crisis scan
+        env:
+          # Optional: add OPENFDA_API_KEY as a repo secret to raise your
+          # openFDA daily rate limit. Works fine without it.
+          OPENFDA_API_KEY: ${{ secrets.OPENFDA_API_KEY }}
+        run: |
+          python crisis_scan.py \
+            --days "${{ github.event.inputs.days || '7' }}" \
+            --out docs/data/digest.md \
+            --json docs/data/digest.json \
+            --csv docs/data/candidates_log.csv
+
+      - name: Archive this run's snapshot for dashboard history
+        run: |
+          mkdir -p docs/data/history
+          STAMP=$(date +%Y-%m-%d)
+          cp docs/data/digest.json "docs/data/history/${STAMP}.json"
+          python - <<'PY'
+          import json, os, glob
+
+          files = sorted(glob.glob("docs/data/history/*.json"))
+          index = []
+          for path in files:
+              try:
+                  with open(path) as f:
+                      d = json.load(f)
+                  index.append({
+                      "file": os.path.basename(path),
+                      "window_start": d.get("window_start"),
+                      "window_end": d.get("window_end"),
+                      "generated_at": d.get("generated_at"),
+                      "total_candidates": d.get("total_candidates"),
+                      "watchlist_hit_count": d.get("watchlist_hit_count"),
+                  })
+              except Exception as e:
+                  print(f"Skipping {path}: {e}")
+          index.sort(key=lambda r: r.get("generated_at") or "", reverse=True)
+          with open("docs/data/history/index.json", "w") as f:
+              json.dump(index, f, indent=2)
+          PY
+
+      - name: Commit results
+        run: |
+          git config user.name "crisis-scan-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          git diff --staged --quiet || git commit -m "Weekly crisis scan: $(date +%Y-%m-%d)"
+          git push
+
+      - name: Set up Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # ---------------------------------------------------------------------
+  # OPTIONAL — email the digest. Disabled by default (the job below is
+  # commented out). To enable: uncomment it, then add these repo secrets
+  # under Settings > Secrets and variables > Actions:
+  #   EMAIL_SERVER_ADDRESS  (e.g. smtp.gmail.com)
+  #   EMAIL_SERVER_PORT     (e.g. 465)
+  #   EMAIL_USERNAME
+  #   EMAIL_PASSWORD        (an app password, not your normal login password)
+  #   EMAIL_TO              (comma-separated recipient list)
+  # ---------------------------------------------------------------------
+  # email:
+  #   needs: scan
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #       with:
+  #         ref: main
+  #     - name: Send digest email
+  #       uses: dawidd6/action-send-mail@v3
+  #       with:
+  #         server_address: ${{ secrets.EMAIL_SERVER_ADDRESS }}
+  #         server_port: ${{ secrets.EMAIL_SERVER_PORT }}
+  #         username: ${{ secrets.EMAIL_USERNAME }}
+  #         password: ${{ secrets.EMAIL_PASSWORD }}
+  #         to: ${{ secrets.EMAIL_TO }}
+  #         from: Crisis Scan Bot
+  #         subject: "Weekly Crisis Scan — ${{ github.run_id }}"
+  #         body: file://docs/data/digest.md

@@ -6,10 +6,8 @@ Pulls new/updated records from public sources over a lookback window and
 writes a single markdown digest an analyst can triage in ~30-45 minutes.
 
 Sources (all free, no API key required):
-  - FDA: Recalls, Market Withdrawals & Safety Alerts page (immediate signals)
-    + openFDA enforcement API (complete classified weekly record)
-  - CPSC: saferproducts.gov Recall API (with descriptive headers)
-    + official CPSC downloadable CSV fallback
+  - FDA openFDA enforcement API (food, drug, device recalls/enforcement)
+  - CPSC saferproducts.gov recall API
   - SEC EDGAR full-text search (8-K filings containing litigation/crisis language)
   - RSS: Marler Blog (food safety plaintiff bar), Top Class Actions, ClassAction.org
 
@@ -45,9 +43,9 @@ import time
 import urllib.parse
 
 import requests
-import feedparser
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+import feedparser
 
 # --------------------------------------------------------------------------
 # CONFIG — edit these for your firm
@@ -126,31 +124,31 @@ FDA_ENFORCEMENT_ENDPOINTS = {
     "FDA Device Recall": "https://api.fda.gov/device/enforcement.json",
 }
 
-# FDA Recalls, Market Withdrawals & Safety Alerts — immediate crisis signals
-FDA_ALERTS_RSS = "https://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml"
-
 CPSC_RECALL_ENDPOINT = "https://www.saferproducts.gov/RestWebServices/Recall"
-
-# CPSC official downloadable CSV of all recalls (fallback)
-CPSC_CSV_URL = (
-    "https://www.cpsc.gov/s3fs-public/"
-    "recall-data/recalls_recall_listing.csv"
-)
+# Official bulk CSV of all CPSC recalls — used as a fallback when the JSON
+# API errors out. Confirmed live; CPSC says this updates weekly.
+CPSC_RECALL_CSV_URL = "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
 
 SEC_FULLTEXT_ENDPOINT = "https://efts.sec.gov/LATEST/search-index?"
 
-REQUEST_TIMEOUT = 30
+# Optional: a free openFDA API key raises your daily rate limit substantially.
+# https://open.fda.gov/apis/authentication/
+OPENFDA_API_KEY = os.getenv("OPENFDA_API_KEY", "")
+
+REQUEST_TIMEOUT = 20
+CONTACT_EMAIL = SEC_CONTACT  # reused as the contact string in other User-Agents too
 
 # --------------------------------------------------------------------------
-# Shared HTTP session with retries
-# --------------------------------------------------------------------------
 
 
-def _make_session():
-    """Return a requests.Session with retry logic and descriptive headers."""
+def build_session():
+    """A requests.Session with retry/backoff for transient errors (429/5xx).
+    FDA and CPSC data updates weekly and both APIs are known to be flaky
+    under load — retrying a couple times with backoff clears most of that
+    without slowing down a clean run."""
     session = requests.Session()
     session.headers.update({
-        "User-Agent": f"CrisisScan/1.0 (contact: {SEC_CONTACT})",
+        "User-Agent": f"CrisisScan/1.0 (contact: {CONTACT_EMAIL})",
         "Accept": "application/json",
     })
     retries = Retry(
@@ -160,16 +158,25 @@ def _make_session():
         allowed_methods=["GET"],
     )
     session.mount("https://", HTTPAdapter(max_retries=retries))
+    session.mount("http://", HTTPAdapter(max_retries=retries))
     return session
 
 
-# --------------------------------------------------------------------------
-# Helpers
-# --------------------------------------------------------------------------
+SESSION = build_session()
 
 
 def log(msg):
     print(f"[{dt.datetime.now().strftime('%H:%M:%S')}] {msg}", file=sys.stderr)
+
+
+# Collected across a run so write_json() can expose "what broke this week"
+# to the dashboard, instead of that only living in stderr logs nobody reads.
+RUN_ERRORS = []
+
+
+def log_error(source_label, msg):
+    log(f"{source_label} fetch failed: {msg}")
+    RUN_ERRORS.append({"source": source_label, "error": str(msg)})
 
 
 def date_window(days):
@@ -200,83 +207,34 @@ def tag_signals(text, watchlist):
 # FDA
 # --------------------------------------------------------------------------
 
-def fetch_fda_alerts_rss(start, end, watchlist):
-    """
-    Pull FDA Recalls, Market Withdrawals & Safety Alerts via RSS.
-    This is the *immediate* signal source — it contains recalls dated today,
-    before they appear in the openFDA enforcement API (which lags ~1-2 weeks).
-    """
+def fetch_fda_recalls(start, end, watchlist, limit=1000):
+    """openFDA's enforcement datasets update weekly and can lag behind the
+    live date — querying `search=report_date:[start+TO+end]` for a window
+    that isn't indexed yet returns errors rather than an empty result. Fix:
+    always pull the most recent `limit` records sorted newest-first, then
+    filter to the window locally in Python. This also means the call
+    succeeds even in a week where the whole window hasn't posted yet — it
+    just returns fewer matches, which is the honest answer."""
     results = []
-    try:
-        feed = feedparser.parse(FDA_ALERTS_RSS)
-        for entry in feed.entries:
-            # Parse published date
-            published = entry.get("published_parsed") or entry.get("updated_parsed")
-            if published:
-                pub_date = dt.date(*published[:3])
-                if not (start <= pub_date <= end):
-                    continue
-                date_str = pub_date.isoformat()
-            else:
-                date_str = ""
-
-            title = entry.get("title", "Untitled")
-            summary = entry.get("summary", "") or ""
-            link = entry.get("link", "")
-
-            # Try to extract company name from title
-            company = "Unknown"
-            if " — " in title:
-                company = title.split(" — ")[-1].strip()
-            elif " - " in title:
-                company = title.split(" - ")[-1].strip()
-
-            text_blob = f"{title} {summary}"
-            results.append({
-                "source": "FDA Alerts (RSS)",
-                "date": date_str,
-                "headline": title,
-                "detail": (summary or "")[:300],
-                "url": link,
-                "tags": tag_signals(text_blob, watchlist),
-            })
-    except Exception as e:
-        log(f"FDA Alerts RSS fetch failed: {e}")
-    return results
-
-
-def fetch_fda_enforcement_api(start, end, watchlist, session, limit=1000):
-    """
-    Pull from openFDA enforcement API.
-    Instead of querying by date range (which can 500 when data hasn't been
-    indexed yet), we pull the latest records sorted by report_date and filter
-    locally. This avoids asking openFDA for dates that have not yet been indexed.
-    """
-    results = []
-    params = {
-        "sort": "report_date:desc",
-        "limit": limit,
-    }
-    api_key = os.getenv("OPENFDA_API_KEY")
-    if api_key:
-        params["api_key"] = api_key
-
     for label, url in FDA_ENFORCEMENT_ENDPOINTS.items():
         try:
-            resp = session.get(url, params=params, timeout=REQUEST_TIMEOUT)
+            params = {"limit": limit, "sort": "report_date:desc"}
+            if OPENFDA_API_KEY:
+                params["api_key"] = OPENFDA_API_KEY
+            resp = SESSION.get(url, params=params, timeout=REQUEST_TIMEOUT)
             resp.raise_for_status()
             data = resp.json()
+            newest_seen = None
             for rec in data.get("results", []):
-                report_date_raw = rec.get("report_date", "")
-                if not report_date_raw:
-                    continue
+                report_date = rec.get("report_date", "")
+                if newest_seen is None:
+                    newest_seen = report_date
                 try:
-                    report_date = dt.datetime.strptime(report_date_raw, "%Y%m%d").date()
+                    rec_date = dt.datetime.strptime(report_date, "%Y%m%d").date()
                 except ValueError:
                     continue
-                if not (start <= report_date <= end):
+                if not (start <= rec_date <= end):
                     continue
-
                 firm = rec.get("recalling_firm", "Unknown firm")
                 reason = rec.get("reason_for_recall", "")
                 classification = rec.get("classification", "")
@@ -285,149 +243,111 @@ def fetch_fda_enforcement_api(start, end, watchlist, session, limit=1000):
                 text_blob = f"{firm} {reason} {product}"
                 results.append({
                     "source": label,
-                    "date": report_date_raw,
+                    "date": rec_date.isoformat(),
                     "headline": f"{firm} — {classification} recall ({state})",
                     "detail": (reason or "")[:300],
                     "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm",
                     "tags": tag_signals(text_blob, watchlist),
                 })
+            if newest_seen:
+                try:
+                    newest_date = dt.datetime.strptime(newest_seen, "%Y%m%d").date()
+                    lag_days = (dt.date.today() - newest_date).days
+                    if lag_days > 3:
+                        log(f"{label}: newest record is {newest_date.isoformat()} "
+                            f"({lag_days} days old) — dataset lag, not a bug")
+                except ValueError:
+                    pass
         except Exception as e:
-            log(f"FDA enforcement API fetch failed for {label}: {e}")
+            log_error(label, e)
     return results
-
-
-def fetch_fda_recalls(start, end, watchlist):
-    """
-    FDA pipeline:
-    1. FDA Alerts RSS (immediate signals, no lag)
-    2. openFDA enforcement API (complete classified record, filter locally)
-    """
-    all_results = []
-
-    log("Fetching FDA Alerts RSS (immediate signals)...")
-    rss_results = fetch_fda_alerts_rss(start, end, watchlist)
-    all_results.extend(rss_results)
-
-    session = _make_session()
-    log("Fetching openFDA enforcement API (latest records, filtered locally)...")
-    api_results = fetch_fda_enforcement_api(start, end, watchlist, session)
-    all_results.extend(api_results)
-
-    return all_results
 
 
 # --------------------------------------------------------------------------
 # CPSC
 # --------------------------------------------------------------------------
 
-def fetch_cpsc_api(start, end, watchlist, session):
-    """
-    Try the CPSC saferproducts.gov JSON API first.
-    Uses descriptive User-Agent headers and LastPublishDate filters.
-    """
+def fetch_cpsc_recalls(start, end, watchlist):
     results = []
-    try:
-        params = {
-            "format": "json",
-            "LastPublishDateStart": start.strftime("%Y-%m-%d"),
-            "LastPublishDateEnd": end.strftime("%Y-%m-%d"),
+    seen_recall_numbers = set()
+
+    def _record_to_result(rec):
+        title = rec.get("Title", "Untitled recall")
+        desc = rec.get("Description", "") or ""
+        date = rec.get("RecallDate", "")
+        url = rec.get("URL", "")
+        manufacturers = ", ".join(
+            m.get("Name", "") for m in rec.get("Manufacturers", [])
+        ) if rec.get("Manufacturers") else ""
+        text_blob = f"{title} {desc} {manufacturers}"
+        return {
+            "source": "CPSC Recall",
+            "date": date,
+            "headline": title,
+            "detail": (desc or "")[:300],
+            "url": url,
+            "tags": tag_signals(text_blob, watchlist),
         }
-        resp = session.get(
-            CPSC_RECALL_ENDPOINT,
-            params=params,
-            timeout=REQUEST_TIMEOUT,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        for rec in data:
-            title = rec.get("Title", "Untitled recall")
-            desc = rec.get("Description", "") or ""
-            date = rec.get("RecallDate", "")
-            url = rec.get("URL", "")
-            manufacturers = ", ".join(
-                m.get("Name", "") for m in rec.get("Manufacturers", [])
-            ) if rec.get("Manufacturers") else ""
-            text_blob = f"{title} {desc} {manufacturers}"
-            results.append({
-                "source": "CPSC Recall (API)",
-                "date": date,
-                "headline": title,
-                "detail": (desc or "")[:300],
-                "url": url,
-                "tags": tag_signals(text_blob, watchlist),
-            })
-    except Exception as e:
-        log(f"CPSC API fetch failed: {e}")
-    return results
 
-
-def fetch_cpsc_csv(start, end, watchlist, session):
-    """
-    Fallback: download the official CPSC recalls CSV and filter locally.
-    CPSC says its downloadable recall data updates weekly.
-    """
-    results = []
     try:
-        resp = session.get(CPSC_CSV_URL, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
-        # Parse CSV
-        content = resp.content.decode("utf-8")
-        reader = csv.DictReader(io.StringIO(content))
-        for row in reader:
-            # Try to parse recall date
-            recall_date_raw = row.get("RecallDate", "").strip()
-            if not recall_date_raw:
-                continue
-            try:
-                # CPSC CSV dates are typically MM/DD/YYYY
-                recall_date = dt.datetime.strptime(recall_date_raw, "%m/%d/%Y").date()
-            except ValueError:
+        # Query on RecallDate (newly issued) and LastPublishDate (existing
+        # recalls that were updated/republished this week — e.g. an
+        # expanded product list) separately, then dedupe. A recall issued
+        # weeks ago but materially updated this week is exactly the kind
+        # of "story getting worse" signal this scanner exists to catch.
+        date_param_pairs = [
+            ("RecallDateStart", "RecallDateEnd"),
+            ("LastPublishDateStart", "LastPublishDateEnd"),
+        ]
+        for start_key, end_key in date_param_pairs:
+            params = {
+                start_key: start.strftime("%Y-%m-%d"),
+                end_key: end.strftime("%Y-%m-%d"),
+                "format": "json",
+            }
+            resp = SESSION.get(CPSC_RECALL_ENDPOINT, params=params, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            data = resp.json()
+            for rec in data:
+                recall_no = rec.get("RecallNumber") or rec.get("RecallID") or rec.get("Title")
+                if recall_no in seen_recall_numbers:
+                    continue
+                seen_recall_numbers.add(recall_no)
+                results.append(_record_to_result(rec))
+    except Exception as e:
+        log_error("CPSC Recall API", e)
+        log("CPSC: falling back to bulk CSV export...")
+        try:
+            resp = SESSION.get(CPSC_RECALL_CSV_URL, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            reader = csv.DictReader(io.StringIO(resp.text))
+            for row in reader:
+                raw_date = (row.get("Date") or "").strip()
                 try:
-                    recall_date = dt.datetime.strptime(recall_date_raw, "%Y-%m-%d").date()
+                    rec_date = dt.datetime.strptime(raw_date, "%B %d, %Y").date()
                 except ValueError:
                     continue
-            if not (start <= recall_date <= end):
-                continue
-
-            title = row.get("Title", "Untitled recall").strip()
-            desc = row.get("Description", "").strip()
-            url = row.get("URL", "").strip()
-            manufacturers = row.get("Manufacturers", "").strip()
-            text_blob = f"{title} {desc} {manufacturers}"
-            results.append({
-                "source": "CPSC Recall (CSV fallback)",
-                "date": recall_date_raw,
-                "headline": title,
-                "detail": (desc or "")[:300],
-                "url": url,
-                "tags": tag_signals(text_blob, watchlist),
-            })
-    except Exception as e:
-        log(f"CPSC CSV fallback fetch failed: {e}")
+                if not (start <= rec_date <= end):
+                    continue
+                recall_no = row.get("Recall Number") or row.get("Recall Heading")
+                if recall_no in seen_recall_numbers:
+                    continue
+                seen_recall_numbers.add(recall_no)
+                title = row.get("Recall Heading", "Untitled recall")
+                desc = row.get("Description", "") or ""
+                text_blob = f"{title} {desc}"
+                results.append({
+                    "source": "CPSC Recall (CSV fallback)",
+                    "date": rec_date.isoformat(),
+                    "headline": title,
+                    "detail": desc[:300],
+                    "url": "https://www.cpsc.gov/Recalls",
+                    "tags": tag_signals(text_blob, watchlist),
+                })
+            log(f"CPSC CSV fallback: parsed {len(results)} in-window records")
+        except Exception as e2:
+            log_error("CPSC Recall CSV fallback", e2)
     return results
-
-
-def fetch_cpsc_recalls(start, end, watchlist):
-    """
-    CPSC pipeline:
-    1. Try JSON API with descriptive headers + LastPublishDate filter
-    2. Fallback to official downloadable CSV
-    """
-    session = _make_session()
-
-    log("Fetching CPSC recalls via API...")
-    api_results = fetch_cpsc_api(start, end, watchlist, session)
-    if api_results:
-        log(f"CPSC API returned {len(api_results)} records")
-        return api_results
-
-    log("CPSC API returned no results or failed; falling back to CSV...")
-    csv_results = fetch_cpsc_csv(start, end, watchlist, session)
-    if csv_results:
-        log(f"CPSC CSV fallback returned {len(csv_results)} records")
-    else:
-        log("CPSC CSV fallback also returned no results")
-    return csv_results
 
 
 # --------------------------------------------------------------------------
@@ -490,7 +410,7 @@ def fetch_sec_8k_litigation(start, end, watchlist):
                 })
             time.sleep(0.3)  # be polite to EDGAR's rate limits
         except Exception as e:
-            log(f"SEC fetch failed for keyword '{kw}': {e}")
+            log_error(f"SEC 8-K ({kw})", e)
     if skipped_exhibit_count:
         log(f"SEC: skipped {skipped_exhibit_count} exhibit-only hits (Fix #2 filter)")
     return results
@@ -526,7 +446,7 @@ def fetch_rss(start, end, watchlist):
                     "tags": tag_signals(text_blob, watchlist),
                 })
         except Exception as e:
-            log(f"RSS fetch failed for {label}: {e}")
+            log_error(label, e)
     return results
 
 
@@ -564,6 +484,29 @@ def write_markdown(all_results, start, end, out_path):
     log(f"Digest written to {out_path}")
 
 
+def write_json(all_results, start, end, out_path):
+    """Structured output for the dashboard — same data as the markdown
+    digest, plus a source-health summary so the UI can show what broke."""
+    watchlist_hits = [r for r in all_results if any(t.startswith("WATCHLIST:") for t in r["tags"])]
+    source_counts = {}
+    for r in all_results:
+        source_counts[r["source"]] = source_counts.get(r["source"], 0) + 1
+
+    payload = {
+        "generated_at": dt.datetime.now().isoformat(),
+        "window_start": start.isoformat(),
+        "window_end": end.isoformat(),
+        "total_candidates": len(all_results),
+        "watchlist_hit_count": len(watchlist_hits),
+        "source_counts": source_counts,
+        "errors": RUN_ERRORS,
+        "candidates": sorted(all_results, key=lambda r: r["date"], reverse=True),
+    }
+    with open(out_path, "w") as f:
+        json.dump(payload, f, indent=2)
+    log(f"JSON digest written to {out_path}")
+
+
 def append_csv_log(all_results, csv_path):
     file_exists = os.path.isfile(csv_path)
     with open(csv_path, "a", newline="") as f:
@@ -589,20 +532,22 @@ def main():
     parser = argparse.ArgumentParser(description="Weekly crisis-signal scanner")
     parser.add_argument("--days", type=int, default=7, help="Lookback window in days")
     parser.add_argument("--out", default="digest.md", help="Output markdown path")
+    parser.add_argument("--json", default="digest.json", help="Output JSON path (for the dashboard)")
     parser.add_argument("--csv", default="candidates_log.csv", help="Running CSV log path")
     parser.add_argument("--watch", default=",".join(DEFAULT_WATCHLIST),
                          help="Comma-separated standing watchlist, e.g. 'Apple,Foxconn'")
     parser.add_argument("--skip-sec", action="store_true", help="Skip SEC EDGAR (slower, rate-limited)")
     args = parser.parse_args()
 
+    RUN_ERRORS.clear()
     watchlist = [w.strip() for w in args.watch.split(",") if w.strip()]
     start, end = date_window(args.days)
     log(f"Scanning {start} to {end} | watchlist: {watchlist}")
 
     all_results = []
-    log("Fetching FDA recalls (RSS alerts + openFDA API)...")
+    log("Fetching FDA enforcement reports...")
     all_results += fetch_fda_recalls(start, end, watchlist)
-    log("Fetching CPSC recalls (API + CSV fallback)...")
+    log("Fetching CPSC recalls...")
     all_results += fetch_cpsc_recalls(start, end, watchlist)
     if not args.skip_sec:
         log("Fetching SEC EDGAR full-text search (this is the slow one)...")
@@ -611,7 +556,10 @@ def main():
     all_results += fetch_rss(start, end, watchlist)
 
     log(f"Total candidates pulled: {len(all_results)}")
+    if RUN_ERRORS:
+        log(f"{len(RUN_ERRORS)} source(s) had errors this run (see 'errors' in {args.json})")
     write_markdown(all_results, start, end, args.out)
+    write_json(all_results, start, end, args.json)
     append_csv_log(all_results, args.csv)
 
 

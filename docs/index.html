@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signal Desk — Crisis Scan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0c0f12;
+    --surface: #15191d;
+    --surface-raised: #1a1f24;
+    --hairline: #262c32;
+    --text: #ece8e1;
+    --text-muted: #8b9098;
+    --text-faint: #5b6067;
+    --amber: #ffb020;
+    --amber-dim: #4a3a18;
+    --cyan: #4fd1c5;
+    --danger: #e5484d;
+    --radius: 3px;
+  }
+  *{ box-sizing: border-box; }
+  html{ scroll-behavior: smooth; }
+  body{
+    margin:0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+  }
+  ::selection{ background: var(--amber); color: #17130a; }
+
+  a{ color: var(--cyan); text-decoration: none; }
+  a:hover{ text-decoration: underline; }
+  a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible{
+    outline: 2px solid var(--amber);
+    outline-offset: 2px;
+  }
+
+  .mono{ font-family: 'IBM Plex Mono', monospace; }
+
+  /* ---------- Status strip ---------- */
+  .statusbar{
+    border-bottom: 1px solid var(--hairline);
+    background: linear-gradient(180deg, #101317, #0c0f12);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .statusbar-inner{
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 18px 24px 16px;
+  }
+  .brand-row{
+    display:flex;
+    align-items:baseline;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .brand{
+    display:flex;
+    align-items:center;
+    gap: 10px;
+  }
+  .live-dot{
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--amber);
+    box-shadow: 0 0 0 0 rgba(255,176,32,.6);
+    animation: pulse 2.4s ease-out infinite;
+    flex-shrink: 0;
+  }
+  @keyframes pulse{
+    0%   { box-shadow: 0 0 0 0 rgba(255,176,32,.55); }
+    70%  { box-shadow: 0 0 0 7px rgba(255,176,32,0); }
+    100% { box-shadow: 0 0 0 0 rgba(255,176,32,0); }
+  }
+  @media (prefers-reduced-motion: reduce){
+    .live-dot{ animation: none; }
+    *{ scroll-behavior: auto !important; animation-duration: .001s !important; }
+  }
+  h1.wordmark{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: .01em;
+    margin: 0;
+  }
+  .wordmark .accent{ color: var(--amber); }
+  .tagline{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-faint);
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    margin-left: 2px;
+  }
+  .run-link{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    border: 1px solid var(--hairline);
+    padding: 7px 12px;
+    border-radius: var(--radius);
+    color: var(--text);
+    white-space: nowrap;
+    transition: border-color .15s, color .15s;
+  }
+  .run-link:hover{
+    border-color: var(--amber);
+    color: var(--amber);
+    text-decoration: none;
+  }
+  .run-link::before{ content: "▶ "; color: var(--amber); }
+
+  .stat-row{
+    display:flex;
+    gap: 22px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+  .stat-row b{
+    color: var(--text);
+    font-weight: 600;
+  }
+  .stat-row .flag{ color: var(--amber); }
+  .stat-row .err{ color: #d19a4a; }
+
+  /* ---------- Layout ---------- */
+  main{ max-width: 920px; margin: 0 auto; padding: 28px 24px 80px; }
+
+  .controls{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 22px;
+  }
+  .chips{ display:flex; gap: 8px; flex-wrap: wrap; }
+  .chip{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    padding: 6px 11px;
+    border-radius: 999px;
+    border: 1px solid var(--hairline);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all .15s;
+  }
+  .chip:hover{ border-color: var(--text-faint); color: var(--text); }
+  .chip.active{ border-color: var(--cyan); color: var(--cyan); background: rgba(79,209,197,.08); }
+
+  .right-controls{ display:flex; gap: 10px; align-items:center; }
+  select, input[type="search"]{
+    background: var(--surface);
+    border: 1px solid var(--hairline);
+    color: var(--text);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    padding: 7px 10px;
+    border-radius: var(--radius);
+  }
+  input[type="search"]{ width: 180px; }
+  input[type="search"]::placeholder{ color: var(--text-faint); }
+
+  /* ---------- Watchlist ---------- */
+  .section-label{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin: 0 0 10px 2px;
+  }
+  .watchlist-wrap{ margin-bottom: 32px; }
+  .watchlist-card{
+    border: 1px solid var(--amber-dim);
+    background: linear-gradient(180deg, rgba(255,176,32,.06), transparent 40%), var(--surface-raised);
+    border-left: 3px solid var(--amber);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    margin-bottom: 8px;
+  }
+  .watchlist-card .headline{ color: var(--amber); }
+
+  /* ---------- Dispatch feed ---------- */
+  .dispatch{
+    display: grid;
+    grid-template-columns: 168px 1fr;
+    gap: 14px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--hairline);
+    opacity: 0;
+    animation: rise .35s ease forwards;
+  }
+  .dispatch:last-child{ border-bottom: none; }
+  @keyframes rise{ from{ opacity:0; transform: translateY(4px);} to{ opacity:1; transform: translateY(0);} }
+
+  .dispatch-meta{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-faint);
+    line-height: 1.6;
+  }
+  .dispatch-meta .date{ color: var(--text-muted); display:block; }
+  .dispatch-meta .source-tag{
+    display:inline-block;
+    color: var(--cyan);
+    margin-top: 2px;
+  }
+  .dispatch-body .headline{
+    font-size: 14.5px;
+    font-weight: 500;
+    line-height: 1.45;
+    margin: 0 0 4px;
+  }
+  .dispatch-body .headline a{ color: inherit; }
+  .dispatch-body .headline a:hover{ color: var(--cyan); }
+  .dispatch-body .detail{
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin: 0 0 6px;
+  }
+  .tag-row{ display:flex; gap: 6px; flex-wrap: wrap; }
+  .tag{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: .03em;
+    padding: 2px 7px;
+    border-radius: 999px;
+    border: 1px solid var(--hairline);
+    color: var(--text-faint);
+  }
+  .tag.watchlist-tag{ border-color: var(--amber-dim); color: var(--amber); }
+  .tag.danger-tag{ border-color: #4a2022; color: var(--danger); }
+
+  @media (max-width: 620px){
+    .dispatch{ grid-template-columns: 1fr; gap: 4px; }
+    .dispatch-meta{ display:flex; gap: 10px; }
+  }
+
+  /* ---------- Empty / loading ---------- */
+  .empty-state{
+    text-align:center;
+    padding: 60px 20px;
+    color: var(--text-faint);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+  }
+
+  /* ---------- Footer / errors ---------- */
+  footer{
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 0 24px 60px;
+  }
+  details.errors{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-faint);
+    border-top: 1px solid var(--hairline);
+    padding-top: 14px;
+  }
+  details.errors summary{ cursor: pointer; color: #d19a4a; }
+  details.errors ul{ margin: 10px 0 0; padding-left: 18px; }
+  details.errors li{ margin-bottom: 4px; }
+
+  .demo-banner{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--bg);
+    background: var(--amber);
+    text-align: center;
+    padding: 6px 10px;
+  }
+</style>
+</head>
+<body>
+
+<div id="demo-banner" class="demo-banner" hidden>
+  showing sample data — this preview isn't reading a live scan yet (see setup notes in README)
+</div>
+
+<div class="statusbar">
+  <div class="statusbar-inner">
+    <div class="brand-row">
+      <div class="brand">
+        <span class="live-dot" aria-hidden="true"></span>
+        <div>
+          <h1 class="wordmark">SIGNAL<span class="accent">DESK</span></h1>
+        </div>
+        <span class="tagline">crisis intelligence · weekly wire</span>
+      </div>
+      <a id="run-link" class="run-link mono" href="#" target="_blank" rel="noopener">Run scan</a>
+    </div>
+    <div class="stat-row mono" id="stat-row">
+      <span>loading…</span>
+    </div>
+  </div>
+</div>
+
+<main>
+
+  <div id="watchlist-wrap" class="watchlist-wrap" hidden>
+    <p class="section-label">⚠ Watchlist hits</p>
+    <div id="watchlist-list"></div>
+  </div>
+
+  <div class="controls">
+    <div class="chips" id="source-chips"></div>
+    <div class="right-controls">
+      <select id="history-select" title="Load a past scan"></select>
+      <input type="search" id="search-input" placeholder="Filter headlines…">
+    </div>
+  </div>
+
+  <p class="section-label" id="feed-label">This week's candidates</p>
+  <div id="feed"></div>
+  <div id="empty-state" class="empty-state" hidden>No candidates match this filter.</div>
+
+</main>
+
+<footer>
+  <details class="errors" id="errors-block" hidden>
+    <summary id="errors-summary">source issues this run</summary>
+    <ul id="errors-list"></ul>
+  </details>
+</footer>
+
+<script>
+// ---------------------------------------------------------------------
+// CONFIG — edit these two lines once you've pushed this to your own repo.
+// ---------------------------------------------------------------------
+const GITHUB_REPO = "YOUR-USERNAME/YOUR-REPO";     // e.g. "scalestrategy/crisis-scan"
+const DATA_DIR = "./data";                          // relative to this file when hosted on Pages
+// ---------------------------------------------------------------------
+
+document.getElementById("run-link").href =
+  `https://github.com/${GITHUB_REPO}/actions/workflows/crisis-scan.yml`;
+
+// Sample data so this page still looks alive when previewed standalone,
+// before it's wired up to a real repo + Pages deployment.
+const DEMO_DATA = {
+  generated_at: "2026-07-21T09:03:00",
+  window_start: "2026-07-14",
+  window_end: "2026-07-21",
+  total_candidates: 4,
+  watchlist_hit_count: 1,
+  source_counts: { "Marler Blog (food safety plaintiff bar)": 2, "Top Class Actions": 1 },
+  errors: [{ source: "SEC 8-K (subpoena)", error: "demo data — no live errors" }],
+  candidates: [
+    {
+      source: "Top Class Actions",
+      date: "2026-07-21",
+      headline: "Apple faces BIPA class action over alleged Face ID privacy violations",
+      detail: "New Illinois biometric privacy suit targets Face ID and Attention-aware features.",
+      url: "https://topclassactions.com/",
+      tags: ["class-action", "WATCHLIST:Apple"]
+    },
+    {
+      source: "Marler Blog (food safety plaintiff bar)",
+      date: "2026-07-20",
+      headline: "One Test. No Apology. Same Recall. And More Than 10,000 Sick with Cyclospora",
+      detail: "Case count has climbed sharply since the original recall notice.",
+      url: "https://www.marlerblog.com/",
+      tags: ["fatality-linked"]
+    },
+    {
+      source: "Marler Blog (food safety plaintiff bar)",
+      date: "2026-07-18",
+      headline: "FDA found cyclospora on Taylor Farms lettuce at the border",
+      detail: "Contradicts the company's earlier claim that the implicated farm was a tiny share of supply.",
+      url: "https://www.marlerblog.com/",
+      tags: []
+    },
+    {
+      source: "Top Class Actions",
+      date: "2026-07-17",
+      headline: "Ford recalls over 741,000 SUVs and pickups due to rollaway risk",
+      detail: "NHTSA-linked recall covering multiple model years.",
+      url: "https://topclassactions.com/",
+      tags: ["multi-state"]
+    }
+  ]
+};
+
+let currentData = null;
+let activeSource = null;
+
+async function loadJSON(path){
+  const res = await fetch(path, { cache: "no-store" });
+  if(!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return res.json();
+}
+
+function fmtDate(iso){
+  if(!iso) return "—";
+  const d = new Date(iso + (iso.length === 10 ? "T00:00:00" : ""));
+  if(isNaN(d)) return iso;
+  return d.toLocaleDateString("en-US", { month: "2-digit", day: "2-digit" }) + "." +
+         String(d.getFullYear()).slice(2);
+}
+
+function sourceCode(source){
+  // Turn a long source label into a short wire-style tag, e.g.
+  // "SEC 8-K (Item 8.01: subpoena)" -> "SEC//8-K"
+  if(source.startsWith("SEC")) return "SEC//8-K";
+  if(source.startsWith("FDA")) return "FDA//RECALL";
+  if(source.startsWith("CPSC")) return "CPSC//RECALL";
+  if(source.includes("Marler")) return "MARLER//WIRE";
+  if(source.includes("Top Class")) return "TCA//WIRE";
+  if(source.includes("ClassAction")) return "CAO//WIRE";
+  return source.split(" ")[0].toUpperCase() + "//WIRE";
+}
+
+function render(data){
+  currentData = data;
+  renderStatus(data);
+  renderChips(data);
+  renderWatchlist(data);
+  renderFeed();
+  renderErrors(data);
+}
+
+function renderStatus(data){
+  const el = document.getElementById("stat-row");
+  const errCount = (data.errors || []).length;
+  el.innerHTML = `
+    <span>window <b>${data.window_start}</b> → <b>${data.window_end}</b></span>
+    <span><b>${data.total_candidates}</b> candidates</span>
+    <span class="flag">${data.watchlist_hit_count} watchlist hit${data.watchlist_hit_count === 1 ? "" : "s"}</span>
+    ${errCount ? `<span class="err">${errCount} source issue${errCount === 1 ? "" : "s"}</span>` : `<span>all sources ok</span>`}
+    <span>generated ${new Date(data.generated_at).toLocaleString("en-US", {month:"short", day:"numeric", hour:"2-digit", minute:"2-digit"})}</span>
+  `;
+}
+
+function renderChips(data){
+  const wrap = document.getElementById("source-chips");
+  const sources = Object.keys(data.source_counts || {});
+  if(sources.length === 0){
+    wrap.innerHTML = "";
+    return;
+  }
+  const allChip = `<button class="chip ${activeSource === null ? "active" : ""}" data-source="">All (${data.total_candidates})</button>`;
+  const chips = sources.map(s =>
+    `<button class="chip ${activeSource === s ? "active" : ""}" data-source="${s}">${sourceCode(s)} (${data.source_counts[s]})</button>`
+  ).join("");
+  wrap.innerHTML = allChip + chips;
+  wrap.querySelectorAll(".chip").forEach(btn => {
+    btn.addEventListener("click", () => {
+      activeSource = btn.dataset.source || null;
+      renderChips(currentData);
+      renderFeed();
+    });
+  });
+}
+
+function renderWatchlist(data){
+  const wrap = document.getElementById("watchlist-wrap");
+  const list = document.getElementById("watchlist-list");
+  const hits = (data.candidates || []).filter(c => (c.tags || []).some(t => t.startsWith("WATCHLIST:")));
+  if(hits.length === 0){
+    wrap.hidden = true;
+    return;
+  }
+  wrap.hidden = false;
+  list.innerHTML = hits.map(c => `
+    <div class="watchlist-card">
+      <p class="headline"><a href="${c.url || '#'}" target="_blank" rel="noopener">${escapeHTML(c.headline)}</a></p>
+      ${c.detail ? `<p class="detail" style="color:var(--text-muted); font-size:13px; margin:0;">${escapeHTML(c.detail)}</p>` : ""}
+    </div>
+  `).join("");
+}
+
+function renderFeed(){
+  const feed = document.getElementById("feed");
+  const empty = document.getElementById("empty-state");
+  const searchTerm = (document.getElementById("search-input").value || "").toLowerCase();
+
+  let items = (currentData.candidates || []);
+  if(activeSource) items = items.filter(c => c.source === activeSource);
+  if(searchTerm) items = items.filter(c =>
+    (c.headline || "").toLowerCase().includes(searchTerm) ||
+    (c.detail || "").toLowerCase().includes(searchTerm)
+  );
+
+  if(items.length === 0){
+    feed.innerHTML = "";
+    empty.hidden = false;
+    return;
+  }
+  empty.hidden = true;
+
+  feed.innerHTML = items.map((c, i) => {
+    const isWatchlist = (c.tags || []).some(t => t.startsWith("WATCHLIST:"));
+    const isDanger = (c.tags || []).includes("fatality-linked");
+    const tagChips = (c.tags || []).map(t => {
+      if(t.startsWith("WATCHLIST:")) return `<span class="tag watchlist-tag">${escapeHTML(t.replace("WATCHLIST:", "★ "))}</span>`;
+      if(t === "fatality-linked") return `<span class="tag danger-tag">${t}</span>`;
+      return `<span class="tag">${escapeHTML(t)}</span>`;
+    }).join("");
+    return `
+      <div class="dispatch" style="animation-delay:${Math.min(i * 25, 300)}ms">
+        <div class="dispatch-meta">
+          <span class="date">${fmtDate(c.date)}</span>
+          <span class="source-tag">${sourceCode(c.source)}</span>
+        </div>
+        <div class="dispatch-body">
+          <p class="headline" style="${isWatchlist ? 'color:var(--amber)' : ''}">
+            <a href="${c.url || '#'}" target="_blank" rel="noopener">${escapeHTML(c.headline)}</a>
+          </p>
+          ${c.detail ? `<p class="detail">${escapeHTML(c.detail)}</p>` : ""}
+          ${tagChips ? `<div class="tag-row">${tagChips}</div>` : ""}
+        </div>
+      </div>
+    `;
+  }).join("");
+}
+
+function renderErrors(data){
+  const block = document.getElementById("errors-block");
+  const list = document.getElementById("errors-list");
+  const summary = document.getElementById("errors-summary");
+  const errors = data.errors || [];
+  if(errors.length === 0){
+    block.hidden = true;
+    return;
+  }
+  block.hidden = false;
+  summary.textContent = `${errors.length} source issue${errors.length === 1 ? "" : "s"} this run`;
+  list.innerHTML = errors.map(e => `<li><b>${escapeHTML(e.source)}</b> — ${escapeHTML(e.error)}</li>`).join("");
+}
+
+function escapeHTML(str){
+  const div = document.createElement("div");
+  div.textContent = str == null ? "" : String(str);
+  return div.innerHTML;
+}
+
+async function loadHistoryIndex(){
+  const select = document.getElementById("history-select");
+  try{
+    const index = await loadJSON(`${DATA_DIR}/history/index.json`);
+    if(!Array.isArray(index) || index.length === 0) throw new Error("empty history");
+    select.innerHTML = index.map((entry, i) =>
+      `<option value="${entry.file}" ${i === 0 ? "selected" : ""}>${entry.window_start} → ${entry.window_end} (${entry.total_candidates})</option>`
+    ).join("");
+    select.hidden = false;
+  }catch(e){
+    select.hidden = true;
+  }
+  select.addEventListener("change", async () => {
+    try{
+      const data = await loadJSON(`${DATA_DIR}/history/${select.value}`);
+      render(data);
+    }catch(e){
+      console.error(e);
+    }
+  });
+}
+
+async function init(){
+  document.getElementById("search-input").addEventListener("input", renderFeed);
+  await loadHistoryIndex();
+  try{
+    const data = await loadJSON(`${DATA_DIR}/digest.json`);
+    render(data);
+  }catch(e){
+    document.getElementById("demo-banner").hidden = false;
+    render(DEMO_DATA);
+  }
+}
+
+init();
+</script>
+
+</body>
+</html>
