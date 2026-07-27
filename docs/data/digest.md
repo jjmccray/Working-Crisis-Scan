@@ -1,6 +1,6 @@
 # Crisis Scan Digest — 2026-07-20 to 2026-07-27
 
-*Generated 2026-07-27 13:41*
+*Generated 2026-07-27 17:59*
 
 ## ⚠️ Watchlist hits
 
@@ -8,7 +8,7 @@
 - **[Top Class Actions]** Gaming addiction: Apple Arcade lawsuit investigation (2026-07-22) — https://topclassactions.com/lawsuit-settlements/investigations/apple-arcade-addicting-games-class-action-lawsuit-investigation/
 - **[Top Class Actions]** Apple faces BIPA class action over alleged Face ID privacy violations (2026-07-21) — https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-faces-bipa-class-action-over-alleged-face-id-privacy-violations/
 
-## All candidates (62 total)
+## All candidates (67 total)
 
 ### CPSC Recall (16)
 
@@ -108,8 +108,23 @@
   - 2026-07-20 — https://www.sec.gov/Archives/edgar/data/1077183/000107718326000045/neo-20260720.htm
   - 0001077183-26-000045
 
-### Top Class Actions (34)
+### Top Class Actions (39)
 
+- **Meta class actions alleging pump-and-dump ad scheme dismissed** `class-action`
+  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-class-actions-alleging-pump-and-dump-ad-scheme-dismissed/
+  - <p>A California federal judge has dismissed two class action lawsuits alleging Meta Platforms used its artificial intelligence tools to enable pump-and-dump schemes that caused nearly $30 million in investor losses.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/
+- **$450K Stanford Federal Credit Union NSF fee class action settlement** `class-action`
+  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/450k-stanford-federal-credit-union-nsf-fee-class-action-settlement/
+  - <p>Stanford Federal Credit Union (SFCU) agreed to a $450,000 class action settlement to resolve claims challenging its overdraft and NSF fee policies.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/450k-stanford-federal-credit-union-nsf-f
+- **$1.5B Anthropic settlement resolves AI training lawsuit** `class-action`
+  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/1-5b-anthropic-settlement-resolves-ai-training-lawsuit/
+  - <p>A federal judge has granted final approval to a $1.5 billion class action settlement resolving claims brought against Anthropic PBC over its use of pirated books to train Claude, the company's AI chatbot.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-
+- **Consumers sue Taylor Farms, Taco Bell over cyclospora outbreak** `class-action`
+  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-sue-taylor-farms-taco-bell-over-cyclospora-outbreak/
+  - <p>A new class action lawsuit alleges Taylor Farms sold lettuce and leafy greens contaminated with cyclospora, sickening consumers across various states during a summer outbreak.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-sue-taylor-far
+- **Evenflo recalls over 59K child car seats due to headrest safety concerns** `class-action`
+  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/evenflo-recalls-over-59k-child-car-seats-due-to-headrest-safety-concerns/
+  - <p>Evenflo has issued a recall for more than 59,000 Reo by Revolve360 child car seats due to a potential safety hazard involving the headrest, which may shift during a crash.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/evenflo-recalls-over-59k-chi
 - **Taylor Farms recalls iceberg lettuce amid cyclospora outbreak tied to Taco Bell** `multi-state, class-action`
   - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/taylor-farms-recalls-iceberg-lettuce-amid-cyclospora-outbreak-tied-to-taco-bell/
   - <p>Taylor Farms de Mexico announced on July 17 that it is pulling all iceberg lettuce grown in central Mexico from U.S. shelves and food service supply chains after health officials linked the product to a multistate Cyclospora outbreak.... <a class="simple-btn-link" href="https://topclassactions.co

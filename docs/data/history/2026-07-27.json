@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-27T13:41:31.031482",
+  "generated_at": "2026-07-27T17:59:38.444492",
   "window_start": "2026-07-20",
   "window_end": "2026-07-27",
-  "total_candidates": 62,
+  "total_candidates": 67,
   "watchlist_hit_count": 3,
   "source_counts": {
     "CPSC Recall": 16,
     "SEC 8-K (Item 8.01: internal investigation)": 2,
     "Marler Blog (food safety plaintiff bar)": 10,
-    "Top Class Actions": 34
+    "Top Class Actions": 39
   },
   "errors": [],
   "candidates": [
@@ -20,6 +20,56 @@
       "url": "https://www.marlerblog.com/case-news/phyllis-entis-asked-why-cdcs-cyclospora-curve-has-two-peaks-a-parasite-that-cannot-spread-person-to-person-leaves-questions/",
       "tags": [
         "multi-state"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-07-27",
+      "headline": "Meta class actions alleging pump-and-dump ad scheme dismissed",
+      "detail": "<p>A California federal judge has dismissed two class action lawsuits alleging Meta Platforms used its artificial intelligence tools to enable pump-and-dump schemes that caused nearly $30 million in investor losses.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-class-actions-alleging-pump-and-dump-ad-scheme-dismissed/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-07-27",
+      "headline": "$450K Stanford Federal Credit Union NSF fee class action settlement",
+      "detail": "<p>Stanford Federal Credit Union (SFCU) agreed to a $450,000 class action settlement to resolve claims challenging its overdraft and NSF fee policies.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/450k-stanford-federal-credit-union-nsf-f",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/450k-stanford-federal-credit-union-nsf-fee-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-07-27",
+      "headline": "$1.5B Anthropic settlement resolves AI training lawsuit",
+      "detail": "<p>A federal judge has granted final approval to a $1.5 billion class action settlement resolving claims brought against Anthropic PBC over its use of pirated books to train Claude, the company's AI chatbot.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/1-5b-anthropic-settlement-resolves-ai-training-lawsuit/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-07-27",
+      "headline": "Consumers sue Taylor Farms, Taco Bell over cyclospora outbreak",
+      "detail": "<p>A new class action lawsuit alleges Taylor Farms sold lettuce and leafy greens contaminated with cyclospora, sickening consumers across various states during a summer outbreak.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-sue-taylor-far",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-sue-taylor-farms-taco-bell-over-cyclospora-outbreak/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-07-27",
+      "headline": "Evenflo recalls over 59K child car seats due to headrest safety concerns",
+      "detail": "<p>Evenflo has issued a recall for more than 59,000 Reo by Revolve360 child car seats due to a potential safety hazard involving the headrest, which may shift during a crash.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/evenflo-recalls-over-59k-chi",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/evenflo-recalls-over-59k-child-car-seats-due-to-headrest-safety-concerns/",
+      "tags": [
+        "class-action"
       ]
     },
     {
