@@ -1,14 +1,14 @@
-# Crisis Scan Digest — 2026-07-27 to 2026-08-03
+# Crisis Scan Digest — 2026-07-29 to 2026-08-05
 
-*Generated 2026-08-03 18:26*
+*Generated 2026-08-05 20:58*
 
 ## ⚠️ Watchlist hits
 
 - **[CPSC Recall]** Trsmima Zipline Kits and Zipline Spring Brakes Recalled Due to Fall and Collision Hazards; Manufactured by Trsmima (2026-07-30T00:00:00) — https://www.cpsc.gov/Recalls/2026/Trsmima-Zipline-Kits-and-Zipline-Spring-Brakes-Recalled-Due-to-Fall-and-Collision-Hazards-Manufactured-by-Trsmima
 
-## All candidates (68 total)
+## All candidates (158 total)
 
-### CPSC Recall (21)
+### CPSC Recall (26)
 
 - **15-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Enhomee-Direct** `fatality-linked`
   - 2026-07-30T00:00:00 — https://www.cpsc.gov/Recalls/2026/15-Drawer-Dressers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units-Sold-on-Amazon-by-Enhomee-Direct
@@ -36,7 +36,7 @@
   - This recall involves World Class Fireworks "Skull Strobe" rockets. The rockets are mounted on a wooden stick and come in a black box with a picture of a skull, the brand name, the product name and a warning label. The SKU code 1004351 is found near the bottom of the product packaging.
 - **Joyin Expands Recall of Sloosh Dive Sticks Due to Risk of Serious Injury from Impalement; Violate Federal Dive Sticks Ban**
   - 2026-07-30T00:00:00 — https://www.cpsc.gov/Recalls/2026/Joyin-Expands-Recall-of-Sloosh-Dive-Sticks-Due-to-Risk-of-Serious-Injury-from-Impalement-Violate-Federal-Dive-Sticks-Ban
-  - This recall expansion involves Sloosh dive sticks, contained in packages of Sloosh water toys, model 40041(previously recalled) and models 40003 and 16154. The model numbers 40041 and 40003 are printed on the back of the box of Sloosh water toys, next to the bar code, and on top of one end of the di
+  - This recall expansion involves Sloosh dive sticks, contained in packages of Sloosh water toys, model 40041 (previously recalled) and models 40003 and 16154. The model numbers 40041 and 40003 are printed on the back of the box of Sloosh water toys, next to the bar code, and on top of one end of the d
 - **Mangohood Direct Kids Kitchen Standing Towers Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Hangzhou Xinyanchuangxin** `fatality-linked`
   - 2026-07-30T00:00:00 — https://www.cpsc.gov/Recalls/2026/Mangohood-Direct-Kids-Kitchen-Standing-Towers-Recalled-Due-to-Risk-of-Serious-Injury-and-Death-from-Entrapment-and-Fall-Hazards-Imported-by-Hangzhou-Xinyanchuangxin
   - This recall involves Mangohood Direct-branded children's tower stools, model LT003. The tower stools were sold in natural bamboo, gray, and white, and measure about 35 inches tall by 16 inches wide and 18 inches deep.
@@ -55,6 +55,27 @@
 - **Woodure Toddler Kitchen Step Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Shenzhen Muqiqu Creative Development** `fatality-linked`
   - 2026-07-30T00:00:00 — https://www.cpsc.gov/Recalls/2026/Woodure-Toddler-Kitchen-Step-Stools-Recalled-Due-to-Risk-of-Serious-Injury-and-Death-from-Entrapment-and-Fall-Hazards-Imported-by-Shenzhen-Muqiqu-Creative-Development
   - This recall involves Woodure-branded children's tower kitchen step stools, models WD1764, WD1357, and WD1720. The tower stools were sold in plywood and measure 18 inches deep by 16.9 inches wide by 34.6 inches tall. The model number is engraved on the underside of the bottom step.
+- **CPSC, Vaid Enterprises Announce Recall of "BIC" Cigarette Lighters**
+  - 2000-09-14T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Vaid-Enterprises-Announce-Recall-of-BIC-Cigarette-Lighters
+  - The disposable cigarette lighters being recalled are oval-tube- shaped "BIC" and mini- "BIC" brand lighters. The lighters have a green, red, blue, black or yellow body and a metal top. "BIC" and "made in France" is imprinted into the metal top of the lighter. A label on the lighter reads, "WARNING K
+- **CPSC, Kmart Announce Recall of Children's Swim Masks**
+  - 2000-08-08T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Kmart-Announce-Recall-of-Childrens-Swim-Masks
+  - The "Splash Club" Aquatic Child's Swim Mask is made of either purple, aqua or lime-green plastic. It has a clear glass lens and an adjustable head strap. "Tempered Splash Club Glass" is written on the mask. The mask is packaged in clear plastic with a cardboard insert labeled "Splash Club Aquatic Ch
+- **CPSC, Safety 1st Announce Recall to Repair Baby Walkers**
+  - 2000-08-08T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Safety-1st-Announce-Recall-to-Repair-Baby-Walkers
+  - The Mobile "4 Wheelin" Walker is intended for babies 6 months old until the age they begin to walk. The walker has a green body, and includes a three-spoke steering wheel with squeaking horn, clicking keys, two rearview mirrors and a phone with electronic ring. Model number 45701, 45701A or 45701B i
+- **CPSC, Appliance Co. of America LLC Announce Recall of Juice Extractors Sold at Kmart**
+  - 2000-08-03T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Appliance-Co-of-America-LLC-Announce-Recall-of-Juice-Extractors-Sold-at-Kmart
+  - The Betty Crocker juice extractor being recalled is model number 1480, which is written underneath the unit as part of a mark that reads "BC-1480 Juice Extractor." The juice extractor is white, and measures 12.5 inches high, 6 inches wide and 8.75 inches long.
+- **CPSC, Rashti & Rashti Announce Recall of Pacifier Clips**
+  - 2000-08-02T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Rashti--Rashti-Announce-Recall-of-Pacifier-Clips
+  - The recalled Magic Years® Novelty Pacifier Buddy Clips were sold individually, and also as part of a set with a matching bib. The pacifier clip has a small, stuffed animal attached -- including a purple cat, yellow chick, blue dog, pink bunny, green bear and white sheep. The bib sold with the bib se
+- **CPSC and The Coleman Co. Announce Recall of Gas Grills**
+  - 2000-08-01T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-and-The-Coleman-Co-Announce-Recall-of-Gas-Grills
+  - The recalled grills are green and black and have a red Coleman emblem on the grill's cover. The grill has a wheeled cart with two side tables or one side table and a side burner, and features a warming rack above the grilling surface. Only grills with series numbers 2000 or 3000 are included in the 
+- **CPSC, AmeriGas Propane L.P. Announce Recall of Propane Cylinders**
+  - 2000-07-28T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-AmeriGas-Propane-LP-Announce-Recall-of-Propane-Cylinders
+  - An AmeriGas "Prefilled Propane Xchange" or "PPX"® gas grill cylinder is white, and at the time of purchase, had a shrink-wrapped sleeve around it with the names "AmeriGas" and "PPX" on it. After investigating the source of the overfilled cylinders, AmeriGas determined the only AmeriGas office which 
 - **CPSC, Hufco-Delaware Co. Announce Recall to Repair Gerry® TrailTech™ Backpack Baby Carriers**
   - 2000-07-27T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Hufco-Delaware-Co-Announce-Recall-to-Repair-Gerry-TrailTech-Backpack-Baby-Carriers
   - These Gerry® TrailTech™ backpack baby carriers have black, plastic contoured frames. They were sold in color combinations of slate blue with teal trim, green with black trim, navy blue and purple with green trim, and blue and purple with silver trim. A tag on the outside of the carrier reads "GERRY®
@@ -64,74 +85,363 @@
 - **CPSC, Master Lock Co. Announce Recall to Replace Gun Locks**
   - 2000-07-24T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Master-Lock-Co-Announce-Recall-to-Replace-Gun-Locks
   - The locks being recalled are keyed, trigger gun locks sold separately or in combination with certain Smith & Wesson and Walther handguns. The recalled gun locks were available for sale after June 20, 1999, and are either black or blue metal. Each half of the lock surrounds the trigger with a 1-inch 
-- **CPSC, Child GuidanceTM Announce Recall to Replace Caterpillar Toys**
-  - 2000-07-21T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Child-Guidance-Announce-Recall-to-Replace-Caterpillar-Toys
-  - The Wiggle Waggle Caterpillar™ is a pull toy that plays four songs and various sounds. It has five ball shapes raised from its body on the end of tightly wound coil wire springs. The two smaller ball shapes on the caterpillar's head resemble antennas. The toy is about 10 inches long, and is green wi
-- **CPSC, Fisher-Price Announce Recall of Baby Jumper Seats and Construction Toys**
-  - 2000-07-21T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Fisher-Price-Announce-Recall-of-Baby-Jumper-Seats-and-Construction-Toys
-  - The Hop, Skip, Jumper is an activity seat for babies to sit in while suspended from a doorway. There is a spring attached to a suspension strap, allowing babies to use their feet to bounce up and down, while being supported by the seat. Only model numbers 9144 and 9146 are being recalled. The model 
 - **CPSC, Shelcore Inc. Announce Recall Children's Play Tables to Replace Mallets**
   - 2000-07-21T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Shelcore-Inc-Announce-Recall-Childrens-Play-Tables-to-Replace-Mallets
   - The "Stand-Up 'N Play Table" measures 14 inches long, 14 inches wide and 13 inches high. The multi-colored play table includes a telephone, clicking dial, spinner, push-button squeaker, rolling ball, spinning gears, xylophone and mallet, three colorful shapes, and a shape sorter. The tray of the tab
 
+### FDA Device Recall (47)
+
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Boston Scientific's complaint investigations have identified that a subset of air ingress complaints are associated with hemostatic valve damage related to dilator insertion orientation during device preparation. Valve damage may result in air ingress, potential air embolism, and associated patient 
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Boston Scientific is replacing specific FARASTAR PFA generators which have a configuration that is not compatible for use with the FARAPOINT PFA catheter.
+- **AVID Medical, Inc. — Class II recall (VA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Defects in the silicone seal, which may result in "doming" of the silicone seal due to improper sealing, potentially leading to fluid occlusion or leakage.
+- **Penumbra, Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Due to manufacturing issues,  reperfusion catheters may fractures
+- **Alphatec Spine, Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Intraoperative neuromonitoring device, due to a software issue, may experience loss or interruption of triggered electromyography (tEMG) functionality during use, displaying as system faults, loss of communication between the Patient Interface and Tablet, and prompts requiring system reboot; may res
+- **Medtronic MiniMed, Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - For MiniMed Go app version 1.0.0 and 1.1.0, when the  Set day and night  is turned OFF and  missed dose  or  Correct high glucose  alerts are enabled, the associated alerts will not be triggered during the nighttime. This could result in missed rapid-acting insulin doses without the user s knowledge
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Labeling discrepancy:  Devices distributed with Instructions For Use (IFU) did not include  FARAPOINT PFA catheter information.
+- **Medline Industries, LP — Class I recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - The procedure kits contain ICU Medical, Inc. pain management kits containing Bupivacaine Hydrochloride in Dextrose Injection, USP, which were recalled due to quality issues that could result in drug ineffectiveness.
+- **ICU Medical Inc. — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - ICU Medical became aware of an increased likelihood of leakage in specific Lots of L-70 HOTLINE Fluid Warming Sets due to potentially inadequate solvent application at the tubing to return connector bond.
+- **Karl Storz Endoscopy — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Flexible hysteroscopes indicated for use during diagnostic and operative hysteroscopic procedures may contain an expired single use endoscopic seal for gynecology use, which could impact the assurance of sterility.
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Labeling discrepancy:  Devices distributed with Instructions For Use (IFU) did not include  FARAPOINT PFA catheter information.
+- **Ferno-Washington Inc — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Product may experience accelerated roller wear and potential deformation due to interference between the roller assembly and rail. In the worst-case condition, rail mechanism may become lodged during operation and movement of the stretcher along the rail may no longer be possible through either powe
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Medline Industries, LP is issuing a recall for specific Medline convenience kits containing BD PurPrep 26 mL which may be contaminated with low levels of Bacillus species.
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Medline Industries, LP is issuing a recall for specific Medline convenience kits containing BD PurPrep 26 mL which may be contaminated with low levels of Bacillus species.
+- **Medtronic Neurosurgery — Class II recall (TX)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Ventriculostomy devices, used during ventriculostomy procedures to gain access to the ventricular system, may exhibit endotoxin levels that exceed the acceptable limit for devices that come into contact with cerebrospinal fluid; endotoxin exposure can cause an acute inflammatory process.
+- **Micro Therapeutics,  Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Incorrect labeling - embolization devices labeled as 3.0 mm x 20 mm implants contain 12 mm implants, and devices labeled as 3.0 mm x 12 mm implants contain 20 mm implants.
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Labeling discrepancy:  Devices distributed with Instructions For Use (IFU) did not include  FARAPOINT PFA catheter information.
+- **Paragon 28, Inc. — Class II recall (CO)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Paragon 28 received two (2) complaints were received involving breaches in the sterile barrier of the pouch packaging.
+- **Medline Industries, LP — Class I recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was notified by their supplier, Spectra Medical Devices, LLC of a product recall from Huons Co, Ltd., the
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Wilcox Industries Corp. — Class II recall (NH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Wilcox is notifying all customers who have purchased a product from the BOSS Xe family that a software enhancement to increase safety has been released and all units should be returned to implement this change.
+- **AVID Medical, Inc. — Class II recall (VA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Incorrect concentration of Betadine solution contained within certain AVID convenience kits.
+- **KENT IMAGING, INC. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - The software controlling the wound imaging device's battery charging circuit was not designed to recognize and recover a battery that has fully discharged into a low-power "shipping mode." When this occurs, an affected device will not resume charging when reconnected to power and becomes temporarily
+- **Medline Industries, LP — Class I recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was notified by their supplier, Spectra Medical Devices, LLC of a product recall from Huons Co, Ltd., the
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Medline Industries, LP is issuing a recall for specific Medline convenience kits containing BD PurPrep 26 mL which may be contaminated with low levels of Bacillus species.
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Micro Therapeutics,  Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Incorrect labeling - embolization devices labeled as 3.0 mm x 20 mm implants contain 12 mm implants, and devices labeled as 3.0 mm x 12 mm implants contain 20 mm implants.
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Medline Industries, LP — Class I recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - The procedure kits contain ICU Medical, Inc. pain management kits containing Bupivacaine Hydrochloride in Dextrose Injection, USP, which were recalled due to quality issues that could result in drug ineffectiveness.
+- **Olympus Corporation of the Americas — Class II recall (PA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Potential for unexpected instances where the front panel display turns off unexpectedly, and air delivery (insufflation) ceases.
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Software anomaly occurs when a user adds one or more vials to the cart and subsequently returns to the Activity Calculator to modify one or more input. When a user modifies an input and selects "Recalculate",  the dose calculation is updated correctly; however, any vials that were previously added t
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Affected kits contain recalled Bard Silastic Foley Catheters. Catheters were recalled by manufacturer due to increased amount of raw material present on the surface of the catheter. Issue may result in the use of urinary catheters that exhibit staining on the catheter surface; raw material present i
+- **Emano Metrics, Inc. — Class II recall (OR)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Problem description/Reason for recall: During the period March 22, 2026, to May 29, 2026, recorded urination audio was captured at 48,000 Hz while the model was trained and validated on 44,100 Hz audio. The models depend on the sampling so every recording in the window was therefore processed agains
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Boston Scientific's complaint investigations have identified that a subset of air ingress complaints are associated with hemostatic valve damage related to dilator insertion orientation during device preparation. Valve damage may result in air ingress, potential air embolism, and associated patient 
+- **SEASPINE ORTHOPEDICS CORPORATION — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Due to manufacturing error, polyaxial  head may popoff  from the screw intraoperatively following insertion.
+- **PIE Medical Imaging B.V. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - User measurement value reported by diagnostic bioimaging software intended to measure/visualize cardiovascular structures may be larger (0.8% to 34.4%) than the actual anatomical dimension, if all the following occur: affected software is used, and the user has access only to 3D Echo OR Mitral 3D Ec
+- **Prismatik Dentalcraft, Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Due to device not having FDA Clearance
+- **Medline Industries, LP — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Medline Industries, LP is issuing a recall for specific Medline convenience kits containing BD PurPrep 26 mL which may be contaminated with low levels of Bacillus species.
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Boston Scientific's complaint investigations have identified that a subset of air ingress complaints are associated with hemostatic valve damage related to dilator insertion orientation during device preparation. Valve damage may result in air ingress, potential air embolism, and associated patient 
+- **Boston Scientific Corporation — Class II recall (MN)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Boston Scientific's complaint investigations have identified that a subset of air ingress complaints are associated with hemostatic valve damage related to dilator insertion orientation during device preparation. Valve damage may result in air ingress, potential air embolism, and associated patient 
+- **Medline Industries, LP — Class I recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Medline Industries, LP is issuing a recall for specific Medline kits containing B. Braun convenience kits that include Bupivacaine Hydrochloride in Dextrose Injection, USP. B. Braun Medical Inc. was notified by their supplier, Spectra Medical Devices, LLC of a product recall from Huons Co, Ltd., the
+- **Olympus Corporation of the Americas — Class II recall (PA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Potential for the HDMI and DisplayPort (DP) connectors can become faulty resulting in image loss or image abnormalities.
+
+### FDA Drug Recall (29)
+
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Fresenius Kabi USA, LLC — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Presence of Particulate Matter: Hair was found in products
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+- **Fresenius Kabi USA, LLC — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Presence of Particulate Matter: Hair was found in products
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Fresenius Kabi USA, LLC — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Presence of Particulate Matter: Hair was found in products
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+- **Asclemed USA Inc. — Class III recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Labeling: Not Elsewhere Classified: The label wrap covers the barcode, making it hard to scan
+- **Ascend Laboratories, LLC — Class II recall (NJ)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Failed Dissolution Specifications; Olmesartan Medoxomil content below specifications
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Precision Dose Inc. — Not Yet Classified recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Due to an out-of-specification result for an unidentified impurity detected during routine stability testing.
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+- **Fresenius Kabi USA, LLC — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Presence of Particulate Matter: Hair was found in products
+- **Fresenius Kabi USA, LLC — Class II recall (IL)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Presence of Particulate Matter: Hair was found in product
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Rising Pharma Holding, Inc. — Class II recall (NJ)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Presence of Precipitate: medication was crystallizing and particles floating in the bottle
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+- **Major Pharmaceuticals — Class II recall (OH)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Subpotent Drug
+- **Rohto-Mentholatum (Vietnam) Co., Ltd. — Class II recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Lack of Assurance of Sterility
+
+### FDA Food Recall (11)
+
+- **Green Jeeva LLC — Class I recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Moringa Powder ingredient positive for salmonella
+- **Brooklyn Roasting Works LLC — Class II recall (NY)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Ambient storage of the product may lead to Clostridium botulinum toxin formation.
+- **Man Fon, Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Undeclared colors: Yellow#5, and Yellow#6.
+- **Man Fon, Inc. — Class II recall (CA)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - No labeling. Undeclared wheat and colors: Yellow#5, Yellow#6.
+- **Vintage Roots LLC — Class II recall (MT)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Unapproved food additive: sassafras bark.
+- **Modern Warrior Life, LLC — Class I recall (AZ)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - FDA analysis revealed the presence of unapproved ingredients including tianeptine, 1,4 DMAA, and aniracetam.
+- **Shandong Ling Xian Food Co.,LTD — Class III recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Undeclared sodium tripolyphosphate (STTP)
+- **Shandong Ling Xian Food Co.,LTD — Class III recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Undeclared sodium tripolyphosphate (STTP)
+- **Total Nutrition Inc — Class I recall (NY)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Contaminated with Salmonella
+- **Shandong Ling Xian Food Co.,LTD — Class III recall (N/A)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Undeclared sodium tripolyphosphate (STTP)
+- **GELLERT GLOBAL GROUP — Class I recall (NJ)**
+  - 2026-07-29 — https://www.accessdata.fda.gov/scripts/ires/index.cfm
+  - Undeclared Allergen (Fish)
+
 ### Marler Blog (food safety plaintiff bar) (10)
 
-- **Two People Have Died in the Cyclospora Outbreak. The Fifty-State Count Is Now 21,913.** `fatality-linked`
-  - 2026-08-03 — https://www.marlerblog.com/case-news/two-people-have-died-in-the-cyclospora-outbreak-the-fifty-state-count-is-now-21913/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48435" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_Cyclospora_hospital_deaths_-ar_43_-v_8.2_2863b86f-74ae-4c41-b339-e9551bf4885b_0-640x482.png" style="height: 
-- **Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days. It Still Has Not Said What Changed at That Plant After 2013, or Why Two Thousand Negative Tests Should Mean Anything.**
-  - 2026-08-03 — https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48426" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_testing_for_cyclospora_in_water_in_a_lab_-ar_43_-v__b5ad9590-7ff6-4790-984f-239d358435de_0-640x482.png" styl
-- **Eleven Times Normal, and One in Eight Hospitalized. A Private Company Published the Cyclospora Numbers the Government Has Not.**
-  - 2026-08-02 — https://www.marlerblog.com/case-news/eleven-times-normal-and-one-in-eight-hospitalized-a-private-company-published-the-cyclospora-numbers-the-government-has-not/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48421" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_a_salad_on_a_plate_in_a_restaurant._-ar_43_-v_8.2_0559dea6-26ba-464d-a01c-aeffb972b9bc_2-640x482.png" style=
-- **USDA Says Cyclospora Costs America $5.3 Million a Year. The Program I Want Restored Cost $4.5 Million a Year. This Summer Alone Has Already Blown Past Both.**
-  - 2026-08-02 — https://www.marlerblog.com/case-news/usda-says-cyclospora-costs-america-5-3-million-a-year-the-program-i-want-restored-cost-4-5-million-a-year-this-summer-alone-has-already-blown-past-both/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48412" height="482" src="https://www.marlerblog.com/files/2026/07/bmarler_Rows_of_Heads_of_Iceberg_Lettuce_stretching_into_the__e616adda-51cb-4925-87b6-3be1c0e3b1a2_1-640x482.png" st
-- **Weekend Wrap-Up: The Week Cyclospora Stopped Being a Health Story and Became an Accounting One** `fatality-linked`
-  - 2026-08-01 — https://www.marlerblog.com/case-news/weekend-wrap-up-the-week-cyclospora-stopped-being-a-health-story-and-became-an-accounting-one/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48406" height="336" src="https://www.marlerblog.com/files/2026/07/wrapup-social-link-1200x630-1-1-640x336.png" style="height: auto; height: auto;" width="640" /></figure>
-<p><em>Satu
-- **Three States Moved After I Posted This Morning. The Fifty-State Cyclospora Count Is Now 21,452.** `fatality-linked`
-  - 2026-07-31 — https://www.marlerblog.com/case-news/three-states-moved-after-i-posted-this-morning-the-fifty-state-cyclospora-count-is-now-21452/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-46395" height="358" src="https://www.marlerblog.com/files/2026/07/cyclospora-us-map-overlay-640x358.jpg" style="height: auto; height: auto;" width="640" /></figure>
-<p>I published a 
-- **Taylor Farms Has Now Written Five Different Versions of the Same Statement. The Newest One Says It Ran Two Thousand Samples and Found Nothing. Ohio Just Added 1,437 CyclosporaCases in a Week and the Fifty-State Count Crossed Twenty Thousand.** `fatality-linked`
-  - 2026-07-31 — https://www.marlerblog.com/case-news/taylor-farms-has-now-written-five-different-versions-of-the-same-statement-the-newest-one-says-it-ran-two-thousand-samples-and-found-nothing-this-morning-the-fifty-state-cyclospora-count-i/
-  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-48401" height="491" src="https://www.marlerblog.com/files/2026/07/Bruce.jpeg" style="height: auto; height: auto;" width="407" /></figure>
-<p>Taylor Farms put up a new page on its webs
-- **Here Is Everything Taco Bell Has Said About Cyclospora. The Company Was Already Pulling Lettuce When It Told Reporters Nothing Had Been Confirmed.** `multi-state`
-  - 2026-07-31 — https://www.marlerblog.com/case-news/here-is-everything-taco-bell-has-said-about-cyclospora-the-company-was-already-pulling-lettuce-when-it-told-reporters-nothing-had-been-confirmed/
-  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-48398" height="400" src="https://www.marlerblog.com/files/2026/07/Sean.jpeg" style="height: auto; height: auto;" width="400" /></figure>
-<p>The first thing customers in metro Detroit 
-- **At IAFP I Was Told It Was American Sewage, Not Mexican Lettuce. That Gets the Parasite Half Right and the Continent Entirely Wrong.**
-  - 2026-07-31 — https://www.marlerblog.com/case-news/at-iafp-i-was-told-it-was-american-sewage-not-mexican-lettuce-that-gets-the-parasite-half-right-and-the-continent-entirely-wrong/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48395" height="427" src="https://www.marlerblog.com/files/2026/07/bmarler_empty_institutional_cafeteria_salad_bar_under_a_sneez_bf397689-8370-42b4-93b8-bd8d5cd6a6f7_2-640x427.png" st
-- **FDA Blacked Out the Lettuce in the 2021 Romaine E. coli O121 Outbreak. CDC’s Own Slides Printed the Lot Numbers, and King County Typed Taylor Farms, Salinas.** `multi-state, fatality-linked`
-  - 2026-07-30 — https://www.marlerblog.com/case-news/fda-blacked-out-the-lettuce-in-the-2021-romaine-e-coli-o121-outbreak-cdcs-own-slides-printed-the-lot-numbers-and-king-county-typed-taylor-farms-salinas/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48392" height="443" src="https://www.marlerblog.com/files/2026/07/Screenshot-2026-07-30-at-3.25.49-PM-640x443.png" style="height: auto; height: auto;" width="640" /></figure>
-<p>Four
+- **Seven States Moved and Added 1,918  Cases. The Cyclospora Count Is 25,213. The Real Number may be 869,891.** `fatality-linked`
+  - 2026-08-05 — https://www.marlerblog.com/case-news/seven-states-moved-and-added-1572-cases-the-cyclospora-count-is-24867/
+  - <figure class="wp-block-image size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-46412" height="479" src="https://www.marlerblog.com/files/2026/07/bmarler_50_state_map_of_the_us_with_with_borders_lines_with_c_809dcf0e-61f2-4fdf-9aae-62341c0debf1_0-640x479.png" style="height:
+- **A South Carolina Farm Tested Positive for Salmonella in February 2001 and Shipped Eggs to Four Prisons in March. Six Hundred Eighty-Eight Inmates Got Sick. Every Egg Outbreak Since Has Been About That Same Gap.** `multi-state, fatality-linked`
+  - 2026-08-05 — https://www.marlerblog.com/case-news/a-south-carolina-farm-tested-positive-for-salmonella-in-february-2001-and-shipped-eggs-to-four-prisons-in-march-six-hundred-eighty-eight-inmates-got-sick-every-egg-outbreak-since-has-been/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-36519" height="427" src="https://www.marlerblog.com/files/2017/11/eggs-640x427.jpg" style="height: auto; height: auto;" width="640" /></figure>
+<p>Ninety-eight people in seventeen st
+- **Twenty-Three Questions About the Cyclospora Outbreak. One Has Been Refused in Print, Three Have Moved Without Being Answered, Nineteen Have No Answer at All. Twenty-Six Days Left.** `fatality-linked`
+  - 2026-08-05 — https://www.marlerblog.com/case-news/twenty-three-questions-about-the-cyclospora-outbreak-one-has-been-refused-in-print-three-have-moved-without-being-answered-nineteen-have-no-answer-at-all-twenty-six-days-left/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48491" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_cyclospora_with_questions_-ar_43_-v_8.2_777c46f4-3ec7-48ec-8625-000a8d44b490_1-640x482.png" style="height: a
+- **At Least 212 Sick with Salmonella Javiana from Jalapeños, Two States Confirmed, and Nobody Will Yet Name the Grower. Here Are the Questions Somebody Should Have to Answer.** `fatality-linked`
+  - 2026-08-05 — https://www.marlerblog.com/case-news/at-least-212-sick-with-salmonella-javiana-from-jalapenos-two-states-confirmed-and-nobody-will-yet-name-the-grower-here-are-the-questions-somebody-should-have-to-answer/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48488" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_Salmonela_Javiana_jalapeos_with_questions_-ar_43_-v_2051f95b-ddaf-43c9-be3d-1132e1be7fe4_0-640x482.png" styl
+- **Minnesota Says 110. Colorado Says 110. FDA Says 212. What We Know and What We Do Not About Two States and One Salmonella Outbreak.**
+  - 2026-08-05 — https://www.marlerblog.com/case-news/minnesota-says-110-colorado-says-110-fda-says-212-what-we-know-and-what-we-do-not-about-two-states-and-one-salmonella-outbreak/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48485" height="274" src="https://www.marlerblog.com/files/2026/08/bmarler_documentary_photograph_jalapeo_peppers_in_a_clear_evi_7ab6aef9-c304-4207-ac8b-5417da92390e_0-640x274.png" st
+- **The WAPO Is Now the CDC and the FDA. It Named All Six New States out of Fifteen This Afternoon. Every Federal Page Still Says Nine.** `fatality-linked`
+  - 2026-08-04 — https://www.marlerblog.com/case-news/the-wapo-is-now-the-cdc-and-the-fda-it-named-all-six-new-states-out-of-fifteen-this-afternoon-every-federal-page-still-says-nine/
+  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-48482" height="324" src="https://www.marlerblog.com/files/2026/08/wapo-over-cdc-fda-black-halo_1.jpeg" style="height: auto; height: auto;" width="617" /></figure>
+<p>At 4:13 this afte
+- **Fifteen States Now, and Missouri Says It Is One of Them. Taylor Farms Says the Lettuce Went Out June 29. FDA Says People Started Getting Sick June 22. The Cyclospora Count Is 22,957.** `fatality-linked`
+  - 2026-08-04 — https://www.marlerblog.com/case-news/fifteen-states-now-and-missouri-says-it-is-one-of-them-taylor-farms-says-the-lettuce-went-out-june-29-fda-says-people-started-getting-sick-june-22-the-cyclospora-count-is-22957/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48210" height="479" src="https://www.marlerblog.com/files/2026/07/cyclospora-lettuce-logos-640x479.png" style="height: auto; height: auto;" width="640" /></figure>
+<p>The Washington 
+- **Chipotle Pulled Jalapeños After 110 Fell Ill in Minnesota with Salmonella. FDA and CDC Still Say Nothing.** `fatality-linked`
+  - 2026-08-04 — https://www.marlerblog.com/case-news/chipotle-pulled-jalapenos-after-110-fell-ill-in-minnesota-with-salmonella-fda-and-cdc-still-say-nothing/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48473" height="276" src="https://www.marlerblog.com/files/2026/08/chipotle-salmonella-header-640x276.jpeg" style="height: auto; height: auto;" width="640" /></figure>
+<p>Chipotle Mex
+- **FDA Published Traceback Diagrams for 474 E. coli Illnesses. There Are 22,683 Cyclospora Illnesses and No Diagram at All.** `multi-state, fatality-linked`
+  - 2026-08-04 — https://www.marlerblog.com/case-news/fda-published-traceback-diagrams-for-474-e-coli-illnesses-there-are-22683-cyclospora-illnesses-and-no-diagram-at-all/
+  - <figure class="wp-block-image aligncenter size-full is-resized" style="height: auto; height: auto;"><img alt="" class="wp-image-48465" height="301" src="https://www.marlerblog.com/files/2026/08/image.jpg" style="height: auto; height: auto; width: 645px; height: auto;" width="351" /></figure>
+<p>Look
+- **Missouri Doubled in a Week to 1,095, and CDC Says None of It Is This Outbreak. St. Louis County Says Its Patients Ate at Taco Bell. The Cyclospora Count Is Now 22,683.** `fatality-linked`
+  - 2026-08-04 — https://www.marlerblog.com/case-news/missouri-doubled-in-a-week-to-1095-and-cdc-says-none-of-it-is-this-outbreak-st-louis-county-says-its-patients-ate-at-taco-bell-the-cyclospora-count-is-now-22683/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48462" height="449" src="https://www.marlerblog.com/files/2026/08/Missouri-location-map-640x449.jpg" style="height: auto; height: auto;" width="640" /></figure>
+<p>Two people are dea
 
-### SEC 8-K (Item 4.02: material weakness) (1)
+### Top Class Actions (35)
 
-- **New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336) — Item 4.02 8-K referencing 'material weakness'**
-  - 2026-07-30 — https://www.sec.gov/Archives/edgar/data/2028336/000121390026083411/ea0299918-8k_newera.htm
-  - 0001213900-26-083411
-
-### SEC 8-K (Item 8.01: enforcement action) (1)
-
-- **Citigroup Commercial Mortgage Trust 2026-MFAM1  (CIK 0002143199) — Item 8.01 8-K referencing 'enforcement action'**
-  - 2026-07-29 — https://www.sec.gov/Archives/edgar/data/2143199/000153949726002021/exh4_1-psa.htm
-  - 0001539497-26-002021
-
-### SEC 8-K (Item 8.01: subpoena) (1)
-
-- **Citigroup Commercial Mortgage Trust 2026-MFAM1  (CIK 0002143199) — Item 8.01 8-K referencing 'subpoena'**
-  - 2026-07-29 — https://www.sec.gov/Archives/edgar/data/2143199/000153949726002021/exh4_1-psa.htm
-  - 0001539497-26-002021
-
-### Top Class Actions (34)
-
+- **Baby formula lawsuit investigation: Did you overpay for store brands?** `class-action`
+  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/investigations/store-brand-infant-formula-antitrust-lawsuit/
+  - <p>Did you purchase store-brand baby formula, including Parent's Choice, Up &#038; Up and more? Find out if you qualify to join a baby formula lawsuit investigation.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/store-brand-infant-formula-antitrus
+- **$1.25M Farmers Insurance TCPA class action settlement** `class-action`
+  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-25m-farmers-insurance-tcpa-class-action-settlement/
+  - <p>Farmers Insurance has agreed to a $1.25 million class action settlement over claims it violated the Telephone Consumer Protection Act. Submit a claim by Sept. 14, 2026.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-25m-farmers-insur
+- **$7.5M YouTube TV automatic renewal class action settlement** `class-action`
+  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/7-5m-youtube-tv-automatic-renewal-class-action-settlement/
+  - <p>YouTube agreed to a $7.5 million class action settlement to resolve claims it violated California’s automatic renewal law with its YouTube TV subscriptions.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/7-5m-youtube-tv-automatic-renew
+- **Anthropic class action alleges Claude subscribers paid for degraded AI service** `class-action`
+  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/anthropic-class-action-alleges-claude-subscribers-paid-for-degraded-ai-service/
+  - <p>A California consumer filed a class action lawsuit against Anthropic PBC, alleging the artificial intelligence company improperly retained subscription fees after reducing the value of its paid Claude Pro and Max plans through backend changes and service issues.... <a class="simple-btn-link" href
+- **Target sued over claims it sold Nara Organics infant formula linked to botulism outbreak** `class-action`
+  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/target-sued-over-claims-it-sold-nara-organics-infant-formula-linked-to-botulism-outbreak/
+  - <p>A new baby formula lawsuit claims Nara Organics infant formula purchased from Target was contaminated with Clostridium botulinum, sickening infants in Washington and two other states.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/target-sued-over
+- **Roundup cancer lawsuit may proceed despite Supreme Court ruling** `class-action`
+  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/roundup-cancer-lawsuit-may-proceed-despite-supreme-court-ruling/
+  - <p>A Massachusetts federal judge indicated a Roundup cancer lawsuit against Monsanto may still move toward trial despite a recent U.S. Supreme Court decision that significantly limited failure-to-warn claims involving the weedkiller.<br />
+... <a class="simple-btn-link" href="https://topclassactions
+- **Dairy Queen recalls Galliker Dairy chocolate ice cream mix over metal shavings** `class-action`
+  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/dairy-queen-recalls-galliker-dairy-chocolate-ice-cream-mix-over-metal-shavings/
+  - <p>Galliker Dairy, based in Altoona, Pennsylvania, voluntarily recalled 74 cases of its DQ Chocolate Reduced Fat Ice Cream Mix after metal shavings were found in the product, according to an enforcement notice filed with the U.S. Food and Drug Administration (FDA).<br />
+... <a class="simple-btn-lin
+- **Was Route Package Protection added to your online purchase?** `class-action`
+  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/investigations/route-package-protection-shipping-insurance-legal-actions/
+  - <p>If Route Package Protection was added to your online purchase, you may qualify to pursue compensation. Learn more and check your eligibility.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/route-package-protection-shipping-insurance-legal-action
+- **Payactiv data breach class action settlement** `class-action`
+  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/payactiv-data-breach-class-action-settlement/
+  - <p>Payactiv data breach class action settlement: Individuals who received a data breach notification from Payactiv may be eligible for a class action settlement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/payactiv-data-breach-class-ac
+- **$3.5M ZOLL Medical Corp. data breach class action settlement** `class-action`
+  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-zoll-medical-corp-data-breach-class-action-settlement/
+  - <p>The ZOLL Medical Corp. data breach class action settlement provides $3.5 million in benefits for eligible individuals who received a data breach notice.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-zoll-medical-corp-data-breach-
+- **Five Below class action claims retailer kept tariff refunds owed to customers** `class-action`
+  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/five-below-class-action-claims-retailer-kept-tariff-refunds-owed-to-customers/
+  - <p>A new class action lawsuit accuses Five Below of retaining tariff refunds from the federal government rather than returning them to consumers who bore the cost of the tariffs.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/five-below-class-
+- **Lowe’s class action alleges recalled Kobalt yard tools have dangerous battery defect** `class-action`
+  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/lowes-class-action-alleges-recalled-kobalt-yard-tools-have-dangerous-battery-defect/
+  - <p>A new class action lawsuit accuses Lowe’s and Greenworks of selling certain Kobalt-branded power tools that have a dangerous battery defect that poses a serious risk of fire and injury to consumers.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/l
+- **Coachella class action claims music festival website illegally tracks visitors** `class-action`
+  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/coachella-class-action-claims-music-festival-website-illegally-tracks-visitors/
+  - <p>A new class action lawsuit alleges the Coachella music festival illegally collects data about visitors to its website.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/coachella-class-action-claims-music-festival-website-illegally-tracks-visitors/">
 - **$70M Oppenheimer & Co. ABDP cash sweep class action settlement** `class-action`
   - 2026-08-03 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/70m-oppenheimer-co-abdp-cash-sweep-class-action-settlement/
   - <p>Oppenheimer class action settlement: $70M class action settlement for Advantage Bank Deposit Program participants. Claim deadline is Sept. 17, 2026.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/70m-oppenheimer-co-abdp-cash-sweep-clas
@@ -204,42 +514,4 @@ A group of consumers filed a class action lawsuit against Unilever, alleging the
 - **Lupin Pharmaceuticals recalls 2.5M prednisolone eye drop bottles over contamination concerns** `class-action`
   - 2026-07-29 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/lupin-pharmaceuticals-recalls-2-5m-prednisolone-eye-drop-bottles-over-contamination-concerns/
   - <p>Lupin Pharmaceuticals is recalling more than 2.5 million bottles of prednisolone eye drops due to the risk of contamination with a foreign substance.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/lupin-pharmaceuticals-recalls-2-5m-prednisolone-ey
-- **Walmart faces biometric privacy lawsuits over alleged collection of customers’ voiceprints** `class-action`
-  - 2026-07-28 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/walmart-faces-biometric-privacy-lawsuits-over-alleged-collection-of-customers-voiceprints/
-  - <p>Walmart is facing two proposed class action lawsuits accusing the retail giant of unlawfully collecting the voiceprints of Illinois customers who called local stores without first providing the disclosures or obtaining the written consent required by the Illinois Biometric Information Privacy Act
-- **$750k Strides testosterone gel class action settlement** `class-action`
-  - 2026-07-28 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/750k-strides-testosterone-gel-class-action-settlement/
-  - <p>Strides Pharma has agreed to a $750,000 class action settlement to resolve claims that its testosterone gel products were contaminated with benzene.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/750k-strides-testosterone-gel-class-act
-- **Google hit with class action alleging user data shared with Temu, Baidu** `class-action`
-  - 2026-07-28 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/google-hit-with-class-action-alleging-user-data-shared-with-temu-baidu/
-  - <p>Google is facing a proposed class action lawsuit alleging it unlawfully shared Americans' sensitive personal information with Chinese companies through its online advertising infrastructure in violation of a federal data security rule designed to protect U.S. national security.... <a class="simpl
-- **Intuit class action alleges Credit Karma security failures led to unauthorized withdrawals** `class-action`
-  - 2026-07-28 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/intuit-class-action-alleges-credit-karma-security-failures-led-to-unauthorized-withdrawals/
-  - <p>A new Intuit class action lawsuit alleges Intuit and Credit Karma failed to maintain reasonable account security and customer protection measures for Credit Karma Money checking and savings accounts.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/
-- **Greenworks Tools recalls over 550K Kobalt yard tools due to battery hazard** `class-action`
-  - 2026-07-28 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/greenworks-tools-recalls-over-550k-kobalt-yard-tools-due-to-battery-hazard/
-  - <p>Greenworks Tools is recalling more than half a million Kobalt yard power tools due to a potential fire hazard associated with their USB-C batteries. The recall affects various models of trimmers, blowers, mowers, chainsaws and pruning saws.<br />
-... <a class="simple-btn-link" href="https://topcl
-- **Midwest Poultry recalls more than 1.5M dozen eggs over Salmonella concerns** `class-action`
-  - 2026-07-28 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/midwest-poultry-recalls-more-than-1-5m-dozen-eggs-over-salmonella-concerns/
-  - <p>Midwest Poultry announced a voluntary egg recall of more than 1.5 million dozen eggs due to potential contamination with Salmonella Enteritidis. The recall affects white and brown shell eggs distributed in Texas, Oklahoma and Louisiana.<br />
-... <a class="simple-btn-link" href="https://topclassa
-- **Meta class actions alleging pump-and-dump ad scheme dismissed** `class-action`
-  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-class-actions-alleging-pump-and-dump-ad-scheme-dismissed/
-  - <p>A California federal judge has dismissed two class action lawsuits alleging Meta Platforms used its artificial intelligence tools to enable pump-and-dump schemes that caused nearly $30 million in investor losses.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/
-- **$450K Stanford Federal Credit Union NSF fee class action settlement** `class-action`
-  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/450k-stanford-federal-credit-union-nsf-fee-class-action-settlement/
-  - <p>Stanford Federal Credit Union (SFCU) agreed to a $450,000 class action settlement to resolve claims challenging its overdraft and NSF fee policies.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/450k-stanford-federal-credit-union-nsf-f
-- **$1.5B Anthropic settlement resolves AI training lawsuit** `class-action`
-  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/1-5b-anthropic-settlement-resolves-ai-training-lawsuit/
-  - <p>A federal judge has granted final approval to a $1.5 billion class action settlement resolving claims brought against Anthropic PBC over its use of pirated books to train Claude, the company's AI chatbot.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-
-- **Consumers sue Taylor Farms, Taco Bell over cyclospora outbreak** `class-action`
-  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-sue-taylor-farms-taco-bell-over-cyclospora-outbreak/
-  - <p>A new class action lawsuit alleges Taylor Farms sold lettuce and leafy greens contaminated with cyclospora, sickening consumers across various states during a summer outbreak.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-sue-taylor-far
-- **Evenflo recalls over 59K child car seats due to headrest safety concerns** `class-action`
-  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/evenflo-recalls-over-59k-child-car-seats-due-to-headrest-safety-concerns/
-  - <p>Evenflo has issued a recall for more than 59,000 Reo by Revolve360 child car seats due to a potential safety hazard involving the headrest, which may shift during a crash.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/evenflo-recalls-over-59k-chi
-- **Taylor Farms recalls iceberg lettuce amid cyclospora outbreak tied to Taco Bell** `multi-state, class-action`
-  - 2026-07-27 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/taylor-farms-recalls-iceberg-lettuce-amid-cyclospora-outbreak-tied-to-taco-bell/
-  - <p>Taylor Farms de Mexico announced on July 17 that it is pulling all iceberg lettuce grown in central Mexico from U.S. shelves and food service supply chains after health officials linked the product to a multistate Cyclospora outbreak.... <a class="simple-btn-link" href="https://topclassactions.co
 
