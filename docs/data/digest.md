@@ -1,143 +1,302 @@
-# Crisis Scan Digest — 2026-08-03 to 2026-08-10
+# Crisis Scan Digest — 2026-08-10 to 2026-08-17
 
-*Generated 2026-08-10 15:32*
+*Generated 2026-08-17 13:56*
 
-## All candidates (74 total)
+## ⚠️ Watchlist hits
+
+- **[Top Class Actions]** Apple class action alleges App Store failed to stop fake crypto wallet app (2026-08-16) — https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-class-action-alleges-app-store-failed-to-stop-fake-crypto-wallet-app/
+- **[Top Class Actions]** Apple AirTag lawsuit: Did an AirTag put your safety at risk? (2026-08-14) — https://topclassactions.com/lawsuit-settlements/investigations/apple-airtag-tracking-lawsuit/
+- **[Top Class Actions]** Apple class action alleges Hide My Email feature does not work as advertised (2026-08-12) — https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-class-action-alleges-hide-my-email-feature-does-not-work-as-advertised/
+
+## All candidates (89 total)
 
 ### CPSC Recall (27)
 
-- **A2batt Recalls EEMB Lithium Coin Battery Chargers Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Coin Batteries** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/A2batt-Recalls-EEMB-Lithium-Coin-Battery-Chargers-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Coin-Batteries
-  - This recall involves EEMB Lithium-ion Coin Battery Chargers with Rechargeable 2032 Batteries, model SKLC-0420-0040. The product includes the charger, four rechargeable 2032 lithium-ion batteries, and a USB cable. The brand name "EEMB" is on the front of the product and the model number "SKLC-0420-00
-- **DR Power Equipment Recalls Lawn Mowers Due to Risk of Serious Injury or Death from Laceration Hazard; Violate Mandatory Standard for Lawn Mowers** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/DR-Power-Equipment-Recalls-Lawn-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Laceration-Hazard-Violate-Mandatory-Standard-for-Lawn-Mowers
-  - This recall involves DR Power PRO MAX30 30" Deck Wide Cut Walk-Behind Power Lawn Mowers 10.6 FPT, Models: ES (WM25030DEN), MS (WM25030DMN) and MS Recon (WM25030DMNR). The lawn mowers are orange and black and have the "DR" logo printed on the black clippings bag, front guard, and top of the motor. Th
-- **Fitueyes Recalls Laziza Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Fitueyes-Recalls-Laziza-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units
-  - This recall involves Laziza-branded 3-in-1 Dressers. The wooden dressers were sold in white, dark brown or light brown. Each dresser has three drawers, measures about 31.4 inches long, 15.4 inches wide, 31.9 inches high; and weighs 82 pounds. "Three Drawer Dresser," model number WE11E5080Wx3-W or WE
-- **Head Watersports Recalls Apeks Second Stage Scuba Regulators Recalled Due to Risk of Serious Injury or Death from Drowning Hazard** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Head-Watersports-Recalls-Apeks-Second-Stage-Scuba-Regulators-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Drowning-Hazard
-  - This recall involves Apeks model XL4, XL4+ and XL4 Ocea second stage scuba regulators sold from April 2025 through June 2026. They were sold in various colors or color combinations of black, white, gray, mint or yellow, with serial numbers between 250402212 and 260402893. The serial number is laser-
-- **KC Imports and Exports Recalls Mini Laser Pointer Keychains Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/KC-Imports-and-Exports-Recalls-Mini-Laser-Pointer-Keychains-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries
-  - This recall includes Laser & LED Light Mini Laser Pointer Keychains with model number KKC-6071. The model number is printed on the product packaging. The keychains were sold individually and packaged in a case of 24. The lasers come in various colors including blue, white, red, black, green and purp
-- **Little Rawr Pull String Teething Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Okabesini-us** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Little-Rawr-Pull-String-Teething-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Okabesini-us
-  - This recall involves Little Rawr Silicone Pull String Teething Toys. The teething toys consist of a blue disc shape with a blue ball in the center and five multi-colored, silicone tentacle-looking pull strings that run through the ball. The disc has eight soft push buttons. The pull string teething 
-- **Liuqibax Adult Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Luqiba** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Liuqibax-Adult-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Luqiba
-  - This recall involves Liuqibax-branded adult portable bed rails, Model BR-11. The black or white bed rails measure about 30.5 inches wide by 40.5 inches tall and weigh 6 pounds. "LIUQIBAX" is printed on the product packaging.
-- **Louisville Ladder Recalls Over One Million Attic Stairway Ladders Due to Risk of Serious Injury or Death from Fall Hazard** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Louisville-Ladder-Recalls-Over-One-Million-Attic-Stairway-Ladders-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard
-  - This recall involves Louisville, Featherlite, Lite & Century Attic Stairway Ladders with gas struts only. The aluminum or wood frame ladders come with handrails and fold into the attic. The ladders were sold in various frame sizes to accommodate different size attic openings in the ceiling, includin
-- **Magnetic Fidget Sliders Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys: Sold on Amazon by BUSOHA** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Magnetic-Fidget-Sliders-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-BUSOHA
-  - This recall involves BUSOHA 6-pack Magnetic Fidget Slider Toys. Each slider comes in a two-toned silicone casing, with one side in blue and the opposite side in gray, black, purple, dark blue, white, or green. Each color has a different texture. The silicone casing can be easily removed to expose th
-- **Magnetic Fidget Sliders Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by PIXLABBY** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Magnetic-Fidget-Sliders-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-PIXLABBY
-  - This recall involves PIXLABBY's 6-PCS silicone magnetic fidget sliders. The fidget sliders come in various two-tone colors, yellow/red, pink/yellow, orange/purple, blue/orange, green/blue, and red/green. Each slider has a different silicone texture on the top and bottom surfaces. The fidget sliders 
-- **OKK Trading Recalls Easter LED Headbands Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Easter-LED-Headbands-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys
-  - The recall includes three Easter LED Headband models: Model 46310 is available in white, light pink, dark pink, turquoise, purple and red and features felt multicolor polka dots on the ears. Each headband is packaged in a clear plastic bag labeled "Item#46310" and "OKK Trading, Inc." Model 46309 is 
-- **Play Yard and Crib Mattresses Recalled Due to Risk of Serious Injury or Death from Entrapment and Fire Hazards; Violate Mandatory Standards for Mattresses; Sold on Amazon by Voomf** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Play-Yard-and-Crib-Mattresses-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Fire-Hazards-Violate-Mandatory-Standards-for-Mattresses-Sold-on-Amazon-by-Voomf
-  - This recall involves Voomf-branded play yard mattresses and crib mattresses. The tri-fold aftermarket play yard mattresses are white with a neutral-colored letter or balloon print and measure about 38 inches by 26 inches by 3 inches. "Product Model: BYL001" is printed on a label inside the mattress 
-- **Syera Projecting Finger Light Toys Recalled Due to Risk of Serious Injury from Battery Ingestion; Violate Mandatory Standard for Toys; Sold on TEMU by Senyu**
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Syera-Projecting-Finger-Light-Toys-Recalled-Due-to-Risk-of-Serious-Injury-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-TEMU-by-Senyu
-  - This recall involves Syera-branded LED Finger Lights. They were sold in sets of 28 or 30 multi-colored lights and with 30 astronaut cards. Each finger light has three internal button cell batteries that power astronaut projections when activated. The brand name is printed on the product packaging.
-- **Vanderhall North America Recalls Brawley GTS Electric Recreational Off Highway Vehicles (ROVs) Due to Risk of Serious Injury or Death from Crash Hazard** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Vanderhall-North-America-Recalls-Brawley-GTS-Electric-Recreational-Off-Highway-Vehicles-ROVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard
-  - This recall involves all Vanderhall model years 2024, 2025, and 2026 Brawley GTS electric recreational off highway vehicles. The vehicles come in Emerald Green, Ida Rose, Ivory White, Jean Grey, Obsidian Black, and Royal Blue. The VIN Numbers for the affected vehicles range from XXXXXXXXXXXXX4933 - 
-- **Wichard Groupe North America Recalls Courant Spliced Kalimba Climbing Ropes Due to Risk of Serious Injury or Death from Fall Hazard** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Wichard-Groupe-North-America-Recalls-Courant-Spliced-Kalimba-Climbing-Ropes-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard
-  - This recall involves Courant Spliced Kalimba climbing ropes with part numbers MH730JZC045 (45m length) lollipop color, MH730JZC050 (50m length), lollipop color MH730JZC060 (60m length) lollipop color, MH730MCC045 (45m length) bubblegum color, MH730MCC050 (50m length) bubblegum color, and MH730MCC060
-- **Winston Porter and Seeday 3-Drawer, 4-Drawer, and 5-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Winston-Porter-and-Seeday-3-Drawer-4-Drawer-and-5-Drawer-Dressers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units
-  - This recall involves Winston Porter and Seeday 5-Drawer Dressers, and Seeday 3-Drawer Dressers and 4-Drawer Dressers. The dressers are made of wood with a white or black finish. Each drawer has two black metal knobs. The 3-Drawer Dresser measures 16.3 inches long, 30 inches wide, and 33.5 inches tal
-- **Wnttmt Baby Walkers Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violate Mandatory Standard for Infant Walkers; Sold on Amazon by WURUI.BABY** `fatality-linked`
-  - 2026-08-06T00:00:00 — https://www.cpsc.gov/Recalls/2026/Wnttmt-Baby-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-WURUI-BABY
-  - This recall involves Wnttmt-branded infant walkers. The walkers are sold in gray with a white tray and round base. The walkers have eight-wheel assemblies and three adjustable levels. "Production Batch: 202509" is printed on a tracking label located under the seat.
-- **CPSC, Vaid Enterprises Announce Recall of "BIC" Cigarette Lighters**
-  - 2000-09-14T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Vaid-Enterprises-Announce-Recall-of-BIC-Cigarette-Lighters
-  - The disposable cigarette lighters being recalled are oval-tube- shaped "BIC" and mini- "BIC" brand lighters. The lighters have a green, red, blue, black or yellow body and a metal top. "BIC" and "made in France" is imprinted into the metal top of the lighter. A label on the lighter reads, "WARNING K
-- **CPSC, Williams-Sonoma Inc. Announce Recall of Portable Gas Grills**
-  - 2000-08-10T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Williams-Sonoma-Inc-Announce-Recall-of-Portable-Gas-Grills
-  - The grill is made of rust-resistant stainless steel and folds like a suitcase, with built-in handles. It measures 23 inches long by 8 inches high. The grill has a 20,000-BTU propane-gas burner with adjustable temperature controls. The control is a black round knob with white writing that reads in pa
-- **CPSC, Minoura Announce Recall of Bicycle Indoor Training Stands**
-  - 2000-08-09T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Minoura-Announce-Recall-of-Bicycle-Indoor-Training-Stands
-  - This recall only involves Minoura, Schwinn, Performance or Univega brand stands with painted red or blue exposed flywheels. The brand names are written on the stand and the flywheels are about 5 inches in diameter. The company will help consumers determine if their stand is part of this recall.
-- **CPSC, Polaris Industries Inc. Announce Recall of All-Terrain Vehicles**
-  - 2000-08-09T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Polaris-Industries-Inc-Announce-Recall-of-All-Terrain-Vehicles
-  - The recall includes some model year 1999 Scrambler, Sport, and Xplorer 400 ATVs, and some model year 2000 Scrambler and Xplorer 400 ATVs. "Polaris" and the model name are written on both sides of the ATVs. Polaris dealers will help consumers determine if their ATV is part of this recall.
-- **CPSC, Kmart Announce Recall of Children's Swim Masks**
-  - 2000-08-08T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Kmart-Announce-Recall-of-Childrens-Swim-Masks
-  - The "Splash Club" Aquatic Child's Swim Mask is made of either purple, aqua or lime-green plastic. It has a clear glass lens and an adjustable head strap. "Tempered Splash Club Glass" is written on the mask. The mask is packaged in clear plastic with a cardboard insert labeled "Splash Club Aquatic Ch
-- **CPSC, Safety 1st Announce Recall to Repair Baby Walkers**
-  - 2000-08-08T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Safety-1st-Announce-Recall-to-Repair-Baby-Walkers
-  - The Mobile "4 Wheelin" Walker is intended for babies 6 months old until the age they begin to walk. The walker has a green body, and includes a three-spoke steering wheel with squeaking horn, clicking keys, two rearview mirrors and a phone with electronic ring. Model number 45701, 45701A or 45701B i
-- **CPSC, Appliance Co. of America LLC Announce Recall of Juice Extractors Sold at Kmart**
-  - 2000-08-03T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Appliance-Co-of-America-LLC-Announce-Recall-of-Juice-Extractors-Sold-at-Kmart
-  - The Betty Crocker juice extractor being recalled is model number 1480, which is written underneath the unit as part of a mark that reads "BC-1480 Juice Extractor." The juice extractor is white, and measures 12.5 inches high, 6 inches wide and 8.75 inches long.
-- **CPSC, Rashti & Rashti Announce Recall of Pacifier Clips**
-  - 2000-08-02T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Rashti--Rashti-Announce-Recall-of-Pacifier-Clips
-  - The recalled Magic Years® Novelty Pacifier Buddy Clips were sold individually, and also as part of a set with a matching bib. The pacifier clip has a small, stuffed animal attached -- including a purple cat, yellow chick, blue dog, pink bunny, green bear and white sheep. The bib sold with the bib se
-- **CPSC and The Coleman Co. Announce Recall of Gas Grills**
-  - 2000-08-01T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-and-The-Coleman-Co-Announce-Recall-of-Gas-Grills
-  - The recalled grills are green and black and have a red Coleman emblem on the grill's cover. The grill has a wheeled cart with two side tables or one side table and a side burner, and features a warming rack above the grilling surface. Only grills with series numbers 2000 or 3000 are included in the 
-- **CPSC, AmeriGas Propane L.P. Announce Recall of Propane Cylinders**
-  - 2000-07-28T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-AmeriGas-Propane-LP-Announce-Recall-of-Propane-Cylinders
-  - An AmeriGas "Prefilled Propane Xchange" or "PPX"® gas grill cylinder is white, and at the time of purchase, had a shrink-wrapped sleeve around it with the names "AmeriGas" and "PPX" on it. After investigating the source of the overfilled cylinders, AmeriGas determined the only AmeriGas office which 
+- **COMMOWNER Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Imported by AZ Home Concept** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/COMMOWNER-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Imported-by-AZ-Home-Concept
+  - This recall involves COMMOWNER-branded pressure washers. The recalled 3 GPM electric pressure washers are orange or green or blue with black parts and measure about 11 inches deep by 9 inches wide and 25 inches high. They came with a 500 ml tank, foam cannon, four quick connect nozzles, and a 33-foo
+- **Cooluli Recalls 10-Liter and 15-Liter Minifridges Due to Fire and Burn Hazards**
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Cooluli-Recalls-10-Liter-and-15-Liter-Minifridges-Due-to-Fire-and-Burn-Hazards
+  - This recall involves 10-Liter and 15-Liter Cooluli minifridges with an internal power supply and two power input ports (AC and DC) on the back of the minifridge, instead of a single DC port. The removable power cord on the recalled minifridges does not have a "brick" power adapter (as is commonly us
+- **CuberShop Magnetic Speed Cubes Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys; Imported by SKY CUBE HK** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/CuberShop-Magnetic-Speed-Cubes-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys-Imported-by-SKY-CUBE-HK
+  - This recall involves CuberShop's Magnetic Stickerless Speed Cubes, model YJ MGC 5×5. The products are a handheld 5×5 mechanical puzzle cubes that consists of interlocking plastic pieces. The Speed Cubes have six colored sides and the "MGC" logo printed on the center of the cubes. The Speed Cubes com
+- **Deli Jerry Fuel Containers Recalled Due to Risk of Serious Injury or Death from Burn Hazard and Child Poisoning; Violate Mandatory Standard for Portable Fuel Containers; Sold on Walmart.com by Deli OfficeSupplies** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Deli-Jerry-Fuel-Containers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-and-Child-Poisoning-Violate-Mandatory-Standard-for-Portable-Fuel-Containers-Sold-on-Walmart-com-by-Deli-OfficeSupplies
+  - This recall involves Deli-branded fuel containers. They are dark green metal cans and have a cap and a plastic tube. The fuel containers were sold in 5.3-gallon (20-liter), 6.6-gallon (25-liter) and 7.9-gallon (30-liter) capacities. The brand's Star logo and the capacity are embossed on the side of 
+- **DUMOS Nine-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/DUMOS-Nine-Drawer-Dressers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units
+  - This recall involves DUMOS Nine-Drawer Fabric Dressers. They were sold as television stand dressers in white, black, gray and brown, have a metal frame that measures about 13.4 inches wide, 47 inches long and 31.3 inches tall, and weigh 31.5 pounds. The dressers have LED lights and built-in power ou
+- **Fastbuy Recalls Zimtown Portable Gas and Fuel Cans Due to Risk of Serious Injury or Death from Burn Hazard and Child Poisoning; Violate Mandatory Standard for Portable Fuel Containers** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Fastbuy-Recalls-Zimtown-Portable-Gas-and-Fuel-Cans-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-and-Child-Poisoning-Violate-Mandatory-Standard-for-Portable-Fuel-Containers
+  - This recall involves Zimtown Portable "Jerry" style Gas and Fuel Cans with spout. The metal 5.0 gallon (20L) fuel cans come in red and army green. The cans have a white spout and yellow vent cap. The assembled product dimensions are 4.76 x 8.49 x 19.29 inches.
+- **GigaCloud Technology USA Recalls Merax Murphy Beds Due to Risk of Serious Injury or Death from Impact and Crush Hazards** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/GigaCloud-Technology-USA-Recalls-Merax-Murphy-Beds-Due-to-Risk-of-Serious-Injury-or-Death-from-Impact-and-Crush-Hazards
+  - This recall involves full-size and twin-size Merax Murphy beds with model numbers GX000392AAK, GX000391AAK or GX000383AAK, all sold in white. The beds are designed to be wall-mounted and can fold into a cabinet. The following model numbers and SKU codes are included in the recall: Model Number SKU C
+- **Goody King Magnetic Building Cubes and Blocks Recalled Due to Risk of Serious Injury or Death from Magnetic Ingestion Hazard; Imported by Yi Suen Commerce** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Goody-King-Magnetic-Building-Cubes-and-Blocks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnetic-Ingestion-Hazard-Imported-by-Yi-Suen-Commerce
+  - This recall involves Goody King-branded Magnetic Building Cubes, which are magnetic cubes sold in sets of 45, 56, 100, 120, 150 and 300. The cubes contain small, powerful magnets that allow the cubes to stick together and create 3D designs. The sets are available in a variety of themed building/land
+- **Hampton Bay Halwin 52-Inch Ceiling Fans Recalled Due to Impact and Injury Hazards; Manufactured by Youngo Limited**
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Hampton-Bay-Halwin-52-Inch-Ceiling-Fans-Recalled-Due-to-Impact-and-Injury-Hazards-Manufactured-by-Youngo-Limited
+  - This recall involves Hampton Bay Halwin 52-inch Indoor/Outdoor Ceiling fans with model numbers AK396H-MBK and AK396H-BN. The recalled fans have an adjustable white LED light, come in a matte black or brushed nickel finish, and include a remote. UPCs "840059614922" or "840059615370" are located on th
+- **Mattresses Recalled Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability; Sold on Amazon by Qabefy** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Mattresses-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability-Sold-on-Amazon-by-Qabefy
+  - This recall involves Qabefy-branded mattresses. They are 10 inches thick and were sold in twin sizes. They have a white top and black sides with orange trim. They were sold in a compressed box. "Item NO.: CD01101US" is printed on the product packaging.
+- **Ritchey Design Recalls Carbon Bicycle Forks Due to Risk of Serious Injury or Death from Fall and Crash Hazards** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Ritchey-Design-Recalls-Carbon-Bicycle-Forks-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Crash-Hazards
+  - This recall involves Ritchey Carbon Fiber Bicycle Forks with a crown hole. The fork fits on the front of the bicycle to hold the front wheel in place. The fork is sold individually and with certain Ritchey bicycle framesets. The framesets were sold as Montebello (Hot sauce color), Septimer (Black & 
+- **Shengsen Prank Sound Makers Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Coin Batteries; Imported by Shengsen Toys** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Shengsen-Prank-Sound-Makers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Coin-Batteries-Imported-by-Shengsen-Toys
+  - This recall involves Shengsen Prank Sound Maker. The toys were sold in sets of three and come in yellow with a black push button. "SKU: AJ0192-Y-3" and "ASIN: B0CB9WV7XN" are printed on the product's packaging.
+- **Southern Telecom Recalls Brookstone-Branded Tabletop Fire Pits Due to Risk of Serious Burn Injury or Death from Flame Jetting and Fire Hazards** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Southern-Telecom-Recalls-Brookstone-Branded-Tabletop-Fire-Pits-Due-to-Risk-of-Serious-Burn-Injury-or-Death-from-Flame-Jetting-and-Fire-Hazards
+  - This recall involves Brookstone-branded indoor/outdoor Tabletop Fire Pits with model number BSFIREPIT01 (UPC code 680079015930); BSFIREPIT02 (UPC code 680079015947); and BSFIREPIT03 (UPC code 680079015954). The fire pits consist of a round or hexagonal concrete open reservoir intended to contain bur
+- **SUGIFT Recalls SUGIFT Pressure Washers Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/SUGIFT-Recalls-SUGIFT-Pressure-Washers-Due-to-Serious-Risk-of-Injury-or-Death-From-Shock-and-Electrocution-Hazards
+  - This recall involves SUGIFT-branded pressure washers. The recalled, 2.8 GPM electric pressure washers are orange and black, and measure about 11.4 inches deep, 12.7 inches wide and 25.2 inches high. The pressure washers come with a touch screen, foam cannon, four quick disconnect nozzles, a 20-foot 
+- **Sunnyside Corporation Recalls 1-K Kerosene Heater and Appliance Fuel Containers Due to Risk of Serious Injury or Death from Flash Fire and Burn Hazard; Violates Mandatory Standards for Portable Fuel Containers** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Sunnyside-Corporation-Recalls-1-K-Kerosene-Heater-and-Appliance-Fuel-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Flash-Fire-and-Burn-Hazard-Violates-Mandatory-Standards-for-Portable-Fuel-Containers
+  - This recall involves Sunnyside gallon 1-K Kerosene Heater and Appliance Fluid Portable Fuel Containers with batch number 26082. The bottles come in white plastic containers with white caps and have a multicolor label with the words "sunnyside" and "kerosene". The container has labels on front and ba
+- **Taleco Gear Recalls Baby Jumpers, Baby Swings and 2-in-1 Baby Jumper & Swings Due to Risk of Serious Injury or Death from Fall and Strangulation Hazards** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Taleco-Gear-Recalls-Baby-Jumpers-Baby-Swings-and-2-in-1-Baby-Jumper-Swings-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Strangulation-Hazards
+  - This recall involves G Taleco Gear Baby Jumpers, Baby Swings and Baby Jumper & Swings, sold in black, white, gray, pink, blue and green. The following model numbers are included in the recall: Product Name Model Number Baby Jumper jumper-01 Baby Swing swing-1 2-in-1 Jumper & Swing-A jumper-01 2-in-1
+- **TooyBing Wooden Bead Stacking Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Small Parts Ban** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/TooyBing-Wooden-Bead-Stacking-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Small-Parts-Ban
+  - This recall involves the TooyBing Wooden Bead Stacking Toy, model TB-MZWJ. The multicolored toys consist of 25 pink, blue, red, orange, purple, green, white and yellow wooden beads, two wood sticks with yellow and red string laces attached, eight pattern cards and one wooden pegged stand. "TooyBing,
+- **Yamazuki Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violates Mandatory Standard for ATVs** `fatality-linked`
+  - 2026-08-13T00:00:00 — https://www.cpsc.gov/Recalls/2026/Yamazuki-Recalls-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violates-Mandatory-Standard-for-ATVs
+  - This recall involves Yamazuki's QEASET or HOVERHEART-branded youth ATVs, model XW-A19. The 40-cubic centimeters, gasoline youth ATVs were sold in blue, pink, red, green camouflage and an American flag motif. "Yamazuki, Inc." and the model are printed on the identification plate located on the front 
+- **Weather Radios Recalled by Oregon Scientific**
+  - 2000-08-24T00:00:00 — https://www.cpsc.gov/Recalls/2000/Weather-Radios-Recalled-by-Oregon-Scientific
+  - These All Hazards Weather Radios use S.A.M.E. technology to receive local weather warnings broadcast by the National Weather Service. The radios also function as AM/FM clock radios and have model number WR-122 printed on the bottom. Writing on the radio reads "NOAA Weather Radio" and "OREGON SCIENTI
+- **CPSC, Fisher-Price Announce Recall of Swings and Toys**
+  - 2000-08-23T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Fisher-Price-Announce-Recall-of-Swings-and-Toys
+  - The Lift & Lock Swing is an outdoor swing for children 9 months to 3 years. The swing has a plastic "T"-shaped restraint shield to hold children in the seat. The Lift & Lock Swings have red or purple plastic seats, yellow "T"- shaped restraint shields and blue ropes. "Fisher-Price(r)" is written on 
+- **CPSC, Kids Line Inc. Announce Recall to Repair "Le Cradle" Bassinets**
+  - 2000-08-23T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Kids-Line-Inc-Announce-Recall-to-Repair-Le-Cradle-Bassinets
+  - The recalled bassinets were sold under the name "Le Cradle Bassinette." The bassinet has a white metal base with wheels and a removable canopy. The oval bassinet itself is made up of a metal wire frame and a wooden base board that rests on the metal base. A sticker on the mattress platform gives ins
+- **CPSC, The Penray Companies Inc. Announce Recall of Starting Fluid**
+  - 2000-08-17T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-The-Penray-Companies-Inc-Announce-Recall-of-Starting-Fluid
+  - The recalled starting fluid was sold under the Penray, Super-X and Service Pro brand names in 10.1 ounce cans. The recalled cans have a number printed on the dome of the can ranging from 9305 through 9365. For consumers who purchased the starting fluid by the case, the production date is written on 
+- **Girl's Nightshirts Recalled by the William Carter Co.**
+  - 2000-08-17T00:00:00 — https://www.cpsc.gov/Recalls/2000/Girls-Nightshirts-Recalled-by-the-William-Carter-Co
+  - The recalled nightshirts have long sleeves, and were sold in sizes small (4-5 year), medium (6-7 year), large (8-10 year) and, x-large (12-14 year). They are made with 100 percent polyester fabric with a pattern of brown bears wearing pink pajamas and the words "p.j. bear" printed on a white backgro
+- **Swivel Rocker Chairs Recalled by Tropitone Furniture**
+  - 2000-08-17T00:00:00 — https://www.cpsc.gov/Recalls/2000/Swivel-Rocker-Chairs-Recalled-by-Tropitone-Furniture
+  - The chairs have oval-shaped arms and are sold in two styles. Chairs with model number 189930 have cushion seats. Chairs with model number 199930 have sling fabric seats. Both models were sold in various solid colors and print fabrics. The chair frames have six color finishes: aged pewter, aluminum, 
+- **CPSC, Playskool Announce Recall to Replace Busy Poppin' Pals Toys**
+  - 2000-08-16T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Playskool-Announce-Recall-to-Replace-Busy-Poppin-Pals-Toys
+  - The Playskool Busy Poppin' Pals is a 13-inch-long white plastic toy with blue, yellow and red buttons, levers and knobs of various shapes that, when activated, make animal characters pop up from under the toy's base. The animals are hidden under blue, yellow or red lids that have the numbers 1 throu
+- **CPSC, Manco Products Inc. Announce Recall to Repair of Go-Karts**
+  - 2000-08-14T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-Manco-Products-Inc-Announce-Recall-to-Repair-of-Go-Karts
+  - These one- and two-seat go-karts are powered by gasoline engines. They were sold under the Manco, Phoenix, Fox, Rattler and Coyote labels. Most have brush bars to protect riders from low tree branches and other foliage. The recall involves two groups of go-karts. The first group has black plastic de
+- **CPSC, KFC Corporation Announce Recall of Toy Included With KFC Kids Meals**
+  - 2000-08-10T00:00:00 — https://www.cpsc.gov/Recalls/2000/CPSC-KFC-Corporation-Announce-Recall-of-Toy-Included-With-KFC-Kids-Meals
+  - The Tangled Treeples toy's green, plastic container, which measures about 3 inches in diameter and 1.25 inches deep, has trees molded on the outside. Inside are seven "Tangled Treeples" animal figures, including a monkey, owl, snake, raccoon and bear. Children can empty the animals out of the contai
 
 ### Marler Blog (food safety plaintiff bar) (10)
 
-- **Eleven Letters From Congress in Seventeen Days about Cyclospora, and Not One of Them Has Been Answered. Thank You for Writing. Now Please Make Them Answer — Four Deadlines Have Already Passed, Three More Come Due This Week, and 26,755 of Us Are Watching.**
-  - 2026-08-10 — https://www.marlerblog.com/case-news/eleven-letters-from-congress-in-seventeen-days-and-not-one-of-them-has-been-answered-thank-you-for-writing-now-please-make-them-answer-four-deadlines-have-already-passed-three-more-come/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48553" height="427" src="https://www.marlerblog.com/files/2026/08/congress-cover-1-640x427.jpg" style="height: auto; height: auto;" width="640" /></figure>
-<p>Between July 14 and Jul
-- **A White House Adviser Says the Cyclospora Outbreak Is Manufactured Hysteria. Taco Bell’s Parent Company Is on His List of Culprits.** `multi-state, fatality-linked`
-  - 2026-08-09 — https://www.marlerblog.com/case-news/a-white-house-adviser-says-the-cyclospora-outbreak-is-manufactured-hysteria-taco-bells-parent-company-is-on-his-list-of-culprits/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48547" height="640" src="https://www.marlerblog.com/files/2026/08/1786278073714-296x640.jpeg" style="height: auto; height: auto;" width="296" /></figure>
-<p>Sarah Despres and Susan M
-- **FDA’s own file says the Taylor Farms Recall covered 236,192 cases and it was NOT just Iceberg. Subway is the biggest restaurant on the list and has NOT said a word about Cyclospora.**
-  - 2026-08-09 — https://www.marlerblog.com/case-news/fdas-own-file-says-the-taylor-farms-recall-covered-236192-cases-and-it-was-not-just-iceberg-subway-is-the-biggest-restaurant-on-the-list-and-has-not-said-a-word/
-  - <figure class="wp-block-image size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48539" height="580" src="https://www.marlerblog.com/files/2026/08/cyclospora-july-19-wall-640x580.png" style="height: auto; height: auto;" width="640" /></figure>
-<p>Three weeks ago, Taylor Farm
-- **This Cyclospora Outbreak Has Sickened 26,755 and Killed Two. I Was Awake at Three This Morning Working Out What That Last Number Would Have Been With a Different Organism.** `fatality-linked`
-  - 2026-08-09 — https://www.marlerblog.com/case-news/this-cyclospora-outbreak-has-sickened-26755-and-killed-two-i-was-awake-at-three-this-morning-working-out-what-that-last-number-would-have-been-with-a-different-organism/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48543" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_A_single_worn_playing_card_lying_face_up_on_a_stainle_11e498fb-dc0c-4c02-8725-3a89560f517c_1-640x482.png" st
-- **Weekend Wrap-Up: Two People Died, the Federal Count Tripled Without Anyone New Getting Sick, and One Summer Passed Thirty Years of Cyclospora History** `fatality-linked`
-  - 2026-08-08 — https://www.marlerblog.com/case-news/weekend-wrap-up-two-people-died-the-federal-count-tripled-without-anyone-new-getting-sick-and-one-summer-passed-thirty-years-of-cyclospora-history/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48406" height="336" src="https://www.marlerblog.com/files/2026/07/wrapup-social-link-1200x630-1-1-640x336.png" style="height: auto; height: auto;" width="640" /></figure>
-<p><em>Satu
-- **Salmonella Javiana Is a Water Organism. The Water Standard Was Written in 2015 and Never Once Enforced.** `fatality-linked`
-  - 2026-08-08 — https://www.marlerblog.com/case-news/salmonella-javiana-is-a-water-organism-the-water-standard-was-written-in-2015-and-never-once-enforced/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48532" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_Salmonella_Javiana_water_and_amphibians_realistic_pic_ab677fc6-e0a0-42fa-af8a-d271273bd929_3-640x482.png" st
-- **It is not over until … someone sings – Ohio Added Nearly Nine Hundred Cyclospora Cases and Arkansas Thirty-Two.** `fatality-linked`
-  - 2026-08-08 — https://www.marlerblog.com/case-news/it-is-not-over-until-someone-sings-ohio-added-nearly-nine-hundred-cyclospora-cases-and-arkansas-thirty-two/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48259" height="357" src="https://www.marlerblog.com/files/2026/07/image-3-640x357.jpeg" style="height: auto; height: auto;" width="640" /></figure>
-<p><strong><em>Ohio Alone Has Now 
-- **IFAP Has Told CDC in Writing That This Cyclospora Outbreak May Be Coming From American Water Rather Than Taylor Farms Lettuce.**
-  - 2026-08-07 — https://www.marlerblog.com/case-news/ifap-has-told-cdc-in-writing-that-this-cyclospora-outbreak-may-be-coming-from-american-water-rather-than-taylor-farms-lettuce/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48523" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_Clock_showing_400_AM_next_to_a_cup_of_coffee_with_FSN_30ff82e7-a818-43c6-92fd-219890601170_1-640x482.png" st
-- **No, RFK Jr., The Cyclospora Outbreak is NOT “Under Control”** `fatality-linked`
-  - 2026-08-07 — https://www.marlerblog.com/case-news/no-rfk-jr-the-cyclospora-outbreak-is-not-under-control/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48520" height="479" src="https://www.marlerblog.com/files/2026/08/cyclospora-map-rfk-circle-640x479.jpg" style="height: auto; height: auto;" width="640" /></figure>
-<p>Tonight I went
-- **In 2011 CDC Called Taco Bell “Restaurant Chain A.” In 2026 FDA Named It in the First Sentence of Its First Advisory. Nothing Changed but the Decision to Type the Name.** `multi-state, fatality-linked`
-  - 2026-08-06 — https://www.marlerblog.com/case-news/in-2011-cdc-called-taco-bell-restaurant-chain-a-in-2026-fda-named-it-in-the-first-sentence-of-its-first-advisory-nothing-changed-but-the-decision-to-type-the-name/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48515" height="427" src="https://www.marlerblog.com/files/2026/08/bmarler_a_single_head_of_iceberg_lettuce_on_a_plain_white_sur_518a4060-36c9-42e7-abef-f8fb395bd668_0-640x427.png" st
+- **The Guardian Went and Read the Lobbying Disclosures. Now We Know Who Asked Congress to Push the Traceability Rule to 2028.**
+  - 2026-08-17 — https://www.marlerblog.com/case-news/the-guardian-went-and-read-the-lobbying-disclosures-now-we-know-who-asked-congress-to-push-the-traceability-rule-to-2028/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48640" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_The_Guardian_Went_and_Read_the_Lobbying_Disclosures.__15df6107-d9a0-4343-bd70-4b6e7776ef24_1-640x482.png" st
+- **It Is Sunday Night, and Here Is Where the Three Outbreaks That Have Taken Up My Summer Stand. Cyclospora at 30,523 by My Count, 345 Sick from Salmonella Jalapeños, and the Last Recalled Egg Expires Tomorrow.** `multi-state, fatality-linked`
+  - 2026-08-17 — https://www.marlerblog.com/case-news/it-is-sunday-night-and-here-is-where-the-three-outbreaks-that-have-taken-up-my-summer-stand-cyclospora-at-30523-by-my-count-345-sick-from-salmonella-jalapenos-and-the-last-recalled-egg/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48637" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_It_Is_Sunday_Night_and_Here_Is_Where_the_Three_Outbre_cb0c7d0c-7723-4dbd-983e-953c3a6e5c22_2-640x482.png" st
+- **Congress Told the FDA to Write the Food Traceability Rule by January 2013. Enforcement Now Begins in July 2028. Here Is How Fifteen and a Half Years Went By.**
+  - 2026-08-16 — https://www.marlerblog.com/case-news/congress-told-the-fda-to-write-the-food-traceability-rule-by-january-2013-enforcement-now-begins-in-july-2028-here-is-how-fifteen-and-a-half-years-went-by/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48613" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_Congress_Told_the_FDA_to_Write_the_Food_Traceability__7464255a-b175-4cf0-8700-c83295b034c3_3-640x482.png" st
+- **The Ramona Deli Was a Salmonella Cluster. Happy Hens was the Source. Twenty-One Sick, and the Eggs Are Still Moving.**
+  - 2026-08-16 — https://www.marlerblog.com/case-news/the-ramona-deli-was-a-salmonella-cluster-happy-hens-was-the-source-twenty-one-sick-and-the-eggs-are-still-moving/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48631" height="276" src="https://www.marlerblog.com/files/2026/08/Ramona_HappyHens_Salmonella_Header-640x276.jpg" style="height: auto; height: auto;" width="640" /></figure>
+<p>San D
+- **My Saturday Night: The Fifty-State Cyclospora Count Is Now 30,523. Where CDC, FDA and the States Stand After a Week, and CDC Has Quietly Moved the Outbreak’s First Illness Back to June 14.** `multi-state`
+  - 2026-08-16 — https://www.marlerblog.com/case-news/my-saturday-night-the-fifty-state-cyclospora-count-is-now-30523-where-cdc-fda-and-the-states-stand-after-a-week-and-cdc-has-quietly-moved-the-outbreaks-first-illness-back-to-ju/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48626" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_My_Saturday_Night_The_Fifty-State_Cyclospora_Count_Is_a4dc4bc9-e247-427e-affa-79a9cd7d2128_1-640x482.png" st
+- **FDA’s Listeria Meeting Is Tuesday. The Docket Is Open, and You Do Not Have to Be in the Room.** `fatality-linked`
+  - 2026-08-16 — https://www.marlerblog.com/case-news/fdas-listeria-meeting-is-tuesday-the-docket-is-open-and-you-do-not-have-to-be-in-the-room/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48620" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_Listeria_in_the_background_with_the_word_Comments_in__f1682459-7518-4d65-8c28-18cdcb956e28_2-640x482.png" st
+- **Weekend Wrap-Up: On Tuesday They Said the Food Supply Was the Safest in the World and the Outbreak Was Contained. By Thursday Night the Government’s Own Outbreak Had Grown by Half.** `multi-state, fatality-linked`
+  - 2026-08-15 — https://www.marlerblog.com/case-news/weekend-wrap-up-on-tuesday-they-said-the-food-supply-was-the-safest-in-the-world-and-the-outbreak-was-contained-by-thursday-night-the-governments-own-outbreak-had-grown-by-half/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48324" height="336" src="https://www.marlerblog.com/files/2026/07/wrapup-social-link-1200x630-1.png-640x336.webp" style="height: auto; height: auto;" width="640" /></figure>
+<p><em>S
+- **The Fifty-State Cyclospora Count Is Now 30,523. Where CDC, FDA and the States Stand After a Week, and CDC Has Quietly Moved the Outbreak’s First Illness Back to June 14.** `multi-state`
+  - 2026-08-15 — https://www.marlerblog.com/case-news/the-fifty-state-cyclospora-count-is-now-30523-where-cdc-fda-and-the-states-stand-after-a-week-and-cdc-has-quietly-moved-the-outbreaks-first-illness-back-to-june-14/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48610" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_The_Fifty-State_Cyclospora_Count_Is_Now_30523._Where__6fc73980-5c87-45f6-ab0c-00f8abef7075_0-640x482.png" st
+- **The Fifty-State Cyclospora Count Is Now 29,920. Mexico Says the Lettuce Tested Clean — It Sampled a Plant That Had Just Stopped Running — the FDA Arrived Twenty-Six Days After That.**
+  - 2026-08-15 — https://www.marlerblog.com/case-news/the-fifty-state-cyclospora-count-is-now-29920-mexico-says-the-lettuce-tested-clean-it-sampled-a-plant-that-had-just-stopped-running-and-fda-arrived-twenty-six-days-after-that/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48606" height="482" src="https://www.marlerblog.com/files/2026/08/bmarler_The_Fifty-State_Cyclospora_Count_Is_Now_29920._Mexico_611fef70-b42c-4e69-912d-a186c12288b9_0-640x482.png" st
+- **Three Illnesses Now Reported in the Oma’s Pride Raw Dog Food Salmonella Recall. People or Dogs? The Notice Does Not Say.**
+  - 2026-08-15 — https://www.marlerblog.com/case-news/three-illnesses-now-reported-in-the-omas-pride-raw-dog-food-salmonella-recall-people-or-dogs-the-notice-does-not-say/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-48603" height="616" src="https://www.marlerblog.com/files/2026/08/image_1_212-640x616.png" style="height: auto; height: auto;" width="640" /></figure>
+<p>The Oma&rsquo;s Pride recall
 
-### SEC 8-K (Item 4.02: material weakness) (2)
+### SEC 8-K (Item 4.02: material weakness) (3)
 
-- **CREDITRISKMONITOR COM INC  (CRMZ)  (CIK 0000315958) — Item 4.02 8-K referencing 'material weakness'**
-  - 2026-08-06 — https://www.sec.gov/Archives/edgar/data/315958/000114036126031633/ef20079472_8k.htm
-  - 0001140361-26-031633
-- **Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157) — Item 4.02 8-K referencing 'material weakness'**
-  - 2026-08-05 — https://www.sec.gov/Archives/edgar/data/1703157/000101738626000096/scth_form8k08052026.htm
-  - 0001017386-26-000096
+- **HCW Biologics Inc.  (HCWB)  (CIK 0001828673) — Item 4.02 8-K referencing 'material weakness'**
+  - 2026-08-14 — https://www.sec.gov/Archives/edgar/data/1828673/000149315226038240/form8-k.htm
+  - 0001493152-26-038240
+- **Pelthos Therapeutics Inc.  (PTHS)  (CIK 0001919246) — Item 4.02 8-K referencing 'material weakness'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/1919246/000191924626000110/pths-20260812.htm
+  - 0001919246-26-000110
+- **Capstone Holding Corp.  (CAPS)  (CIK 0000887151) — Item 4.02 8-K referencing 'material weakness'**
+  - 2026-08-12 — https://www.sec.gov/Archives/edgar/data/887151/000143774926027149/caps20260807_8k.htm
+  - 0001437749-26-027149
+
+### SEC 8-K (Item 8.01: enforcement action) (7)
+
+- **Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36  (CIK 0002145539) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-08-14 — https://www.sec.gov/Archives/edgar/data/2145539/000153949726002258/exh4_1-c36psa.htm
+  - 0001539497-26-002258
+- **Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36  (CIK 0002145539) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-08-14 — https://www.sec.gov/Archives/edgar/data/2145539/000153949726002258/exh4_2-bnk52psa.htm
+  - 0001539497-26-002258
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_4-mtn2026lpfxtsa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_5-v21psa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_3-5c7psa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_1-5c16psa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_2-5c15psa.htm
+  - 0001539497-26-002210
+
+### SEC 8-K (Item 8.01: subpoena) (7)
+
+- **Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36  (CIK 0002145539) — Item 8.01 8-K referencing 'subpoena'**
+  - 2026-08-14 — https://www.sec.gov/Archives/edgar/data/2145539/000153949726002258/exh4_1-c36psa.htm
+  - 0001539497-26-002258
+- **Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36  (CIK 0002145539) — Item 8.01 8-K referencing 'subpoena'**
+  - 2026-08-14 — https://www.sec.gov/Archives/edgar/data/2145539/000153949726002258/exh4_2-bnk52psa.htm
+  - 0001539497-26-002258
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'subpoena'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_4-mtn2026lpfxtsa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'subpoena'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_3-5c7psa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'subpoena'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_5-v21psa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'subpoena'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_1-5c16psa.htm
+  - 0001539497-26-002210
+- **BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) — Item 8.01 8-K referencing 'subpoena'**
+  - 2026-08-13 — https://www.sec.gov/Archives/edgar/data/2136643/000153949726002210/exh4_2-5c15psa.htm
+  - 0001539497-26-002210
 
 ### Top Class Actions (35)
 
+- **Southern Telecom recalls Brookstone fire pits due to burn hazards** `class-action, fatality-linked`
+  - 2026-08-17 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/southern-telecom-recalls-brookstone-fire-pits-due-to-burn-hazards/
+  - <p>Southern Telecom is recalling nearly 48,700 Brookstone-branded tabletop fire pits due to significant safety concerns that could lead to severe burn injuries or even death.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/southern-telecom-reca
+- **Nordstrom, PetSmart, Nike face class action lawsuits over alleged unpaid wages** `class-action`
+  - 2026-08-16 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/nordstrom-petsmart-nike-face-class-action-lawsuits-over-alleged-unpaid-wages/
+  - <p>Two new class action lawsuits and a class, collective and representative lawsuit allege Nordstrom, PetSmart and companies involved in a Nike commercial production denied hourly workers compliant meal periods and rest breaks and failed to pay all wages owed.... <a class="simple-btn-link" href="htt
+- **Schylling class action claims NeeDoh toys explode in heat, cause burns** `class-action`
+  - 2026-08-16 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/schylling-class-action-claims-needoh-toys-explode-in-heat-cause-burns/
+  - <p>The manufacturer of the NeeDoh line of squeezable sensory toys faces a new class action lawsuit alleging the products pose a safety risk to consumers due to their tendency to explode when exposed to heat.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/l
+- **Apple class action alleges App Store failed to stop fake crypto wallet app** `class-action, WATCHLIST:Apple`
+  - 2026-08-16 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-class-action-alleges-app-store-failed-to-stop-fake-crypto-wallet-app/
+  - <p>Three Apple customers have filed a class action lawsuit alleging the tech giant failed to protect App Store users from a fraudulent cryptocurrency wallet app that allegedly stole more than $1.8 million in digital assets.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-sett
+- **Sunbeam, Newell Brands settle lawsuit over allegedly exploding Crock-Pot** `class-action`
+  - 2026-08-15 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/sunbeam-newell-brands-settle-lawsuit-over-allegedly-exploding-crock-pot/
+  - <p>A mother has reached a confidential settlement with Sunbeam Products and Newell Brands over allegations that a Crock-Pot electric pressure cooker exploded and severely burned her young daughter.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/sunbe
+- **Meta ordered to pay $567M to address harm to New Mexico children** `class-action`
+  - 2026-08-15 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-ordered-to-pay-567m-to-address-harm-to-new-mexico-children/
+  - <p>A judge in New Mexico ordered Meta Platforms to pay an additional $567 million to address harm to children in the state after a jury found the company’s social media platforms “substantially contributed to a public nuisance” in New Mexico.... <a class="simple-btn-link" href="https://topclassactio
+- **Lowe’s class action alleges halogen work light burns skin** `class-action`
+  - 2026-08-15 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/lowes-class-action-alleges-halogen-work-light-burns-skin/
+  - <p>A new class action lawsuit alleges Lowe's Companies, Lowe's Home Centers and Utilitech sell a halogen work light with exterior surfaces that can become hot enough to burn skin during ordinary use.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/low
+- **Lacoste lawsuit investigation: Did your receipt show too much card information?** `class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/investigations/lacoste-printed-receipt-class-action-lawsuit/
+  - <p>Did Lacoste print too much of your card number on a receipt? California shoppers may have a legal claim. See if you qualify to join a Lacoste lawsuit. ... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/lacoste-printed-receipt-class-action-lawsuit/"
+- **$4.02M ApolloMD data breach class action settlement** `class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-02m-apollomd-data-breach-class-action-settlement/
+  - <p>ApolloMD has agreed to a $4.02 million class action settlement over a 2025 data breach that compromised patient information.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-02m-apollomd-data-breach-class-action-settlement/">Read More<
+- **Unpaid wages lawsuit: California warehouse and distribution center worker investigation** `class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/investigations/california-warehouse-wage-and-hour-class-action-lawsuit/
+  - <p>California warehouse and distribution center workers may qualify for an unpaid wages lawsuit involving missed breaks and off-the-clock work. Learn more.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/california-warehouse-wage-and-hour-class-acti
+- **$18.8M O’Reilly Automotive spam text messages class action settlement** `class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/18-8m-oreilly-automotive-spam-text-messages-class-action-settlement/
+  - <p>O'Reilly Automotive has agreed to pay $18.8 million to resolve claims it sent unsolicited text messages to phone numbers on the National Do Not Call Registry in violation of the Telephone Consumer Protection Act.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/
+- **Apple AirTag lawsuit: Did an AirTag put your safety at risk?** `class-action, WATCHLIST:Apple`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/investigations/apple-airtag-tracking-lawsuit/
+  - <p>Were you secretly tracked or stalked with an Apple AirTag? Learn about the Apple AirTag lawsuit and see if you may qualify to take legal action.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/apple-airtag-tracking-lawsuit/">Read More</a></p>
+<p>
+- **Nike class action alleges company falsely advertised discounts** `class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/nike-class-action-alleges-company-falsely-advertised-discounts/
+  - <p>A new class action lawsuit accuses Nike of using a “deceptive reference price scheme” with online sales of its products on its website and through its mobile app.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/nike-class-action-alleges-comp
+- **Capital One class action alleges late-night debt collection calls violated Florida law** `class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/capital-one-class-action-alleges-late-night-debt-collection-calls-violated-florida-law/
+  - <p>A new class action lawsuit alleges Capital One Financial Corp. violated Florida law by placing debt collection calls to a consumer's cellphone late at night without his consent.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/capital-one-cla
+- **Taylor Fresh Foods recalls jalapeño from Kroger, Walmart, Target amid Salmonella outbreak** `multi-state, class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/taylor-fresh-foods-recalls-jalapeno-from-kroger-walmart-target-amid-salmonella-outbreak/
+  - <p>California-based Taylor Fresh Foods is recalling dozens of finished products made with jalapeños after learning that supplier Coast Citrus Distributors is voluntarily recalling fresh jalapeños linked to a multistate Salmonella outbreak.... <a class="simple-btn-link" href="https://topclassactions.
+- **Stellantis recalls 1.2M Ram 1500 trucks over seatbelt buckle issue** `class-action`
+  - 2026-08-14 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/stellantis-recalls-1-2m-ram-1500-trucks-over-seatbelt-buckle-issue/
+  - <p>Stellantis is recalling nearly 1.3 million of its Ram 1500 pickup trucks from model years 2019 to 2026 due to concerns over improperly attached seatbelt buckle anchors in the second row.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/stellantis-re
+- **$2.1M Atrium Health data privacy class action settlement** `class-action`
+  - 2026-08-13 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-1m-atrium-health-data-privacy-class-action-settlement/
+  - <p>Atrium Health has agreed to a $2.1 million class action settlement over claims it used pixel technology that led to the disclosure of personal information.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-1m-atrium-health-data-privacy-
+- **Tesla idle fees class action settlement** `class-action`
+  - 2026-08-13 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/tesla-idle-fees-class-action-settlement/
+  - <p>Tesla agreed to a class action settlement to resolve claims it charged "idle fees" to customers who purchased vehicles with free lifetime Supercharging. Claim between $10 and $350.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/tesla-i
+- **NYC DOE sued over alleged failures to protect students with disabilities from abuse** `class-action`
+  - 2026-08-13 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/nyc-doe-sued-over-alleged-failures-to-protect-students-with-disabilities-from-abuse/
+  - <p>A District 75 student, identified as Z.S. through his parent A.C., has filed a proposed class action lawsuit accusing the New York City Department of Education of routinely failing to adequately investigate reports that teachers and other school employees physically or verbally abused students wi
+- **FTC lawsuit alleges Hims & Hers charged consumers for unwanted prescriptions** `class-action`
+  - 2026-08-13 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ftc-lawsuit-alleges-hims-hers-charged-consumers-for-unwanted-prescriptions/
+  - <p>A new lawsuit, led by the Federal Trade Commission (FTC), alleges Hims &#038; Hers Health charged consumers for prescription medication subscriptions they never agreed to purchase, deceiving them about the company's billing practices.... <a class="simple-btn-link" href="https://topclassactions.co
+- **Jalapeño recall grows as Chipotle, QDOBA pull peppers over Salmonella** `multi-state, class-action`
+  - 2026-08-13 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/jalapeno-recall-grows-as-chipotle-qdoba-pull-peppers-over-salmonella/
+  - <p>A fresh jalapeño recall is underway after federal health officials linked peppers imported from Sinaloa, Mexico, to a multistate Salmonella outbreak.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/jalapeno-recall-grows-as-chipotle-qdoba-pull-peppe
+- **$17.5M 700Credit data breach class action settlement** `class-action`
+  - 2026-08-12 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17-5m-700credit-data-breach-class-action-settlement/
+  - <p>A $17.5 million 700Credit data breach class action settlement is open to individuals whose information was compromised in the 2025 data breach.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17-5m-700credit-data-breach-class-action-set
+- **Kroger class action alleges ‘No Preservatives’ labels are false** `class-action`
+  - 2026-08-12 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/kroger-class-action-alleges-no-preservatives-labels-are-false/
+  - <p>A new class action lawsuit accuses Kroger of falsely advertising dozens of its private label food products as free of preservatives despite ingredient lists that disclose chemicals widely recognized as preservatives.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settleme
+- **Verizon retailer Victra faces two class action lawsuits over data breach** `class-action`
+  - 2026-08-12 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/verizon-retailer-victra-faces-two-class-action-lawsuits-over-data-breach/
+  - <p>Two new class action lawsuits allege Victra, one of the largest Verizon retailers in the country, failed to protect customers' and employees' sensitive personal information, resulting in a data breach.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/laws
+- **Apple class action alleges Hide My Email feature does not work as advertised** `class-action, WATCHLIST:Apple`
+  - 2026-08-12 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-class-action-alleges-hide-my-email-feature-does-not-work-as-advertised/
+  - <p>A new class action lawsuit claims Apple misrepresented the privacy capabilities of its Hide My Email feature.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-class-action-alleges-hide-my-email-feature-does-not-work-as-advertised/">Read More</
+- **$5.5M Central Transport sex discrimination settlement** `multi-state, class-action`
+  - 2026-08-11 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-5m-central-transport-sex-discrimination-settlement/
+  - <p>Central Transport LLC has agreed to pay $5,500,000 to resolve a nationwide EEOC lawsuit alleging the company refused to hire qualified female truck driver applicants because of their sex.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/
+- **Class action claims YouTube Premium subscribers still see ads despite ‘ad-free’ promise** `class-action`
+  - 2026-08-11 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-claims-youtube-premium-subscribers-still-see-ads-despite-ad-free-promise/
+  - <p>A new class action lawsuit alleges YouTube Premium is not ad-free, as promised.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-claims-youtube-premium-subscribers-still-see-ads-despite-ad-free-promise/">Read More</a></p>
+<p>The post <a
+- **Ulta Salon accused of tracking customers unlawfully with ‘Meta Pixel’** `class-action`
+  - 2026-08-11 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ulta-salon-accused-of-tracking-customers-unlawfully-with-meta-pixel/
+  - <p>A new class action lawsuit accuses Ulta Salon of violating privacy laws by intercepting, recording, decoding, capturing, disclosing and using the contents of its website visitors’ electronic communications.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsui
+- **Covidien hit with $88M verdict in first bellwether hernia mesh trial** `class-action`
+  - 2026-08-11 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/covidien-hit-with-88m-verdict-in-first-bellwether-hernia-mesh-trial/
+  - <p>A Massachusetts federal jury awarded $88 million to a man who alleged he suffered serious injuries after receiving a Covidien Symbotex hernia mesh implant, marking the first bellwether trial verdict in the ongoing hernia mesh multidistrict litigation against the Medtronic subsidiary.... <a class=
+- **Social media addiction lawsuit: Did excessive use cause mental health harm?** `class-action`
+  - 2026-08-10 — https://topclassactions.com/lawsuit-settlements/investigations/social-media-addiction-lawsuit/
+  - <p>Teens and young adults are developing severe mental health symptoms tied to social media addiction. Find out if you qualify to take legal action.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/social-media-addiction-lawsuit/">Read More</a></p>
+<
+- **Keystone RV Passport travel trailer class action judgment** `class-action`
+  - 2026-08-10 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/keystone-rv-passport-travel-trailer-class-action-judgment/
+  - <p>Keystone RV Co. has agreed to pay $2,000 to each owner of a Passport Brand Western Edition trailer with a serial number ending after HX414101 to resolve claims it misrepresented the materials used to build the trailers.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settl
+- **CVS class action claims toddler wipes falsely labeled as hypoallergenic** `class-action`
+  - 2026-08-10 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/cvs-class-action-claims-toddler-wipes-falsely-labeled-as-hypoallergenic/
+  - <p>A new class action lawsuit alleges CVS falsely advertises its toddler cleansing wipes as hypoallergenic despite the presence of added fragrance, a known allergen.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/cvs-class-action-claims-toddle
 - **Court tosses Mercedes-Benz class action over alleged panoramic sunroof defect** `class-action`
   - 2026-08-10 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/court-tosses-mercedes-benz-class-action-over-alleged-panoramic-sunroof-defect/
   - <p>A federal judge has dismissed a class action lawsuit against Mercedes-Benz alleging the panoramic sunroofs in their vehicles are defective and shatter under normal driving conditions.<br />
@@ -149,105 +308,4 @@
   - 2026-08-10 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ford-recalls-more-than-122k-vehicles-over-drivetrain-seat-recline-defects/
   - <p>Ford Motor is recalling more than 122,000 vehicles across two separate campaigns, one addressing a potential drivetrain failure and another addressing an unintended seat-reclining defect, according to recall notices filed with the National Highway Traffic Safety Administration (NHTSA).<br />
 ... 
-- **$120M NAR real estate commission class action settlement** `class-action`
-  - 2026-08-07 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/
-  - <p>The National Association of Realtors and several real estate brokerages agreed to pay more than $120 million to resolve claims they violated federal antitrust laws by conspiring to raise and fix real estate broker commissions.... <a class="simple-btn-link" href="https://topclassactions.com/lawsui
-- **Travelers Insurance New Mexico UIM coverage class action settlement** `class-action`
-  - 2026-08-07 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/travelers-insurance-new-mexico-uim-coverage-class-action-settlement/
-  - <p>Travelers Insurance class action settlement for New Mexico UIM coverage. Class members can receive a premium refund or a claim re-evaluation.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/travelers-insurance-new-mexico-uim-coverage-cl
-- **Busch Gardens class action alleges theme park sent spam emails** `class-action`
-  - 2026-08-07 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/busch-gardens-class-action-alleges-theme-park-sent-spam-emails/
-  - <p>A new class action lawsuit alleges Busch Gardens sends false and misleading marketing and commercial emails to Maryland residents.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/busch-gardens-class-action-alleges-theme-park-sent-spam-emails/">Read
-- **Comenity Bank lawsuit: Did you receive prerecorded calls?** `class-action`
-  - 2026-08-07 — https://topclassactions.com/lawsuit-settlements/investigations/comenity-capital-bank-tcpa-class-action-lawsuit/
-  - <p>Received unwanted prerecorded calls from Comenity Capital Bank? You may qualify to take legal action as part of a Comenity Bank lawsuit.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/comenity-capital-bank-tcpa-class-action-lawsuit/">Read More</
-- **Judge grants preliminary approval to $18.7M turkey price-fixing settlement** `class-action`
-  - 2026-08-07 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/judge-grants-preliminary-approval-to-18-7m-turkey-price-fixing-settlement/
-  - <p>An Illinois federal judge has granted preliminary approval to an $18.7 million class action settlement involving House of Raeford Farms and Prestage Farms in long-running litigation accusing poultry producers of conspiring to fix turkey prices.... <a class="simple-btn-link" href="https://topclass
-- **FTC refunds issued in July 2026: Who’s getting paid?** `class-action`
-  - 2026-08-07 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ftc-refunds-issued-in-july-2026-whos-getting-paid/
-  - <p>Check your mailbox or inbox! In July, the Federal Trade Commission sent the following refunds to consumers and students who qualified. ... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/ftc-refunds-issued-in-july-2026-whos-getting-paid/">Read More</a
-- **Ford recalls more than 676K vehicles over roof rail, second-row seat defects** `class-action`
-  - 2026-08-07 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ford-recalls-more-than-676k-vehicles-over-roof-rail-second-row-seat-defects/
-  - <p>Ford is recalling 288,314 model-year 2016-2019 Explorer SUVs over roof rail covers that can detach while driving, and another 387,911 model-year 2020-2026 Explorer and 2020-2027 Lincoln Aviator SUVs over a second-row seat switch that can stick and let the seat move unexpectedly. ... <a class="sim
-- **$8.16M Night US Brooklyn Bedding class action settlement** `class-action`
-  - 2026-08-06 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-16m-night-us-brooklyn-bedding-class-action-settlement/
-  - <p>The Night US deceptive discount class action settlement provides $8.16 million in benefits, including cash or store credit for eligible purchases.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-16m-night-us-brooklyn-bedding-class-act
-- **$44M Chantix nitrosamine class action settlement** `class-action`
-  - 2026-08-06 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/44m-chantix-nitrosamine-class-action-settlement/
-  - <p>Pfizer has agreed to a $44 million class action settlement to resolve claims that its Chantix smoking cessation drug was contaminated with a nitrosamine, a cancer-causing substance.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/44m-ch
-- **Kroger sued over alleged wage theft involving meal breaks, security screenings** `class-action`
-  - 2026-08-06 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/kroger-sued-over-alleged-wage-theft-involving-meal-breaks-security-screenings/
-  - <p>A new class and collective action lawsuit alleges Kroger failed to pay hourly workers for time they were required to work.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/kroger-sued-over-alleged-wage-theft-involving-meal-breaks-security-screenings
-- **Parents sue Meta, TikTok, YouTube, Snapchat over children’s deaths** `class-action, fatality-linked`
-  - 2026-08-06 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/parents-sue-meta-tiktok-youtube-snapchat-over-childrens-deaths/
-  - <p>The parents of four children who died by suicide have filed a lawsuit against Meta, Google, TikTok, Snap and other social media companies, alleging the companies' addictive platform designs and algorithms contributed to their children's deaths.... <a class="simple-btn-link" href="https://topclass
-- **CeraVe, Eucerin face class actions over alleged ‘baby’ skincare price premiums** `class-action`
-  - 2026-08-06 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/cerave-eucerin-face-class-actions-over-alleged-baby-skincare-price-premiums/
-  - <p>Two new class action lawsuits allege major skincare companies are charging parents a premium for "baby" versions of eczema and healing products that are materially identical to their standard adult formulas.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsu
-- **OCOOPA recalls 1.5M rechargeable hand warmers after fire hazards, one death** `class-action, fatality-linked`
-  - 2026-08-06 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ocoopa-recalls-1-5m-rechargeable-hand-warmers-after-fire-hazards-one-death/
-  - <p>OCOOPA is recalling approximately 1.5 million rechargeable hand warmers due to a fire and burn hazard posed by the product's lithium-ion battery, according to a recall notice issued jointly with the U.S. Consumer Product Safety Commission (CPSC) on July 30.... <a class="simple-btn-link" href="htt
-- **Baby formula lawsuit investigation: Did you overpay for store brands?** `class-action`
-  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/investigations/store-brand-infant-formula-antitrust-lawsuit/
-  - <p>Did you purchase store-brand baby formula, including Parent's Choice, Up &#038; Up and more? Find out if you qualify to join a baby formula lawsuit investigation.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/store-brand-infant-formula-antitrus
-- **$1.25M Farmers Insurance TCPA class action settlement** `class-action`
-  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-25m-farmers-insurance-tcpa-class-action-settlement/
-  - <p>Farmers Insurance has agreed to a $1.25 million class action settlement over claims it violated the Telephone Consumer Protection Act. Submit a claim by Sept. 14, 2026.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-25m-farmers-insur
-- **$7.5M YouTube TV automatic renewal class action settlement** `class-action`
-  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/7-5m-youtube-tv-automatic-renewal-class-action-settlement/
-  - <p>YouTube agreed to a $7.5 million class action settlement to resolve claims it violated California’s automatic renewal law with its YouTube TV subscriptions.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/7-5m-youtube-tv-automatic-renew
-- **Anthropic class action alleges Claude subscribers paid for degraded AI service** `class-action`
-  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/anthropic-class-action-alleges-claude-subscribers-paid-for-degraded-ai-service/
-  - <p>A California consumer filed a class action lawsuit against Anthropic PBC, alleging the artificial intelligence company improperly retained subscription fees after reducing the value of its paid Claude Pro and Max plans through backend changes and service issues.... <a class="simple-btn-link" href
-- **Target sued over claims it sold Nara Organics infant formula linked to botulism outbreak** `class-action`
-  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/target-sued-over-claims-it-sold-nara-organics-infant-formula-linked-to-botulism-outbreak/
-  - <p>A new baby formula lawsuit claims Nara Organics infant formula purchased from Target was contaminated with Clostridium botulinum, sickening infants in Washington and two other states.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/target-sued-over
-- **Roundup cancer lawsuit may proceed despite Supreme Court ruling** `class-action`
-  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/roundup-cancer-lawsuit-may-proceed-despite-supreme-court-ruling/
-  - <p>A Massachusetts federal judge indicated a Roundup cancer lawsuit against Monsanto may still move toward trial despite a recent U.S. Supreme Court decision that significantly limited failure-to-warn claims involving the weedkiller.<br />
-... <a class="simple-btn-link" href="https://topclassactions
-- **Dairy Queen recalls Galliker Dairy chocolate ice cream mix over metal shavings** `class-action`
-  - 2026-08-05 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/dairy-queen-recalls-galliker-dairy-chocolate-ice-cream-mix-over-metal-shavings/
-  - <p>Galliker Dairy, based in Altoona, Pennsylvania, voluntarily recalled 74 cases of its DQ Chocolate Reduced Fat Ice Cream Mix after metal shavings were found in the product, according to an enforcement notice filed with the U.S. Food and Drug Administration (FDA).<br />
-... <a class="simple-btn-lin
-- **Was Route Package Protection added to your online purchase?** `class-action`
-  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/investigations/route-package-protection-shipping-insurance-legal-actions/
-  - <p>If Route Package Protection was added to your online purchase, you may qualify to pursue compensation. Learn more and check your eligibility.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/route-package-protection-shipping-insurance-legal-action
-- **Payactiv data breach class action settlement** `class-action`
-  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/payactiv-data-breach-class-action-settlement/
-  - <p>Payactiv data breach class action settlement: Individuals who received a data breach notification from Payactiv may be eligible for a class action settlement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/payactiv-data-breach-class-ac
-- **$3.5M ZOLL Medical Corp. data breach class action settlement** `class-action`
-  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-zoll-medical-corp-data-breach-class-action-settlement/
-  - <p>The ZOLL Medical Corp. data breach class action settlement provides $3.5 million in benefits for eligible individuals who received a data breach notice.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-zoll-medical-corp-data-breach-
-- **Five Below class action claims retailer kept tariff refunds owed to customers** `class-action`
-  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/five-below-class-action-claims-retailer-kept-tariff-refunds-owed-to-customers/
-  - <p>A new class action lawsuit accuses Five Below of retaining tariff refunds from the federal government rather than returning them to consumers who bore the cost of the tariffs.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/five-below-class-
-- **Lowe’s class action alleges recalled Kobalt yard tools have dangerous battery defect** `class-action`
-  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/lowes-class-action-alleges-recalled-kobalt-yard-tools-have-dangerous-battery-defect/
-  - <p>A new class action lawsuit accuses Lowe’s and Greenworks of selling certain Kobalt-branded power tools that have a dangerous battery defect that poses a serious risk of fire and injury to consumers.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/l
-- **Coachella class action claims music festival website illegally tracks visitors** `class-action`
-  - 2026-08-04 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/coachella-class-action-claims-music-festival-website-illegally-tracks-visitors/
-  - <p>A new class action lawsuit alleges the Coachella music festival illegally collects data about visitors to its website.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/coachella-class-action-claims-music-festival-website-illegally-tracks-visitors/">
-- **$70M Oppenheimer & Co. ABDP cash sweep class action settlement** `class-action`
-  - 2026-08-03 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/70m-oppenheimer-co-abdp-cash-sweep-class-action-settlement/
-  - <p>Oppenheimer class action settlement: $70M class action settlement for Advantage Bank Deposit Program participants. Claim deadline is Sept. 17, 2026.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/70m-oppenheimer-co-abdp-cash-sweep-clas
-- **$11M Hartford premium tax charges class action settlement** `class-action`
-  - 2026-08-03 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/11m-hartford-premium-tax-charges-class-action-settlement/
-  - <p>Talcott Resolution Life &#38; Annuity Insurance Co. and Talcott Resolution Life Insurance Co. agreed to an $11 million class action settlement over excessive premium tax charges.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/11m-hartf
-- **Discord agrees to strengthen safety features for Texas teens amid AG lawsuit** `class-action`
-  - 2026-08-03 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/discord-agrees-to-strengthen-safety-features-for-texas-teens-amid-ag-lawsuit/
-  - <p>Discord has agreed to adopt enhanced age assurance and default safety protections for Texas users while it continues to fight a lawsuit accusing the messaging platform of putting children at risk.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-n
-- **Unilever sued over TRESemmé shampoo allegedly linked to hair loss** `class-action`
-  - 2026-08-03 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/unilever-sued-over-tresemme-shampoo-allegedly-linked-to-hair-loss/
-  - <p>A group of consumers filed a class action lawsuit against Unilever, alleging the company’s TRESemmé shampoo and conditioner products caused hair loss.<br />
-A group of consumers filed a class action lawsuit against Unilever, alleging the company’s TRESemmé shampoo and conditioner products caused 
-- **Equifax, Experian, Synchrony, Midland sued over credit report errors** `class-action`
-  - 2026-08-03 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/equifax-experian-synchrony-midland-sued-over-credit-report-errors/
-  - <p>A new class action lawsuit alleges Equifax and Experian persisted with credit report errors on three settled accounts even after the plaintiff in the lawsuit disputed the inaccuracies and provided proof of payment.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlement
-- **General Mills recalls more than 735,000 Pillsbury bread rolls over glass contamination** `class-action`
-  - 2026-08-03 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/general-mills-recalls-more-than-735000-pillsbury-bread-rolls-over-glass-contamination/
-  - <p>General Mills is recalling more than 735,000 Pillsbury-brand bread rolls due to the possible presence of glass fragments.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/general-mills-recalls-more-than-735000-pillsbury-bread-rolls-over-glass-contam
 
