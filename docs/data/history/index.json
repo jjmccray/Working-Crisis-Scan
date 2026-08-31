@@ -1,5 +1,13 @@
 [
   {
+    "file": "2026-08-31.json",
+    "window_start": "2026-08-24",
+    "window_end": "2026-08-31",
+    "generated_at": "2026-08-31T18:30:53.009275",
+    "total_candidates": 58,
+    "watchlist_hit_count": 2
+  },
+  {
     "file": "2026-08-24.json",
     "window_start": "2026-08-17",
     "window_end": "2026-08-24",
