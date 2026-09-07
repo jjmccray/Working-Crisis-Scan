@@ -1,0 +1,758 @@
+{
+  "generated_at": "2026-09-07T16:56:14.968729",
+  "window_start": "2026-08-31",
+  "window_end": "2026-09-07",
+  "total_candidates": 78,
+  "watchlist_hit_count": 0,
+  "source_counts": {
+    "CPSC Recall": 13,
+    "SEC 8-K (Item 4.02: material weakness)": 1,
+    "SEC 8-K (Item 8.01: internal investigation)": 2,
+    "SEC 8-K (Item 8.01: subpoena)": 6,
+    "SEC 8-K (Item 1.05: cybersecurity incident)": 2,
+    "SEC 8-K (Item 8.01: enforcement action)": 6,
+    "Marler Blog (food safety plaintiff bar)": 10,
+    "Top Class Actions": 38
+  },
+  "errors": [],
+  "candidates": [
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-07",
+      "headline": "Hepatitis A Is the One Foodborne Illness We Can Vaccinate Away. Making the Shot Optional Is a Very Bad Idea.",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48937\" height=\"359\" src=\"https://www.marlerblog.com/files/2026/09/bmarler_A_worn_passport_lying_open_on_a_diner_counter_beside__8c612b22-ccdc-4c74-b484-a91fcdcfe6f0_1-640x359.png\" st",
+      "url": "https://www.marlerblog.com/case-news/hepatitis-a-is-the-one-foodborne-illness-we-can-vaccinate-away-making-the-shot-optional-is-a-very-bad-idea/",
+      "tags": [
+        "class-action",
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-07",
+      "headline": "The 2026 Nara Organics Infant Formula Outbreak",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48900\" height=\"239\" src=\"https://www.marlerblog.com/files/2026/09/image-640x239.jpeg\" style=\"height: auto; height: auto;\" width=\"640\" /></figure>\n<p><strong><u>Extraordinary Circumst",
+      "url": "https://www.marlerblog.com/case-news/the-2026-nara-organics-infant-formula-outbreak/",
+      "tags": [
+        "multi-state",
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-07",
+      "headline": "Happy Hens Says No One Asked It to Recall Its Salmonella Tainted Eggs. The County Says the State Recommended One. The Better Question Is Why an Ask Was the Only Tool Anybody Reached For.",
+      "detail": "<figure class=\"wp-block-image aligncenter size-full\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48244\" height=\"339\" src=\"https://www.marlerblog.com/files/2026/07/recall-sign.jpg\" style=\"height: auto; height: auto;\" width=\"510\" /></figure>\n<p>On Friday afternoon San Diego County&",
+      "url": "https://www.marlerblog.com/case-news/happy-hens-says-no-one-asked-it-to-recall-its-salmonella-tainted-eggs-the-county-says-the-state-recommended-one-the-better-question-is-why-an-ask-was-the-only-tool-anybody-reached-for/",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-07",
+      "headline": "FanDuel lawsuit claims sports betting app exploited users with targeted promotions",
+      "detail": "<p>A Pennsylvania resident is suing FanDuel over claims that its sports gambling apps are designed to be addictive and exploit users\u2019 vulnerabilities.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/fanduel-lawsuit-claims-sports-betting-app-exploited-",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/fanduel-lawsuit-claims-sports-betting-app-exploited-users-with-targeted-promotions/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-07",
+      "headline": "DentaQuest sued for allegedly exposing 15M patients\u2019 private information",
+      "detail": "<p>A new class action lawsuit alleges DentaQuest is liable in a recent data breach that exposed the personally identifiable information of 15 million patients.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/dentaquest-sued-for-allegedly-exposi",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/dentaquest-sued-for-allegedly-exposing-15m-patients-private-information/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-07",
+      "headline": "FTC refunds issued in August 2026: Who\u2019s getting paid?",
+      "detail": "<p>Check your mailbox or inbox! In August, the Federal Trade Commission sent the following refunds to consumers and students who qualified.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/ftc-refunds-issued-in-august-2026-whos-getting-paid/\">Re",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/ftc-refunds-issued-in-august-2026-whos-getting-paid/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-06",
+      "headline": "Michigan Asked Taco Bell for Its Supplier List on July 1, July 3 and July 6. FDA Had a Complete Answer on July 13. Under the Traceability Rule It Would Have Been July 2, and Eleven Days of Contaminated Lettuce Would Never Have Left the Plant.",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48932\" height=\"427\" src=\"https://www.marlerblog.com/files/2026/09/bmarler_a_plain_government_office_desk_at_dusk_a_single_desk__eefc3274-30cc-4638-b7af-2a3294db2276_1-640x427.png\" st",
+      "url": "https://www.marlerblog.com/case-news/michigan-asked-taco-bell-for-its-supplier-list-on-july-1-july-3-and-july-6-fda-had-a-complete-answer-on-july-13-under-the-traceability-rule-it-would-have-been-july-2-and-eleven-days-of-contaminate/",
+      "tags": [
+        "multi-state",
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-06",
+      "headline": "Less Salmonella, Worse Salmonella: Six Years After Our Petition, There Is Still Work to Do",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48929\" height=\"359\" src=\"https://www.marlerblog.com/files/2026/09/bmarler_two_petri_dishes_side_by_side_on_a_clean_white_lab_su_c2ad9f8b-1fca-4aa4-bc44-05473e45650d_2-640x359.png\" st",
+      "url": "https://www.marlerblog.com/case-news/less-salmonella-worse-salmonella-six-years-after-our-petition-there-is-still-work-to-do/",
+      "tags": []
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-06",
+      "headline": "The 2023 to 2025 ByHeart Infant Formula Outbreak",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48903\" height=\"156\" src=\"https://www.marlerblog.com/files/2026/09/image-1-640x156.jpeg\" style=\"height: auto; height: auto;\" width=\"640\" /></figure>\n<ul class=\"wp-block-list\">\n<li><st",
+      "url": "https://www.marlerblog.com/case-news/the-2023-to-2025-byheart-infant-formula-outbreak/",
+      "tags": [
+        "multi-state",
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-06",
+      "headline": "Cyclospora 2026: The Season Closed, Nobody Answered, and Nobody Called a Hearing. What Is Left Is 18,445 Confirmed Cases, 990 Hospitalizations and Two Dead.",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48926\" height=\"356\" src=\"https://www.marlerblog.com/files/2026/09/Hearing-Rooms-On-Shredded-Lettuce-640x356.jpg\" style=\"height: auto; height: auto;\" width=\"640\" /></figure>\n<p>The 20",
+      "url": "https://www.marlerblog.com/case-news/cyclospora-2026-the-season-closed-nobody-answered-and-nobody-called-a-hearing-what-is-left-is-18445-confirmed-cases-990-hospitalizations-and-two-dead/",
+      "tags": [
+        "multi-state",
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-06",
+      "headline": "Jury rejects claims Mead Johnson\u2019s infant formula caused fatal NEC",
+      "detail": "<p>A federal jury in Illinois sided with Mead Johnson in the first bellwether trial over allegations that its infant formula caused a premature baby to develop the fatal intestinal disease necrotizing enterocolitis.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settl",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/jury-rejects-claims-mead-johnsons-infant-formula-caused-fatal-nec/",
+      "tags": [
+        "class-action",
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-06",
+      "headline": "Burlington class action alleges unpaid wages, meal break violations",
+      "detail": "<p>A new class action lawsuit alleges Burlington Coat Factory Warehouse shorted hourly retail employees on overtime and other wages by automatically deducting meal breaks they were never fully allowed to take.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsui",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/burlington-class-action-alleges-unpaid-wages-meal-break-violations/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-06",
+      "headline": "Drivers sue Allstate after insurer allegedly refused to cover full rental car costs",
+      "detail": "<p>A new class action lawsuit alleges Allstate Property and Casualty Insurance Company promised full rental car reimbursement, then refused to pay the rate it negotiated with its preferred vendor.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/drivers-sue-allstate-after-insurer-allegedly-refused-to-cover-full-rental-car-costs/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-05",
+      "headline": "WANTED A PARALEGAL \u2014 10+ YEARS",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48923\" height=\"427\" src=\"https://www.marlerblog.com/files/2026/09/bmarler_editorial_photograph_overhead_view_of_a_wide_wooden_d_c4627aa4-46ac-434c-b7b3-b31e11db69fc_1-640x427.png\" st",
+      "url": "https://www.marlerblog.com/case-news/wanted-a-paralegal-10-years-2/",
+      "tags": []
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-05",
+      "headline": "WANTED AN ASSOCIATE ATTORNEY \u2014 5+ YEARS",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48920\" height=\"427\" src=\"https://www.marlerblog.com/files/2026/09/bmarler_editorial_photograph_an_empty_conference_room_in_a_sm_151dd0a4-39cb-4580-97ca-e957498d58ef_0-640x427.png\" st",
+      "url": "https://www.marlerblog.com/case-news/wanted-an-associate-attorney-5-years-2/",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Marler Blog (food safety plaintiff bar)",
+      "date": "2026-09-05",
+      "headline": "Weekend Wrap-Up: The State Matched the Outbreak Strain to the Farm\u2019s Barns and Asked for an Egg Recall That Has Not Come. A Second Sprouter Has Sixteen Sick and No Recall Either. And CDC Is Switching Off Weekly Updates on the Largest Outbreak of the Year.",
+      "detail": "<figure class=\"wp-block-image aligncenter size-large\" style=\"height: auto; height: auto;\"><img alt=\"\" class=\"wp-image-48406\" height=\"336\" src=\"https://www.marlerblog.com/files/2026/07/wrapup-social-link-1200x630-1-1-640x336.png\" style=\"height: auto; height: auto;\" width=\"640\" /></figure>\n<p><em>Satu",
+      "url": "https://www.marlerblog.com/case-news/weekend-wrap-up-the-state-matched-the-outbreak-strain-to-the-farms-barns-and-asked-for-an-egg-recall-that-has-not-come-a-second-sprouter-has-sixteen-sick-and-no-recall-either-and-cdc-is-sw/",
+      "tags": [
+        "multi-state",
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-05",
+      "headline": "Class action accuses Citigroup of using tracking pixels to intercept data",
+      "detail": "<p>A new class action lawsuit alleges Citigroup illegally intercepted the electronic communications of its website visitors without their knowledge or consent.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-accuses-citigroup-of-using-tra",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-accuses-citigroup-of-using-tracking-pixels-to-intercept-data/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-05",
+      "headline": "Consumers allege P&G, Arm & Hammer \u2018unscented\u2019 deodorants contain fragrance",
+      "detail": "<p>Two new class action lawsuits accuse Church &#038; Dwight and P&#038;G of falsely marketing deodorants as \"unscented\" despite the products containing fragrance ingredients.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-allege-pg-arm-ham",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-allege-pg-arm-hammer-unscented-deodorants-contain-fragrance/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-05",
+      "headline": "Mazda class action alleges site tracks users who declined cookies",
+      "detail": "<p>Mazda class action lawsuit overview: A new class action lawsuit alleges Mazda Motor of America&#8217;s website falsely assured visitors they could decline all tracking cookies, then continued monitoring their activity anyway. Plaintiffs Vishal Shah... <a class=\"simple-btn-link\" href=\"https://topc",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/mazda-class-action-alleges-site-tracks-users-who-declined-cookies/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-04",
+      "headline": "$15M Bestway above-ground pool safety class action settlement",
+      "detail": "<p>Bestway agreed to a $15 million class action settlement over claims its above-ground pools are defective and pose a drowning hazard.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-bestway-above-ground-pool-safety-class-action-settl",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-bestway-above-ground-pool-safety-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-04",
+      "headline": "$5.25M Americold data breach class action settlement",
+      "detail": "<p>Americold has agreed to pay $5.25 million to resolve claims that it failed to prevent two data breaches that occurred in 2020 and 2023.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-25m-americold-data-breach-class-action-settlement/",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-25m-americold-data-breach-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-04",
+      "headline": "Toyota lawsuit investigation: Did your driver\u2019s seat pop, crack or shift?",
+      "detail": "<p>Toyota Camry owners who experienced driver seat problems may qualify to join a Toyota lawsuit investigation. Learn more about the alleged seat defect.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/investigations/toyota-camry-seat-defect-class-action-la",
+      "url": "https://topclassactions.com/lawsuit-settlements/investigations/toyota-camry-seat-defect-class-action-lawsuit/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-04",
+      "headline": "Kind Patches class action claims dopamine patches do not work as advertised",
+      "detail": "<p>A new class action lawsuit accuses Kind Patches of falsely advertising its transdermal dopamine patches as containing dopamine and providing positive neurological benefits, arguing they do not contain any dopamine and are ineffective at providing the advertised benefits.... <a class=\"simple-btn-l",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/kind-patches-class-action-claims-dopamine-patches-do-not-work-as-advertised/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-04",
+      "headline": "FragranceNet hit with class action allegations over unsolicited text messages",
+      "detail": "<p>A new class action lawsuit claims FragranceNet sent unsolicited text messages to consumers\u2019 phone numbers that were registered on the National Do-Not-Call Registry.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/fragrancenet-hit-with-class-action-",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/fragrancenet-hit-with-class-action-allegations-over-unsolicited-text-messages/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-04",
+      "headline": "Harvard reaches $53M settlement over medical school morgue theft lawsuits",
+      "detail": "<p>A proposed $53 million settlement would resolve more than a dozen consolidated lawsuits accusing Harvard of failing to protect remains donated to its Anatomical Gift Program.\u00a0... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/harvard-reaches-53m-sett",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/harvard-reaches-53m-settlement-over-medical-school-morgue-theft-lawsuits/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Loyoda Direct and Loyoda",
+      "detail": "This recall involves Loyoda-branded adult portable bed rails. The bed rail comes in silver, measures 13.38 inches wide by 17.71 inches tall and can be extended to 20.47 inches tall. \u201cLoyoda\u201d and the model \u201cFBL140202\u201d are both printed on labels on the product. Only bed rails  manufactured before Dece",
+      "url": "https://cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Audio Partnership Recalls Cambridge Audio Yoyo (M) Portable Bluetooth Speakers Due to Fire Hazard",
+      "detail": "This recall involves the Cambridge Audio Yoyo (M) Bluetooth Speaker sold in light gray, dark gray and blue colors. The recalled speakers can be identified by the unit's product name \u2013 \"Yoyo (M)\" \u2013 and the following FD numbers which are visible on the underside of the Bluetooth speakers (sold in pair",
+      "url": "https://cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
+      "tags": []
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Branch Recalls Ergonomic Chairs Due to Fall Hazard",
+      "detail": "This recall involves height-adjustable ergonomic chairs and only applies to chairs with backrest anchors that were incorrectly installed at the time of manufacture. The recalled chairs were manufactured between September 10, 2025 and April 22, 2026. The dates of manufacture can be found on the label",
+      "url": "https://cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
+      "tags": []
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Clorox Puerto Rico Recalls 6 Million Scented Mistolin and Lestoil Multi-Purpose Cleaners Due to Risk of Exposure to Bacteria",
+      "detail": "This recall only includes Mistolin and Lestoil products sold in Puerto Rico and the U.S. Virgin Islands. The recall involves scented Mistolin Dilutable Cleaners in Alegra tu D\u00eda, Esp\u00edritu Play, Flores de Primavera, Fresco Despertar, Frescura de Lavanda, Frescura Tropical, Manzana y Canela, Pino y Es",
+      "url": "https://cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
+      "tags": []
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Daikin Comfort Technologies Manufacturing Recalls Amana Through-The-Wall Air Conditioners and Heat Pumps Due to Risk of Serious Injury from Fire",
+      "detail": "This recall involves certain Amana brand Through the Wall (TTW) air conditioners or heat pumps. These products are white and the brand name is printed on most of the units\u2019 control covers. The units are used to provide room climate control. They most often are installed at hotels, apartment building",
+      "url": "https://cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
+      "tags": []
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "GIHNJSI Squeezy Dumplings Toys Recalled Due to Serious Ingestion, Choking and Obstruction Hazards; Sold on Amazon by Chenyuanhui",
+      "detail": "This recall involves GIHNJSI Squeezy Dumplings toys. The toys are translucent round squishy balls with cartoon faces and glitter-like particles and water beads on the inside. The Squeezy Dumplings come in a tan plastic container shaped like a bamboo steamer. \u201cSQUEEZY DUMPLINGS\u201d and \u201cSQUEEZE ME\u201d are ",
+      "url": "https://cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
+      "tags": []
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Gizoon Direct Recalls Six-Drawer Double Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units",
+      "detail": "This recall involves Gizoon-branded six-drawer double wood dressers. They were sold in white and black, measure about 47.3 inches wide, 15.7 inches long, 31.5 inches tall and weigh about 88.2 pounds. \u201cAP47-W\u201d or \u201cAP47-B\u201d is printed on the product packaging.",
+      "url": "https://cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "MONDRAKER USA Recalls Mountain Bicycles Equipped with ONOFF S9 Carbon MTB Handlebars Due to Risk of Serious Injury or Death from Fall Hazard",
+      "detail": "This recall involves Certain Mondraker mountain bicycles equipped with ONOFF S9 Carbon MTB handlebars. The ONOFF S9 Carbon MTB handlebar is used as a steering and control component on the bicycle. Bicycles with model numbers CRAFTY CARBON RR S (MY2026), CRAFTY CARBON XR (MY2025-MY2026), CRAFTY CARBO",
+      "url": "https://cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Nanjing Wu Hai Smart Home Appliance Store Recalls Alanca 6-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+      "detail": "This recall involves Alanca-branded 6-Drawer Wood Dressers. The wooden dressers were sold in brown and white and have six drawers. The dressers measure about 15.75 inches wide, 57 inches long and 31.5 inches tall and weigh about 55 pounds. \u201cWH-DS02-6W\u201d or \u201cWH-DS02-6GE\u201d is printed on the product pack",
+      "url": "https://cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "OKK Trading Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+      "detail": "This recall involves Rainbow Mystery Squishy Bun Toys, Model D08004.  The squishy bun toys are a translucent pink color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. \u201cRainbow MYSTERY\u201d and \u201cSUGAR EDITION\u201d ar",
+      "url": "https://cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "SHEIN Distribution Corporation Recalls Spiral Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Ball Ban",
+      "detail": "This recall involves the Spiral Toy (spinning toy). The toy comes with various colored platforms (three, five, or seven, depending on the model) that can be stacked and several yellow plastic balls with a bear head and a basket at the top. One model comes with a basket and a bull head. The packaging",
+      "url": "https://cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Skip Hop Recalls Baby Sesame Street Elmo Silicone Teethers Due to Risk of Serious Injury or Death from Choking Hazard",
+      "detail": "This recall involves the Skip Hop Baby Sesame Street Elmo Silicone Teether. The product is in the shape of Elmo\u2019s face (red, orange, and white, with black eyes) and includes a textured key (blue) and fabric crayon box (beige, blue, green, yellow, orange, red). The model number for the Baby Sesame St",
+      "url": "https://cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+      "tags": [
+        "fatality-linked"
+      ]
+    },
+    {
+      "source": "CPSC Recall",
+      "date": "2026-09-03T00:00:00",
+      "headline": "Truststone Group Recalls XO Poppy Power Trip Magnetic Wireless Power Banks Due to Fire and Burn Hazards; Sold Exclusively at TJX and Marshalls Stores",
+      "detail": "This recall involves XO Poppy Power Trip Magnetic Wireless Power Banks with model number PYPBK5M. The power banks come in three colors and can be identified by their appearance and packaging: cream colored (PY-PBK5M-CR2); cream with pink bow print (PY-PBK5M-BW8); and black with teddy bear print (PY-",
+      "url": "https://cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: subpoena)",
+      "date": "2026-09-03",
+      "headline": "BANK5 2026-5YR23  (CIK 0002140978) \u2014 Item 8.01 8-K referencing 'subpoena'",
+      "detail": "0001539497-26-002449",
+      "url": "https://www.sec.gov/Archives/edgar/data/2140978/000153949726002449/exh4_1-5yr23psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: subpoena)",
+      "date": "2026-09-03",
+      "headline": "BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) \u2014 Item 8.01 8-K referencing 'subpoena'",
+      "detail": "0001539497-26-002450",
+      "url": "https://www.sec.gov/Archives/edgar/data/2136643/000153949726002450/exh4_1-v23psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: subpoena)",
+      "date": "2026-09-03",
+      "headline": "Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36  (CIK 0002145539) \u2014 Item 8.01 8-K referencing 'subpoena'",
+      "detail": "0001539497-26-002452",
+      "url": "https://www.sec.gov/Archives/edgar/data/2145539/000153949726002452/exh4_1-c15psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: enforcement action)",
+      "date": "2026-09-03",
+      "headline": "BANK5 2026-5YR23  (CIK 0002140978) \u2014 Item 8.01 8-K referencing 'enforcement action'",
+      "detail": "0001539497-26-002449",
+      "url": "https://www.sec.gov/Archives/edgar/data/2140978/000153949726002449/exh4_1-5yr23psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: enforcement action)",
+      "date": "2026-09-03",
+      "headline": "BMO 2026-5C16 Mortgage Trust  (CIK 0002136643) \u2014 Item 8.01 8-K referencing 'enforcement action'",
+      "detail": "0001539497-26-002450",
+      "url": "https://www.sec.gov/Archives/edgar/data/2136643/000153949726002450/exh4_1-v23psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: enforcement action)",
+      "date": "2026-09-03",
+      "headline": "Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36  (CIK 0002145539) \u2014 Item 8.01 8-K referencing 'enforcement action'",
+      "detail": "0001539497-26-002452",
+      "url": "https://www.sec.gov/Archives/edgar/data/2145539/000153949726002452/exh4_1-c15psa.htm",
+      "tags": []
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-03",
+      "headline": "Bell & Howell PFAS cookware class action settlement",
+      "detail": "<p>E. Mishan &#38; Sons, the parent company of Gotham Steel, Granite Stone and Bell &#38; Howell, agreed to a class action settlement to resolve false advertising claims.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/bell-howell-pfas-coo",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/bell-howell-pfas-cookware-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-03",
+      "headline": "$9.25M Penn Medicine pixel tracking class action settlement",
+      "detail": "<p>If you accessed the myPennMedicine patient portal, you may qualify for benefits from the $9.25 million University of Pennsylvania Health System settlement.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-25m-penn-medicine-pixel-tracki",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-25m-penn-medicine-pixel-tracking-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-03",
+      "headline": "Graco class action claims baby swing can accelerate to dangerous speeds",
+      "detail": "<p>A new class action lawsuit alleges Graco\u2019s \u201cSlim Spaces Compact Baby Swing\u201d can accelerate to dangerous speeds due to a defect, posing a serious risk to infants.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/graco-class-action-claims-baby-",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/graco-class-action-claims-baby-swing-can-accelerate-to-dangerous-speeds/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-03",
+      "headline": "Meta deal resolves states\u2019 lawsuit over alleged teen social media harms",
+      "detail": "<p>Meta has agreed to pay up to $17.1 billion to resolve a lawsuit brought by 29 states accusing the company of concealing social media's harms to teenagers.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-deal-resolves-states-lawsuit-over",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-deal-resolves-states-lawsuit-over-alleged-teen-social-media-harms/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-03",
+      "headline": "Festival Foods agrees to $7.5M manager overtime settlement",
+      "detail": "<p>Festival Foods has agreed to pay up to $7.5 million to resolve allegations that it misclassified department managers as exempt from overtime pay. The proposed settlement is expected to cover approximately 1,000 current and former employees.<br />\n... <a class=\"simple-btn-link\" href=\"https://topcl",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/festival-foods-agrees-to-7-5m-manager-overtime-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: internal investigation)",
+      "date": "2026-09-02",
+      "headline": "FedEx Freight Holding Company, Inc.  (FDXF)  (CIK 0002082247) \u2014 Item 8.01 8-K referencing 'internal investigation'",
+      "detail": "0001104659-26-104793",
+      "url": "https://www.sec.gov/Archives/edgar/data/2082247/000110465926104793/tm2624680d1_8k.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: subpoena)",
+      "date": "2026-09-02",
+      "headline": "BANK 2026-BNK52  (CIK 0002138709) \u2014 Item 8.01 8-K referencing 'subpoena'",
+      "detail": "0001539497-26-002442",
+      "url": "https://www.sec.gov/Archives/edgar/data/2138709/000153949726002442/exh4_1-bnk52psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: enforcement action)",
+      "date": "2026-09-02",
+      "headline": "BANK 2026-BNK52  (CIK 0002138709) \u2014 Item 8.01 8-K referencing 'enforcement action'",
+      "detail": "0001539497-26-002442",
+      "url": "https://www.sec.gov/Archives/edgar/data/2138709/000153949726002442/exh4_1-bnk52psa.htm",
+      "tags": []
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-02",
+      "headline": "$75M Northrop Grumman soil contamination class action settlement",
+      "detail": "<p>The $75 million Northrop Grumman class action settlement provides benefits for eligible property owners affected by soil and groundwater contamination in Canoga Park.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/75m-northrop-grumman-",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/75m-northrop-grumman-soil-contamination-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-02",
+      "headline": "$1.01M Sportsman\u2019s Guide data privacy class action settlement",
+      "detail": "<p>Sportsman\u2019s Guide agreed to pay $1.015 million to resolve claims it shared firearm purchase information without consent. Pennsylvania residents can file a claim.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-01m-sportsmans-guide-dat",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-01m-sportsmans-guide-data-privacy-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-02",
+      "headline": "10 class action settlements you can claim in September 2026",
+      "detail": "<p>Consumers may be eligible to claim cash payments, vouchers, reimbursements and other benefits from 10 class action settlements closing in September. These settlements involve major companies, including Guitar Center, Toyota, Tesla, O\u2019Reilly Automotive and ApolloMD. Here\u2019s a breakdown of who may q",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/10-class-action-settlements-you-can-claim-in-september-2026/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-02",
+      "headline": "Butterball, Hormel turkey price-fixing settlements get preliminary approval",
+      "detail": "<p>An Illinois federal judge has given preliminary approval to two settlements resolving the remaining direct purchaser claims in long-running turkey price-fixing litigation.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/butterball-hormel-tur",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/butterball-hormel-turkey-price-fixing-settlements-get-preliminary-approval/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-02",
+      "headline": "Jeep lawsuit claims recalled Wrangler, Grand Cherokee hybrid SUVs misrepresented as safe",
+      "detail": "<p>A new class action lawsuit accuses FCA US of misrepresenting the safety and dependability of its Jeep Wrangler 4xe and Jeep Grand Cherokee 4xe plug-in hybrid electric SUVs.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/jeep-lawsuit-claims-",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/jeep-lawsuit-claims-recalled-wrangler-grand-cherokee-hybrid-suvs-misrepresented-as-safe/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-02",
+      "headline": "Clear Eyes recalls 39K bottles of Maximum Itchy Eye Relief eye drops",
+      "detail": "<p>Prestige Brands is recalling approximately 40,000 bottles of its Clear Eyes Maximum Itchy Eye Relief drops due to concerns over sterility.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/clear-eyes-recalls-39k-bottles-of-maximum-itchy-eye-relief-ey",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/clear-eyes-recalls-39k-bottles-of-maximum-itchy-eye-relief-eye-drops/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: internal investigation)",
+      "date": "2026-09-01",
+      "headline": "NovoCure Ltd  (NVCR)  (CIK 0001645113) \u2014 Item 8.01 8-K referencing 'internal investigation'",
+      "detail": "0001645113-26-000065",
+      "url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000065/nvcr-20260901.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: subpoena)",
+      "date": "2026-09-01",
+      "headline": "BMO 2026-5C15 Mortgage Trust  (CIK 0002128774) \u2014 Item 8.01 8-K referencing 'subpoena'",
+      "detail": "0001539497-26-002437",
+      "url": "https://www.sec.gov/Archives/edgar/data/2128774/000153949726002437/exh4_1-5c16psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 1.05: cybersecurity incident)",
+      "date": "2026-09-01",
+      "headline": "NovoCure Ltd  (NVCR)  (CIK 0001645113) \u2014 Item 1.05 8-K referencing 'cybersecurity incident'",
+      "detail": "0001645113-26-000065",
+      "url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000065/nvcr-20260901.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: enforcement action)",
+      "date": "2026-09-01",
+      "headline": "BMO 2026-5C15 Mortgage Trust  (CIK 0002128774) \u2014 Item 8.01 8-K referencing 'enforcement action'",
+      "detail": "0001539497-26-002437",
+      "url": "https://www.sec.gov/Archives/edgar/data/2128774/000153949726002437/exh4_1-5c16psa.htm",
+      "tags": []
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-01",
+      "headline": "Robocall lawsuit investigation: Were you contacted without permission?",
+      "detail": "<p>Did you receive unwanted robocalls or spam calls? You may be eligible to participate in a robocall lawsuit under the TCPA. See if you qualify.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/investigations/unsolicited-illegal-marketing-robocalls-lawsuit-investi",
+      "url": "https://topclassactions.com/lawsuit-settlements/investigations/unsolicited-illegal-marketing-robocalls-lawsuit-investigation/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-01",
+      "headline": "$14.5M CRST Expedited minimum wage class action settlement",
+      "detail": "<p>CRST Expedited has agreed to pay $14.5 million to settle claims it violated California labor laws by failing to pay truck drivers minimum wage and other compensation.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14-5m-crst-expedited-",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14-5m-crst-expedited-minimum-wage-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-01",
+      "headline": "$1.76M Cone Health pixel tracking class action settlement",
+      "detail": "<p>Cone Health agreed to a $1.76 million class action settlement to resolve claims that it used pixel tracking technology to collect and share patient information without consent.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-76m-cone-",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-76m-cone-health-pixel-tracking-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-01",
+      "headline": "Cholula class action alleges hot sauce falsely marketed as \u2018original\u2019 recipe",
+      "detail": "<p>A new class action lawsuit alleges McCormick &#038; Company falsely advertises its Cholula Original Hot Sauce as being made from a generations-old family recipe.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/cholula-class-action-alleges-hot-sauce",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/cholula-class-action-alleges-hot-sauce-falsely-marketed-as-original-recipe/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-01",
+      "headline": "American Express credit reporting lawsuit alleges bank reported settled debt",
+      "detail": "<p>A new credit reporting lawsuit alleges American Express National Bank continued reporting two settled accounts as unpaid charged-off debts after accepting full settlement payments from the plaintiff.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/american-express-credit-reporting-lawsuit-alleges-bank-reported-settled-debt/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-09-01",
+      "headline": "Saks faces class action over allegedly unlawful telemarketing texts",
+      "detail": "<p>A new class action lawsuit alleges Saks.com violated federal law by sending unsolicited telemarketing text messages to consumers.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/saks-faces-class-action-over-allegedly-unlawful-telemarketing-t",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/saks-faces-class-action-over-allegedly-unlawful-telemarketing-texts/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "SEC 8-K (Item 4.02: material weakness)",
+      "date": "2026-08-31",
+      "headline": "Breeze Acquisition Corp. II  (BREZ, BREZR)  (CIK 0002095443) \u2014 Item 4.02 8-K referencing 'material weakness'",
+      "detail": "0001213900-26-095265",
+      "url": "https://www.sec.gov/Archives/edgar/data/2095443/000121390026095265/ea0303565-8k_breeze2.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: subpoena)",
+      "date": "2026-08-31",
+      "headline": "BMO 2026-C15 Mortgage Trust  (CIK 0002063009) \u2014 Item 8.01 8-K referencing 'subpoena'",
+      "detail": "0001539497-26-002402",
+      "url": "https://www.sec.gov/Archives/edgar/data/2063009/000153949726002402/exh4_1c15psa.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 1.05: cybersecurity incident)",
+      "date": "2026-08-31",
+      "headline": "Nutex Health Inc.  (NUTX)  (CIK 0001479681) \u2014 Item 1.05 8-K referencing 'cybersecurity incident'",
+      "detail": "0001628280-26-059602",
+      "url": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026059602/nutx-20260831.htm",
+      "tags": []
+    },
+    {
+      "source": "SEC 8-K (Item 8.01: enforcement action)",
+      "date": "2026-08-31",
+      "headline": "BMO 2026-C15 Mortgage Trust  (CIK 0002063009) \u2014 Item 8.01 8-K referencing 'enforcement action'",
+      "detail": "0001539497-26-002402",
+      "url": "https://www.sec.gov/Archives/edgar/data/2063009/000153949726002402/exh4_1c15psa.htm",
+      "tags": []
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-08-31",
+      "headline": "Gambling addiction lawsuit: Did online sports betting lead to significant losses?",
+      "detail": "<p>Did DraftKings or FanDuel contribute to addiction, financial loss, or self-harm in you or your child? Families nationwide may qualify for legal action.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/investigations/sports-betting-addiction-draftkings-fanduel/\">",
+      "url": "https://topclassactions.com/lawsuit-settlements/investigations/sports-betting-addiction-draftkings-fanduel/",
+      "tags": [
+        "multi-state",
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-08-31",
+      "headline": "$2.5M Palm Beach Tan TCPA class action settlement",
+      "detail": "<p>Palm Beach Tan TCPA class action settlement: $2.5M class action settlement for unsolicited text messages. Claim form deadline is Oct. 4, 2026.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-palm-beach-tan-tcpa-class-action-settlem",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-palm-beach-tan-tcpa-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-08-31",
+      "headline": "$40M San Diego water rates class action settlement",
+      "detail": "<p>The City of San Diego has agreed to pay $40 million to resolve claims it charged unconstitutional single-family residential water rates.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/40m-san-diego-water-rates-class-action-settlement/\"",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/40m-san-diego-water-rates-class-action-settlement/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-08-31",
+      "headline": "Meta reaches $17B settlement over social media addiction claims",
+      "detail": "<p>Meta Platforms has reached a settlement worth up to $17.1 billion with 52 state and territorial attorneys general to resolve claims the social media company hid or downplayed its platforms\u2019 allegedly harmful impact on minors.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-reaches-17b-settlement-over-social-media-addiction-claims/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-08-31",
+      "headline": "Class action claims Bloom sparkling energy drinks contain artificial flavor",
+      "detail": "<p>A new class action lawsuit accuses Bloom Nu of falsely advertising its sparkling energy drinks as containing \u201cno artificial colors, flavors or aspartame\u201d when they actually contain citric acid, a known artificial ingredient.... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-claims-bloom-sparkling-energy-drinks-contain-artificial-flavor/",
+      "tags": [
+        "class-action"
+      ]
+    },
+    {
+      "source": "Top Class Actions",
+      "date": "2026-08-31",
+      "headline": "Publix frozen berries recall expands over E. coli outbreak linked to 12 illnesses",
+      "detail": "<p>In July, Publix recalled its GreenWise Organic Frozen Blueberries and Whole Mixed Berries due to potential E. coli contamination, affecting consumers in eight Southern states.<br />\n... <a class=\"simple-btn-link\" href=\"https://topclassactions.com/lawsuit-settlements/lawsuit-news/publix-frozen-ber",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/publix-frozen-berries-recall-expands-over-e-coli-outbreak-linked-to-12-illnesses/",
+      "tags": [
+        "class-action"
+      ]
+    }
+  ]
+}
