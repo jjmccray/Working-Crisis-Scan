@@ -1,100 +1,191 @@
-# Crisis Scan Digest — 2026-09-14 to 2026-09-21
+# Crisis Scan Digest — 2026-09-21 to 2026-09-28
 
-*Generated 2026-09-21 17:31*
+*Generated 2026-09-28 19:00*
 
 ## ⚠️ Watchlist hits
 
-- **[Marler Blog (food safety plaintiff bar)]** Helena Bottemiller Evich Is Right About Congress, and Food Safety Is the Proof (2026-09-18) — https://www.marlerblog.com/case-news/helena-bottemiller-evich-is-right-about-congress-and-food-safety-is-the-proof/
-- **[Top Class Actions]** Applebee’s franchisee faces class action lawsuits after April data breach (2026-09-17) — https://topclassactions.com/lawsuit-settlements/lawsuit-news/applebees-franchisee-faces-class-action-lawsuits-after-april-data-breach/
+- **[Marler Blog (food safety plaintiff bar)]** Weekend Wrap-Up: A Raw Milk Cheese Labeled as Aged the Sixty Days the Rule Requires Made Thirteen People Sick, More Than Half of Them Five or Younger, and the Recall Came Seventy-Nine Days After the First Illness. The Broccoli Sprout Recall Could Have Reached Seven of Thirty-Two. And FDA’s Nominee Could Not Name the Office That Investigates Outbreaks. (2026-09-26) — https://www.marlerblog.com/case-news/weekend-wrap-up-a-raw-milk-cheese-labeled-as-aged-the-sixty-days-the-rule-requires-made-thirteen-people-sick-more-than-half-of-them-five-or-younger-and-the-recall-came-seventy-nine-days-after-the-f/
+- **[Top Class Actions]** Apple hit with another lawsuit over AirTag stalking after class action fails (2026-09-25) — https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-hit-with-another-lawsuit-over-airtag-stalking-after-class-action-fails/
 
-## All candidates (66 total)
+## All candidates (55 total)
 
-### CPSC Recall (14)
+### CPSC Recall (11)
 
-- **Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock**
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Char-Broil-Recalls-Bistro-Pro-Electric-Grills-Due-to-Risk-of-Electric-Shock
-  - This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red,
-- **Colerinsec Recalls Jerify Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Colerinsec-Recalls-Jerify-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys
-  - This recall involves Jerify Magnetic Humanoid Toys 30 PCS. The 30-piece magnetic toys come in three units of brown, white, green, peach, yellow, pink, blue, orange, purple, and red figures in the shape of a human. Each figure measures about 2.7 inches tall by 2.5 inches wide. The magnetic toys conta
-- **Esjay US Recalls Toddler Busy Board Montessori Toys Due to Risk of Serious Injury or Death from Choking; Violates Small Parts Ban** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Esjay-US-Recalls-Toddler-Busy-Board-Montessori-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violates-Small-Parts-Ban
-  - This recall involves Esjay Toddler Busy Board Montessori Toys. The busy boards are made of blue felt, have carrying handles, elastic cords and button closures. The front is printed with various cartoon dinosaurs, and the back is printed with 26 small squares, each corresponding to a letter of the al
-- **Friedrich Air Conditioning Recalls KÜHL Window Air Conditioners Due to Risk of Serious Injury or Death from Fire and Burn Hazards** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Friedrich-Air-Conditioning-Recalls-K%C3%9CHL-Window-Air-Conditioners-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards
-  - This recall involves KÜHL Q and KÜHL S Window Air Conditioners. The products have a gray front and a black air discharge grille and have the name Friedrich and the Friedrich logo in the lower left corner of the unit. The Kühl Q front control panel is located on the top left corner of the unit, and t
-- **Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard-0
-  - This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integr
-- **JKMAX Recalls Heated Blankets and Heating Pads Due to Fire and Burn Hazards**
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards
-  - This recall involves all heating pads and heated blankets sold by JKMax including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The 
-- **LANCHEZ Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/LANCHEZ-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards
-  - This recall involves LANCHEZ-branded pressure washers. The recalled, 3.2 GPM electric pressure washers were sold in blue-and-black or red-and-black, and measure about 12.2 inches deep, 16.9 inches wide and 16.5 inches high. The pressure washers came with a 500 ml soap tank, four quick disconnect noz
-- **Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk of Serious Injury from Choking Hazard; Sold Exclusively at Target**
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target
-  - The "Lights and Sound Fire Truck" is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that lo
-- **Regfear Recalls BedsPick Mattresses Due to Risk of Serious Injury or Death from Fire; Violate Mandatory Flammability Standard for Mattresses** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Regfear-Recalls-BedsPick-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Violate-Mandatory-Flammability-Standard-for-Mattresses
-  - This recall involves two styles of BedsPick branded Mattresses. The mattresses are 12 inches thick and sold in queen size. They have a white top and purple sides or a white top and gray sides and were sold compressed in a box. Prototype ID "AMGSW066" or "AMGSW067" and model numbers "SME004" or "AMG0
-- **Sauna360 Expands Recall of Tylö Halmstad and Kiruna Hybrid Saunas Due to Fall Hazard; New Remedy Provided**
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided
-  - This recall expansion involves bench seating in Sauna360's Tylö branded Halmstad and Kiruna Hybrid sauna rooms.  The serial number for each room can be found on both the packaging and the sauna rooms. The Halmstad 2, 3 and 4 sauna rooms have the serial number label located beneath the upper bench on
-- **Sauna360 Recalls Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits Due to Risk of Serious Injury or Death from Fire and Burn Hazards** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Sauna360-Recalls-Infrared-Saunas-Hybrid-Infrared-Saunas-and-Infrared-Kits-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards
-  - This recall involves various infrared and hybrid sauna models and infrared (IR) kits. Customers who purchased custom rooms built with IR panels can check for the words "Saunalogic," "Infralogic," "Carbonflex," or "Tylö" on their control panel or locate their product manual. Customers who purchased p
-- **SHEIN Distribution Corporation Recalls Pull and Chew Montessori Teething Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Mandatory Standard for Toys** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys
-  - This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with "BABY PRODUCTS" and "Crafted in Gentle Care" printed on the front. The
-- **Tongyang Cycling Recalls Basecamp Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Tongyang-Cycling-Recalls-Basecamp-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets
-  - This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit
-- **Toyworld168 Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys** `fatality-linked`
-  - 2026-09-17T00:00:00 — https://cpsc.gov/Recalls/2026/Toyworld168-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys
-  - This recall involves Rainbow Mystery Squishy Bun Toys. The squishy bun toys are a translucent green color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. "Rainbow MYSTERY" and "SUGAR EDITION" are printed on t
+- **5Color Recalls Children’s Bicycle Helmet and Pads Sets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/5Color-Recalls-Childrens-Bicycle-Helmet-and-Pads-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets
+  - This recall involves 5Color-branded bicycle helmet and pads sets. The sets consist of a pink helmet, knee and elbow pads. Only the size small helmets are included in this recall. The helmets are size small (S), fitting a head circumference of about 18 to 22 inches, and have black padding, black stra
+- **ABC Trading Recalls Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/ABC-Trading-Recalls-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys
+  - These recalled products are packaged in a large clear plastic bag. A white label on the clear plastic bag has, in black font, one of the following identifiers: 6502 (for the light-up tie), HD-10 (for the light-up headbands) or L-508 (for the light-up glasses). Each of the items are packaged in indiv
+- **Hyperfuels Recalls Methanol and Ethanol Fuel Containers Due to Risk of Serious Injury or Death from Child Poisoning and Flame Jetting; Violates Multiple Federal Safety Standards** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/Hyperfuels-Recalls-Methanol-and-Ethanol-Fuel-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-and-Flame-Jetting-Violates-Multiple-Federal-Safety-Standards
+  - This recall involves Hyperfuels ethanol and methanol fuel containers. The methanol container bears the Hyperfuels logo in red and associated phone number, the label bears “Methanol”, “Methanol, 3, UN1230, II”, and “Flammable Liquid” in black lettering. The ethanol container bears “E98”, “1 US Quart”
+- **INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard
+  - This recall involves smart glasses with model number AIR3 and are used for AI translation, AI-assisted productivity and media streaming. The recalled products are black with “AIR3” and “INMO” printed on a label on the right temple of the product.
+- **Love To Dream Recalls Portable Sleep Machines Due to Risk of Injury from Fire and Burn Hazards**
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/Love-To-Dream-Recalls-Portable-Sleep-Machines-Due-to-Risk-of-Injury-from-Fire-and-Burn-Hazards
+  - This recall involves the portable sleep machine which features various sounds, adjustable volume, a built-in nightlight, and includes a USB charging cable. “Love to Dream” is imprinted on the sleep machine and on the brown handle. Only machines with model number LTD-SM23 and date code 7W15TN are inc
+- **NEWDERY Power Banks Recalled Due to Fire and Burn Hazards; Risk of Serious Injury; Sold on Amazon**
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/NEWDERY-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-Sold-on-Amazon
+  - This recall involves NEWDERY power banks with model number ZHX-PB22. The power banks are black with yellow cables. The brand name “NEWDERY” is engraved on the front and the model number “ZHX-PB22” is printed on the back.
+- **Style Homeware Recalls Emerspring Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/Style-Homeware-Recalls-Emerspring-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability
+  - This recall involves Emerspring Mattresses. The mattresses are 12 inches thick and  sold in queen size. They have a white top and white sides with a green trim. They were sold compressed in a box. “Prototype ID: EMERS-12” and the manufacture date “6/2025” are printed on a sewn-in white label located
+- **The Blue Cactus Company Reclining Chair Battery Packs Recalled Due to Fire and Burn Hazards; Sold on Amazon**
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/The-Blue-Cactus-Company-Reclining-Chair-Battery-Packs-Recalled-Due-to-Fire-and-Burn-Hazards-Sold-on-Amazon
+  - This recall involves The Blue Cactus Company Reclining Chair 2500 mAh battery packs with model number RWX-RBP02.  The battery packs are black with the brand logo and brand name of “The Blue Cactus Company” imprinted on the front. The recalled battery packs can be identified by the model number RWX-R
+- **Xinan Home Recalls WinxMatrs Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/Xinan-Home-Recalls-WinxMatrs-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability
+  - This recall involves WinxMatrs-branded mattresses. The black mattresses are 10 inches thick and were sold in a twin size. They were sold compressed in a box. The size and the brand are printed on the mattress’ sewn-in labels.
+- **Yuyitop Recalls Aitjunz 8-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/Yuyitop-Recalls-Aitjunz-8-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units
+  - This recall involves Aitjunz 8-Drawer Dressers. The recalled dressers come in black, white, brown, oak and cream. The dressers have eight drawers and are made from wood. They measure 15.55 inches wide, 55.11 inches long, 30.78 inches tall and weigh 129 pounds. SKU “LDQMFJ8D-BR,” “LDQMFJ8D-CM,” “LDQM
+- **ZCK01 Recalls Kesyup Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability** `fatality-linked`
+  - 2026-09-24T00:00:00 — https://cpsc.gov/Recalls/2026/ZCK01-Recalls-Kesyup-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability
+  - This recall involves Kesyup-branded Mattresses. They are 12 inches thick and were sold in twin, full, queen and king sizes. They have a white top and blue sides with blue trim. The mattresses were sold in compressed boxes. “Prototype ID: PU-US” is printed on a sewn-in white label on one side of the 
 
 ### Marler Blog (food safety plaintiff bar) (10)
 
-- **What a Food Safety NTSB Would Have Had to Write Down This Month: Three Outbreak Files, Three Open Questions, and the Case for Frank Yiannas’s Investigation Board** `multi-state, fatality-linked`
-  - 2026-09-20 — https://www.marlerblog.com/case-news/what-a-food-safety-ntsb-would-have-had-to-write-down-this-month-three-outbreak-files-three-open-questions-and-the-case-for-frank-yiannass-investigation-board/
-  - <figure class="wp-block-image aligncenter size-large is-resized" style="height: auto; height: auto;"><img alt="" class="wp-image-49110" height="358" src="https://www.marlerblog.com/files/2026/09/image-2-640x358.jpeg" style="height: auto; height: auto; width: 468px; height: auto;" width="640" /></fig
-- **Wheels Up for Oslo, With One New Slide: Abbott Paid $385 Million, and Nobody Was Charged** `whistleblower`
-  - 2026-09-20 — https://www.marlerblog.com/case-news/wheels-up-for-oslo-with-one-new-slide-abbott-paid-385-million-and-nobody-was-charged/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49101" height="359" src="https://www.marlerblog.com/files/2026/09/bmarler_Editorial_photograph_from_an_airplane_window_at_dawn__f2373ef4-f983-4658-9860-a851da8cea48_1-640x359.png" st
-- **Wanted: An Associate Attorney (5+ Years) and a Paralegal (10+ Years). Want to Put Us Out of Business? Come Help Us Try.** `fatality-linked`
-  - 2026-09-19 — https://www.marlerblog.com/case-news/wanted-an-associate-attorney-5-years-and-a-paralegal-10-years-want-to-put-us-out-of-business-come-help-us-try/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49107" height="359" src="https://www.marlerblog.com/files/2026/09/bmarler_editorial_photograph_a_small_law_office_on_a_quiet_is_d61ca924-f9f0-4acb-81c5-ad5503ed9e4c_1-640x359.png" st
-- **Weekend Wrap-Up: FDA Confirmed the Sprout Seed Recall and Still Did Not Say Who Sold the Seed. Washington Counts 27 Sick in the Broccoli Sprout Outbreak Where CDC Counts 22. And CDC Stopped Counting Cyclospora Weekly at 19,883.** `multi-state, whistleblower, fatality-linked`
-  - 2026-09-19 — https://www.marlerblog.com/case-news/weekend-wrap-up-fda-confirmed-the-sprout-seed-recall-and-still-did-not-say-who-sold-the-seed-washington-counts-27-sick-in-the-broccoli-sprout-outbreak-where-cdc-counts-22-and-cdc-stopped-counting/
+- **Hats Off to Stephanie Armour and KFF Health News: Food Safety Is on the Ballot. Now Let’s Talk About What Isn’t in the Recall Count.**
+  - 2026-09-28 — https://www.marlerblog.com/case-news/hats-off-to-stephanie-armour-and-kff-health-news-food-safety-is-on-the-ballot-now-lets-talk-about-what-isnt-in-the-recall-count/
+  - <figure class="wp-block-image aligncenter size-full is-resized" style="height: auto; height: auto;"><img alt="" class="wp-image-49156" height="204" src="https://www.marlerblog.com/files/2026/09/Armour.jpeg" style="height: auto; height: auto; width: 350px; height: auto;" width="204" /></figure>
+<p cl
+- **Were the Hepatitis A Blood Clams Illegally Imported? New Jersey Says Yes. Federal Law Makes It a Harder Question. It Still Leaves the Importer, the Dealer and Their Executives Exposed.**
+  - 2026-09-28 — https://www.marlerblog.com/case-news/were-the-hepatitis-a-blood-clams-illegally-imported-new-jersey-says-yes-federal-law-makes-it-a-harder-question-it-still-leaves-the-importer-the-dealer-and-their-executives-exposed/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49153" height="360" src="https://www.marlerblog.com/files/2026/09/Blood_Clams_Hepatitis_A_Outbreak_and_Recall_jail_bars_thin-640x360.jpg" style="height: auto; height: auto;" width="6
+- **I Am Asking FDA to Put a Warning Label on Raw Sprouts. Read the Draft Petition and Tell Me What I Got Wrong Before I File It.** `fatality-linked`
+  - 2026-09-27 — https://www.marlerblog.com/case-news/i-am-asking-fda-to-put-a-warning-label-on-raw-sprouts-read-the-draft-petition-and-tell-me-what-i-got-wrong-before-i-file-it/
+  - <figure class="wp-block-image size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49144" height="427" src="https://www.marlerblog.com/files/2026/09/bmarler_editorial_photograph_a_clear_plastic_clamshell_of_alf_992a14d0-e152-49a3-90d4-9e7a6063f398_2-640x427.png" style="height:
+- **Raw Milk Cheese Needs a Warning Label. Here Is the FDA Petition I Plan to File. Read It and Tell Me What I Got Wrong Before I Do.** `fatality-linked`
+  - 2026-09-27 — https://www.marlerblog.com/case-news/raw-milk-cheese-needs-a-warning-label-here-is-the-fda-petition-i-plan-to-file-read-it-and-tell-me-what-i-got-wrong-before-i-do/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49140" height="427" src="https://www.marlerblog.com/files/2026/09/bmarler_editorial_photograph_a_wedge_of_aged_raw_milk_cheddar_104d5c6b-f66c-4b3c-bbff-59d7260d03fb_3-640x427.png" st
+- **Weekend Wrap-Up: A Raw Milk Cheese Labeled as Aged the Sixty Days the Rule Requires Made Thirteen People Sick, More Than Half of Them Five or Younger, and the Recall Came Seventy-Nine Days After the First Illness. The Broccoli Sprout Recall Could Have Reached Seven of Thirty-Two. And FDA’s Nominee Could Not Name the Office That Investigates Outbreaks.** `multi-state, WATCHLIST:Apple`
+  - 2026-09-26 — https://www.marlerblog.com/case-news/weekend-wrap-up-a-raw-milk-cheese-labeled-as-aged-the-sixty-days-the-rule-requires-made-thirteen-people-sick-more-than-half-of-them-five-or-younger-and-the-recall-came-seventy-nine-days-after-the-f/
   - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49104" height="336" src="https://www.marlerblog.com/files/2026/09/wrapup-social-link-1200x630-1-1-640x336.png" style="height: auto; height: auto;" width="640" /></figure>
 <p class="w
-- **Pet Turtle Salmonella Outbreak Grows to 20 Cases in 12 States, and Half Are Children Under 5** `fatality-linked`
-  - 2026-09-19 — https://www.marlerblog.com/case-news/pet-turtle-salmonella-outbreak-grows-to-20-cases-in-12-states-and-half-are-children-under-5/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49098" height="359" src="https://www.marlerblog.com/files/2026/09/bmarler_editorial_photograph_a_tiny_red-eared_slider_hatchlin_b0be4f8f-92ac-44de-b779-22fea6a9c1cf_1-640x359.png" st
-- **Helena Bottemiller Evich Is Right About Congress, and Food Safety Is the Proof** `fatality-linked, WATCHLIST:Apple`
-  - 2026-09-18 — https://www.marlerblog.com/case-news/helena-bottemiller-evich-is-right-about-congress-and-food-safety-is-the-proof/
-  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-49095" height="554" src="https://www.marlerblog.com/files/2026/09/Helena.jpeg" style="height: auto; height: auto;" width="554" /></figure>
-<p class="wp-block-paragraph">Helena Bottemi
-- **The LGMA Marked Twenty Years of Leafy Greens Safety the Week the Largest Cyclospora Outbreak on Record Closed. Here Is What It Has Said, What It Hasn’t, and Ten Things We Can Do Together** `multi-state, fatality-linked`
-  - 2026-09-18 — https://www.marlerblog.com/case-news/the-lgma-marked-twenty-years-of-leafy-greens-safety-the-week-the-largest-cyclospora-outbreak-on-record-closed-here-is-what-it-has-said-what-it-hasnt-and-ten-things-we-can-do-together/
-  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-49092" height="292" src="https://www.marlerblog.com/files/2026/09/tim-york-poisoned-doc_clean.png" style="height: auto; height: auto;" width="600" /></figure>
-<p class="wp-block-parag
-- **De Ann Davis at Western Growers Wants the FDA to Say Exactly Which Food Is Unsafe. I Agree. Here Is Where We Differ, and What It Will Take to Get There.** `multi-state`
-  - 2026-09-18 — https://www.marlerblog.com/case-news/de-ann-davis-at-western-growers-wants-the-fda-to-say-exactly-which-food-is-unsafe-i-agree-here-is-where-we-differ-and-what-it-will-take-to-get-there/
-  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49086" height="378" src="https://www.marlerblog.com/files/2026/09/Davis-640x378.png" style="height: auto; height: auto;" width="640" /></figure>
-<p class="wp-block-paragraph">De Ann 
-- **FDA’s Donna Garren Says Never Let a Good Crisis Go to Waste. After This Cyclospora Summer She Is Right, and If We Do Not Act, Shame on Us.** `multi-state, whistleblower, fatality-linked`
-  - 2026-09-18 — https://www.marlerblog.com/case-news/fdas-donna-garren-says-never-let-a-good-crisis-go-to-waste-after-this-cyclospora-summer-she-is-right-and-if-we-do-not-act-shame-on-us/
-  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-49083" height="447" src="https://www.marlerblog.com/files/2026/09/Donna.jpeg" style="height: auto; height: auto;" width="447" /></figure>
-<p class="wp-block-paragraph">I have spent mo
-- **Woods Hill Table Salmonella Outbreak: Ten Sick, Staff and Customers Among Them, as Concord Restaurant Closes. What Investigators Have Not Yet Said.** `fatality-linked`
-  - 2026-09-18 — https://www.marlerblog.com/case-news/woods-hill-table-salmonella-outbreak-ten-sick-staff-and-customers-among-them-as-concord-restaurant-closes-what-investigators-have-not-yet-said/
-  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-49079" height="312" src="https://www.marlerblog.com/files/2026/09/unnamed.jpg" style="height: auto; height: auto;" width="326" /></figure>
-<p class="wp-block-paragraph">Woods Hill Tab
+- **E. coli O26 Outbreak Linked to Sierra Nevada Cheese Company’s Graziers Raw Milk Cheese: 13 Sick in Nine States, 8 Hospitalized, 3 with HUS — Most Are Children 5 and Under** `multi-state, fatality-linked`
+  - 2026-09-26 — https://www.marlerblog.com/case-news/e-coli-o26-outbreak-linked-to-sierra-nevada-cheese-companys-graziers-raw-milk-cheese-13-sick-in-nine-states-8-hospitalized-3-with-hus-most-are-children-5-and-under/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-49135" height="623" src="https://www.marlerblog.com/files/2026/09/Graziers-4-raw-cheeses-640x623.jpg" style="height: auto; height: auto;" width="640" /></figure>
+<p class="wp-block-p
+- **FDA, USDA and CDC Are Possibly Working the Same E. coli O157:H7 Outbreak. Twenty-Five People Are Sick, the Product Is Listed as Unknown, and the Shared Reference Number Is the Most Informative Thing on Any of the Three Pages.** `multi-state`
+  - 2026-09-25 — https://www.marlerblog.com/case-news/fda-usda-and-cdc-are-possibly-working-the-same-e-coli-o157h7-outbreak-twenty-five-people-are-sick-the-product-is-listed-as-unknown-and-the-shared-reference-number-is-the-most-informati/
+  - <figure class="wp-block-image aligncenter size-large" style="height: auto; height: auto;"><img alt="" class="wp-image-36580" height="347" src="https://www.marlerblog.com/files/2017/12/e.-coli-bacteria-cyborg-640x347.jpg" style="height: auto; height: auto;" width="640" /></figure>
+<p class="wp-block-
+- **Thirty-Two People in Six States Are Sick with Salmonella from Evergreen Fresh Sprouts Broccoli Sprouts, Ten More People and Two More States Since September 11. Twenty-Five of Them Got Sick Before the First Recalled Bag Was Delivered.** `fatality-linked`
+  - 2026-09-24 — https://www.marlerblog.com/case-news/thirty-two-people-in-six-states-are-sick-with-salmonella-from-evergreen-fresh-sprouts-broccoli-sprouts-ten-more-people-and-two-more-states-since-september-11-twenty-five-of-them-got-sick-b/
+  - <figure class="wp-block-image aligncenter size-full" style="height: auto; height: auto;"><img alt="" class="wp-image-35256" height="375" src="https://www.marlerblog.com/files/2016/02/alfalfa-sprouts.jpg" style="height: auto; height: auto;" width="500" /></figure>
+<p class="wp-block-paragraph"><a hre
+- **FDA Won a Consent Decree Against a Minneapolis Warehouse That Kept Infant Formula, Rice and Cat Food Among 26 Rodents and Nine Birds. The State Had Inspected It 26 Times Since 2013. No One Has Been Charged.** `fatality-linked`
+  - 2026-09-24 — https://www.marlerblog.com/case-news/fda-won-a-consent-decree-against-a-minneapolis-warehouse-that-kept-infant-formula-rice-and-cat-food-among-26-rodents-and-nine-birds-the-state-had-inspected-it-26-times-since-2013-no-one-has-been-ch/
+  - <figure class="wp-block-image aligncenter size-full is-resized" style="height: auto; height: auto;"><img alt="" class="wp-image-35330" height="156" src="https://www.marlerblog.com/files/2016/04/imagesmoneyjail.jpg" style="height: auto; height: auto; width: 543px; height: auto;" width="323" /></figur
+- **The Seed Lot Behind the Alfalfa Sprout Outbreak Was Sold at Retail in 44 States, and the Small Bags Carry No Lot Code. It Is the Sixth Sprout Recall in a Month, and FDA’s Advisory Still Names No Supplier. And FDA’s Table Added 65 Sick People with No Food Named: 25 With E. coli O157:H7 and 40 With Listeria.** `fatality-linked`
+  - 2026-09-24 — https://www.marlerblog.com/case-news/the-seed-lot-behind-the-alfalfa-sprout-outbreak-was-sold-at-retail-in-44-states-and-the-small-bags-carry-no-lot-code-it-is-the-sixth-sprout-recall-in-a-month-and-fdas-advisory-still-names/
+  - <figure class="wp-block-image aligncenter size-large is-resized" style="height: auto; height: auto;"><img alt="" class="wp-image-49125" height="497" src="https://www.marlerblog.com/files/2026/09/image_1_243-640x497.png" style="height: auto; height: auto; width: 403px; height: auto;" width="640" /></
 
-### Top Class Actions (42)
+### SEC 8-K (Item 1.05: cybersecurity incident) (1)
 
+- **Astrana Health, Inc.  (ASTH)  (CIK 0001083446) — Item 1.05 8-K referencing 'cybersecurity incident'**
+  - 2026-09-23 — https://www.sec.gov/Archives/edgar/data/1083446/000110465926109813/asth-20260922x8k.htm
+  - 0001104659-26-109813
+
+### SEC 8-K (Item 8.01: enforcement action) (2)
+
+- **BBCMS Mortgage Trust 2026-M1  (CIK 0002152423) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-09-21 — https://www.sec.gov/Archives/edgar/data/2152423/000153949726002556/exh4_2-mfam1psa.htm
+  - 0001539497-26-002556
+- **BBCMS Mortgage Trust 2026-M1  (CIK 0002152423) — Item 8.01 8-K referencing 'enforcement action'**
+  - 2026-09-21 — https://www.sec.gov/Archives/edgar/data/2152423/000153949726002556/exh4_3-5c16psa.htm
+  - 0001539497-26-002556
+
+### Top Class Actions (31)
+
+- **Summit Medical data breach class action settlement** `class-action`
+  - 2026-09-28 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/summit-medical-data-breach-class-action-settlement/
+  - <p>Summit Medical Group agreed to a class action settlement to resolve claims that a data breach compromised sensitive patient information.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/summit-medical-data-breach-class-action-settlement/
+- **$15M Levoit air purifier class action settlement** `class-action`
+  - 2026-09-28 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-levoit-air-purifier-class-action-settlement/
+  - <p>Vesync, the maker of Levoit air purifiers, has agreed to a $15 million class action settlement over false advertising claims.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-levoit-air-purifier-class-action-settlement/">Read More</a
+- **Abbott lawsuit alleges spinal cord stimulators can fail, worsen nerve damage** `class-action`
+  - 2026-09-28 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/abbott-lawsuit-alleges-spinal-cord-stimulators-can-fail-worsen-nerve-damage/
+  - <p>A Pennsylvania woman has filed a lawsuit against Abbott Laboratories and Abbott Medical, alleging defective spinal cord stimulation devices caused her worsening pain, neurological injuries and other health complications.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-sett
+- **Hyundai recalls Ioniq 9 SUVs due to power-folding seat defect** `class-action`
+  - 2026-09-28 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/hyundai-recalls-ioniq-9-suvs-due-to-power-folding-seat-defect/
+  - <p>Hyundai is recalling 5,360 of its 2026 Hyundai Ioniq 9 SUVs due to a defect in the power-folding seats, which may not detect when someone is seated, potentially causing injury.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/hyundai-recalls-ioniq-9
+- **$1.75M American Vision Partners data breach class action settlement** `class-action`
+  - 2026-09-25 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-75m-american-vision-partners-data-breach-class-action-settlement/
+  - <p>The American Vision Partners data breach class action settlement provides $1.75 million in benefits, including cash payments or expense reimbursement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-75m-american-vision-partners-data-b
+- **$10M Forbes Media website tracking class action settlement** `class-action`
+  - 2026-09-25 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/10m-forbes-media-website-tracking-class-action-settlement/
+  - <p>The Forbes Media privacy class action settlement provides $10 million in benefits to eligible California residents who accessed Forbes websites.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/10m-forbes-media-website-tracking-class-act
+- **Club Med hit with class action over ‘flash sale’ email tactics** `class-action`
+  - 2026-09-25 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/club-med-hit-with-class-action-over-flash-sale-email-tactics/
+  - <p>A Washington consumer has filed a class action lawsuit accusing Club Med of using deceptive email marketing practices to pressure consumers into purchasing vacation packages.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/club-med-hit-with-
+- **Apple hit with another lawsuit over AirTag stalking after class action fails** `class-action, WATCHLIST:Apple`
+  - 2026-09-25 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-hit-with-another-lawsuit-over-airtag-stalking-after-class-action-fails/
+  - <p>Apple is facing a new lawsuit alleging its AirTag products facilitate stalking and unwanted tracking.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/apple-hit-with-another-lawsuit-over-airtag-stalking-after-class-action-fails/">Read More</a></p>
+<
+- **A&D Foods vacuum-packed meats recalled over fake inspection marks** `class-action`
+  - 2026-09-25 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ad-foods-vacuum-packed-meats-recalled-over-fake-inspection-marks/
+  - <p>Star Meat Delivery is recalling 167,639 pounds, approximately 83 tons, of raw meat products, including pork, beef and goat, due to a lack of federal inspection.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/ad-foods-vacuum-packed-meats-recalled-o
+- **Navy Federal Credit Union unauthorized loans class action settlement** `class-action`
+  - 2026-09-24 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/navy-federal-credit-union-unauthorized-loans-class-action-settlement/
+  - <p>Navy Federal Credit Union agreed to a class action settlement to resolve claims that it allowed third parties to open unauthorized loan accounts for members.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/navy-federal-credit-union-unau
+- **Furniture Mart USA data breach class action settlement** `class-action`
+  - 2026-09-24 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/furniture-mart-usa-data-breach-class-action-settlement/
+  - <p>Furniture Mart USA data breach class action settlement: Class members can receive up to $4,500 for documented losses related to the 2024 data breach.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/furniture-mart-usa-data-breach-class-a
+- **Class action alleges Hickory Farms sent spam emails with misleading subject lines** `class-action`
+  - 2026-09-24 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-alleges-hickory-farms-sent-spam-emails-with-misleading-subject-lines/
+  - <p>A new class action lawsuit alleges Hickory Farms sent Washington consumers emails with false or misleading subject lines in violation of the state’s Commercial Electronic Mail Act (CEMA).... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action
+- **Roblox, Fortnite sued over claims addictive game design harms minors** `class-action`
+  - 2026-09-24 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/roblox-fortnite-sued-over-claims-addictive-game-design-harms-minors/
+  - <p>Roblox and Epic Games are facing a lawsuit alleging their video game products, Roblox and Fortnite, were designed to encourage addictive and prolonged use among minors while failing to adequately warn users and parents about the alleged risks.... <a class="simple-btn-link" href="https://topclassa
+- **Volkswagen recalls 208K Atlas, Tiguan vehicles over steering rack issue** `class-action`
+  - 2026-09-24 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/volkswagen-recalls-208k-atlas-tiguan-vehicles-over-steering-rack-issue/
+  - <p>Volkswagen is recalling more than 208,000 vehicles, including specific models of Atlas, Tiguan and Audi Q3, due to a potential steering rack defect that could compromise steering control.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/volkswagen-r
+- **$2.99M Modernizing Medicine data breach class action settlement** `class-action`
+  - 2026-09-23 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-99m-modernizing-medicine-data-breach-class-action-settlement/
+  - <p>Modernizing Medicine Inc. (ModMed) data breach $2.99 million class action settlement. Class members can receive up to $5,000 in compensation.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-99m-modernizing-medicine-data-breach-class-a
+- **$2.03M Amwell, LiveHealth Online data sharing class action settlement** `class-action`
+  - 2026-09-23 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-03m-amwell-livehealth-online-data-sharing-class-action-settlement/
+  - <p>American Well Corp., operator of LiveHealth Online, agreed to a $2.03 million class action settlement to resolve claims it violated privacy laws by disclosing medical information to third parties.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-set
+- **Flock lawsuit accuses tech company of exposing citizens to rogue police tracking** `class-action`
+  - 2026-09-23 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/flock-lawsuit-accuses-tech-company-of-exposing-citizens-to-rogue-police-tracking/
+  - <p>A new class action lawsuit alleges Flock’s license plate readers are being misused by police officers to track individuals for personal reasons.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/flock-lawsuit-accuses-tech-company-of-exposing-citizens
+- **Savage X Fenty class action alleges lingerie brand imposes ‘junk fees’** `class-action`
+  - 2026-09-23 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/savage-x-fenty-class-action-alleges-lingerie-brand-imposes-junk-fees/
+  - <p>A new class action lawsuit alleges Savage X Fenty charges consumers “junk fees” and causes its membership credits to expire after 12 months.<br />
+... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/savage-x-fenty-class-action-alleges-lingerie-brand-i
+- **OpenAI sued over alleged undisclosed human review of ChatGPT conversations** `class-action`
+  - 2026-09-23 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/openai-sued-over-alleged-undisclosed-human-review-of-chatgpt-conversations/
+  - <p>OpenAI is facing a proposed class action lawsuit alleging it failed to disclose that outside contractors may review ChatGPT users’ conversations for model development purposes.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/openai-sued-over-allege
+- **$3.5M University of Hawaii data breach class action settlement** `class-action`
+  - 2026-09-22 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-university-of-hawaii-data-breach-class-action-settlement/
+  - <p>The University of Hawaii data breach class action settlement provides $3.5 million in benefits to eligible individuals affected by the 2025 data breach.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-university-of-hawaii-data-brea
+- **$4.95M ConnectOnCall data breach class action settlement** `class-action`
+  - 2026-09-22 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-95m-connectoncall-data-breach-class-action-settlement/
+  - <p>If you were affected by the ConnectOnCall and Phreesia data breach, you may qualify for benefits from the $4.95 million class action settlement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-95m-connectoncall-data-breach-class-actio
+- **Synchrony Bank, Experian and other agencies targeted in credit reporting lawsuit** `class-action`
+  - 2026-09-22 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/synchrony-bank-experian-and-other-agencies-targeted-in-credit-reporting-lawsuit/
+  - <p>A new credit reporting lawsuit alleges Synchrony Bank continued to report a canceled debt as due and owing on a consumer’s credit reports despite having formally canceled the debt and reported the cancellation to the Internal Revenue Service.<br />
+... <a class="simple-btn-link" href="https://top
+- **New Casely class action makes fresh claims over Power Pod dangers** `class-action`
+  - 2026-09-22 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/new-casely-class-action-makes-fresh-claims-over-power-pod-dangers/
+  - <p>A new class action lawsuit accuses Casely of selling Power Pod power banks with a dangerous defect that can cause the lithium-ion battery to overheat and catch fire.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/new-casely-class-action-makes-fres
+- **Lenox sued under Washington law over allegedly false sale claims** `class-action`
+  - 2026-09-22 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/lenox-sued-under-washington-law-over-allegedly-false-sale-claims/
+  - <p>A new class action lawsuit accuses luxury home goods company Lenox of sending spam emails with false or misleading subject lines.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/lenox-sued-under-washington-law-over-allegedly-false-sale-claims/">Rea
+- **The new plaintiff journey: How consumers find attorneys in the AI search era** `class-action`
+  - 2026-09-21 — https://topclassactions.com/attorney-marketing/the-new-plaintiff-journey-how-consumers-find-attorneys-in-the-ai-search-era/
+  - <p>AI search is changing how consumers find legal information. Learn what this shift means for law firms trying to reach potential plaintiffs.... <a class="simple-btn-link" href="https://topclassactions.com/attorney-marketing/the-new-plaintiff-journey-how-consumers-find-attorneys-in-the-ai-search-er
+- **Cellphone wrong-number robocalls could be worth $500-$1,500 per violation of the federal TCPA** `class-action`
+  - 2026-09-21 — https://topclassactions.com/lawsuit-settlements/investigations/wrong-number-robocall-lawsuit/
+  - <p>Robocalls received on a cell phone but intended for someone other than the owner of that number are violations of the federal TCPA.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/wrong-number-robocall-lawsuit/">Read More</a></p>
+<p>The post <a h
+- **$275M Sandoz and Fougera antitrust class action settlement** `class-action`
+  - 2026-09-21 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/275m-sandoz-and-fougera-antitrust-class-action-settlement/
+  - <p>Sandoz Inc. and Fougera Pharmaceuticals Inc. agreed to a $275 million class action settlement to resolve claims they engaged in a conspiracy to raise and fix the price of generic drugs.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/27
 - **$2.8M FinWise Bank data breach class action settlement** `class-action`
   - 2026-09-21 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-8m-finwise-bank-data-breach-class-action-settlement/
   - <p>FinWise Bank agreed to a $2.8 million data breach class action settlement. Submit a claim by Oct. 29, 2026, to receive payments for documented losses and more.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-8m-finwise-bank-data-breac
@@ -107,133 +198,4 @@
 - **Revlon class action lawsuits claim Mitchum ‘unscented’ deodorant contains fragrance** `class-action`
   - 2026-09-21 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/revlon-class-action-lawsuits-claim-mitchum-unscented-deodorant-contains-fragrance/
   - <p>Revlon is facing two class action lawsuits accusing the company of mislabeling its Mitchum Triple Odor Defense Unscented Antiperspirant and Deodorant and Mitchum Unscented deodorant, sold in gel and roll-on varieties, as fragrance-free.... <a class="simple-btn-link" href="https://topclassactions.
-- **Class action alleges Zillow adds ‘junk fee’ to online rent payments** `class-action`
-  - 2026-09-20 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-alleges-zillow-adds-junk-fee-to-online-rent-payments/
-  - <p>A new class action lawsuit alleges Zillow charges an illegal “junk” fee for rent payments made through its Zillow Rental Manager service.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-alleges-zillow-adds-junk-fee-to-online-rent-payme
-- **So Delicious Dairy Free recalls dessert pints over foreign material concerns** `class-action`
-  - 2026-09-20 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/so-delicious-dairy-free-recalls-dessert-pints-over-foreign-material-concerns/
-  - <p>So Delicious Dairy Free is recalling its Salted Caramel Cluster Non-Dairy Frozen Dessert pints due to the risk of contamination with foreign materials.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/so-delicious-dairy-free-recalls-dessert-pints-ov
-- **Class action accuses Amazon of scheming to suppress delivery driver wages** `class-action`
-  - 2026-09-20 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-accuses-amazon-of-scheming-to-suppress-delivery-driver-wages/
-  - <p>A new class action lawsuit alleges Amazon orchestrated a deliberate and unlawful scheme to suppress the wages of hundreds of thousands of delivery drivers across the United States.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action
-- **Lawsuit alleges Meta, Luxottica violate right to repair law with Meta smart glasses** `class-action`
-  - 2026-09-19 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/lawsuit-alleges-meta-luxottica-violate-right-to-repair-law-with-meta-smart-glasses/
-  - <p>A Denver electronics repair shop, Acme Revival, is suing Meta and Luxottica for allegedly violating Colorado’s right to repair law by failing to provide repair resources for Ray-Ban Meta smart glasses.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/laws
-- **TikTok sued over alleged unlawful sharing of Gauth AI student data with Google** `class-action`
-  - 2026-09-19 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/tiktok-sued-over-alleged-unlawful-sharing-of-gauth-ai-student-data-with-google/
-  - <p>A new class action lawsuit alleges TikTok USDS Joint Venture unlawfully transmitted private communications, educational queries and personal data of users of its artificial intelligence homework-help service, Gauth, to Google without users’ knowledge or consent.<br />
-... <a class="simple-btn-lin
-- **Chrysler recalls 201K Jeep vehicles due to faulty tire pressure monitoring** `class-action`
-  - 2026-09-19 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/chrysler-recalls-201k-jeep-vehicles-due-to-faulty-tire-pressure-monitoring/
-  - <p>Chrysler is recalling more than 200,000 Jeep vehicles due to a software malfunction in the tire pressure monitoring system. This defect could lead to the system failing to alert drivers of low tire pressure, posing a heightened risk of accidents.... <a class="simple-btn-link" href="https://topcla
-- **Spectrum Internet and TV: Fixed-rate price increase investigation** `class-action`
-  - 2026-09-18 — https://topclassactions.com/lawsuit-settlements/investigations/spectrum-internet-and-tv-price-increase-investigation/
-  - <p>Did Spectrum raise prices during a fixed-rate service period? An investigation is underway. See if you qualify to pursue compensation for overcharges. ... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/spectrum-internet-and-tv-price-increase-invest
-- **$4.5M AMN Healthcare privacy violations class action settlement** `class-action`
-  - 2026-09-18 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/
-  - <p>AMN Healthcare has agreed to a $4.5 million class action settlement for privacy violations. If you were monitored or recorded without consent, you may be eligible.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-priv
-- **$5.56M FN Logistics wage and hour violations class action settlement** `class-action`
-  - 2026-09-18 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/
-  - <p>FN Logistics agreed to pay $5.56 million to resolve claims it violated California labor laws. The FN Logistics class action settlement benefits current and former employees.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logis
-- **Real estate fees lawsuit: Did your agent or broker charge additional fees?** `class-action`
-  - 2026-09-18 — https://topclassactions.com/lawsuit-settlements/investigations/real-estate-junk-fees-class-action-lawsuit/
-  - <p>Did you pay hundreds for administrative, processing or transaction fees when buying a home? See if you qualify for a real estate fees lawsuit investigation.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/real-estate-junk-fees-class-action-lawsui
-- **Texas judge rules TikTok’s ‘restricted mode’ exposed kids to harmful content** `class-action`
-  - 2026-09-18 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/texas-judge-rules-tiktoks-restricted-mode-exposed-kids-to-harmful-content/
-  - <p>A Texas state court judge has ruled that TikTok violated state consumer protection law by misleading parents about how the platform moderates content seen by children, a significant setback for the company in an ongoing TikTok lawsuit.... <a class="simple-btn-link" href="https://topclassactions.c
-- **QDOBA hit with class action over jalapeños linked to Salmonella outbreak** `multi-state, class-action`
-  - 2026-09-18 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/qdoba-hit-with-class-action-over-jalapenos-linked-to-salmonella-outbreak/
-  - <p>A new class action lawsuit claims the QDOBA fast-casual chain served jalapeños contaminated with Salmonella at locations nationwide, sickening customers in a multistate outbreak.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/qdoba-hit-with
-- **Ford recalls F-150 trucks over potential fuel tank issues** `class-action`
-  - 2026-09-18 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ford-recalls-f-150-trucks-over-potential-fuel-tank-issues/
-  - <p>Ford is recalling more than 223,000 of its F-150 trucks due to concerns that the fuel tanks may not be properly secured.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/ford-recalls-f-150-trucks-over-potential-fuel-tank-issues/">Read More</a
-- **NOW supplements lawsuit: Did you buy magnesium citrate softgels?** `class-action`
-  - 2026-09-17 — https://topclassactions.com/lawsuit-settlements/investigations/now-magnesium-citrate-softgel-mislabeling-class-action-lawsuit/
-  - <p>Did your magnesium supplement contain less than the label promised? Learn about a NOW supplements lawsuit investigation and see if you qualify.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/now-magnesium-citrate-softgel-mislabeling-class
-- **$9.37M Concora Credit TCPA class action settlement** `class-action`
-  - 2026-09-17 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/
-  - <p>Concora Credit Inc. has agreed to a $9.375 million class action settlement over claims it violated the TCPA by placing calls to consumers without consent.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-a
-- **$4.095M Costa Del Mar sunglasses warranty class action settlement** `class-action`
-  - 2026-09-17 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-warranty-class-action-settlement/
-  - <p>Costa Del Mar agreed to a $4.095 million class action settlement to resolve claims it charged warranty fees in violation of the Magnuson-Moss Warranty Act.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-
-- **Iraq War lawsuit: Were you injured while serving in Iraq or Afghanistan?** `class-action`
-  - 2026-09-17 — https://topclassactions.com/lawsuit-settlements/investigations/iraq-war-lawsuit-were-you-injured-while-serving-in-iraq-or-afghanistan/
-  - <p>Were you injured while serving in Iraq or Afghanistan? Learn about the Iraq War lawsuit and whether you may qualify to pursue compensation.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/iraq-war-lawsuit-were-you-injured-while-serving-in-iraq-or
-- **Florida sues Netflix, claims company misled consumers about data collection** `class-action`
-  - 2026-09-17 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/florida-sues-netflix-claims-company-misled-consumers-about-data-collection/
-  - <p>Florida Attorney General James Uthmeier has filed a lawsuit against Netflix, alleging the streaming giant misled consumers about its data collection practices.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/florida-sues-netflix-claims-company-misl
-- **Applebee’s franchisee faces class action lawsuits after April data breach** `class-action, WATCHLIST:Apple`
-  - 2026-09-17 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/applebees-franchisee-faces-class-action-lawsuits-after-april-data-breach/
-  - <p>Two new class action lawsuits allege an Applebee’s Neighborhood Grill + Bar restaurant franchisee failed to adequately protect private information entrusted to it during an April 2026 data breach.<br />
-Two new class action lawsuits allege an Applebee’s Neighborhood Grill + Bar restaurant franchi
-- **Ricky Joy recalls 2.3M candy bottles over choking hazard** `class-action, fatality-linked`
-  - 2026-09-17 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ricky-joy-recalls-2-3m-candy-bottles-over-choking-hazard/
-  - <p>Ricky Joy is recalling more than 2.3 million Sour Crush Rolling Liquid Candy bottles due to a potential choking hazard. The rolling ball on these bottles can detach, posing a serious risk of injury or even death.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settl
-- **Minecraft lawsuit investigation: Families impacted by video game addiction** `class-action`
-  - 2026-09-16 — https://topclassactions.com/lawsuit-settlements/investigations/minecraft-lawsuit-investigation-families-impacted-by-video-game-addiction/
-  - <p>Did Minecraft addiction cause serious harm to your child or family? Learn if you qualify to take legal action and pursue a Minecraft lawsuit.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/minecraft-lawsuit-investigation-families-impacted-by-vid
-- **$167.5M Visa, Mastercard non-bank ATM class action settlement** `class-action`
-  - 2026-09-16 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/
-  - <p>Visa and Mastercard agreed to pay $167.5 million to resolve claims that they violated antitrust laws by prohibiting independent ATM operators from charging different surcharges.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-vis
-- **$8.31M TransUnion inaccurate credit report class action settlement** `class-action`
-  - 2026-09-16 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-31m-transunion-inaccurate-credit-report-class-action-settlement/
-  - <p>TransUnion has agreed to pay $8.31 million to resolve claims that it sold inaccurate consumer reports that contained bankruptcy remarks. Class members may be eligible for cash payments.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-
-- **Class action claims GM hid Sierra, Silverado transmission defect** `class-action`
-  - 2026-09-16 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-claims-gm-hid-sierra-silverado-transmission-defect/
-  - <p>A new class action lawsuit alleges General Motors sold thousands of Sierra and Silverado pickup trucks equipped with a defective eight-speed transmission, then concealed the problem from consumers for years.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlement
-- **UPS class action leads new wave of employee wage lawsuits** `class-action`
-  - 2026-09-16 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/ups-class-action-leads-new-wave-of-employee-wage-lawsuits/
-  - <p>A new round of wage lawsuits filed within about six weeks of each other accuses O'Reilly Auto, UPS, United Airlines and Dunkin' Donuts of shortchanging workers on pay they say they were owed.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/ups-clas
-- **Chrysler recalls multiple Jeep Grand Cherokee models over coil spring issue** `class-action`
-  - 2026-09-16 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/chrysler-recalls-multiple-jeep-grand-cherokee-models-over-coil-spring-issue/
-  - <p>Chrysler is recalling more than 328,000 Jeep Grand Cherokee vehicles due to a defect that may cause rear coil springs to detach while driving, posing a significant crash risk.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/chrysler-recalls-
-- **$117M pork price-fixing class action settlement** `class-action`
-  - 2026-09-15 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-price-fixing-class-action-settlement/
-  - <p>Pork producers agreed to pay $117 million to resolve claims they conspired to raise the price of pork products. Submit a claim for the pork price-fixing class action settlement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-
-- **$3.1M Palomar Health data breach class action settlement** `class-action`
-  - 2026-09-15 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-1m-palomar-health-data-breach-class-action-settlement/
-  - <p>If you were affected by the Palomar Health data breach, you may qualify for a cash payment from the $3.1 million class action settlement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-1m-palomar-health-data-breach-class-action-settl
-- **DuPont, Chemours, Corteva ink $590M PFAS settlement with North Carolina** `class-action`
-  - 2026-09-15 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/dupont-chemours-corteva-ink-590m-pfas-settlement-with-north-carolina/
-  - <p>DuPont, Chemours and Corteva agreed to a $590 million settlement with North Carolina to resolve claims they contaminated the state’s environment with PFAS or “forever chemicals.”<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/dupont-chemour
-- **Wix hit with class action over allegedly deceptive subscription terms** `class-action`
-  - 2026-09-15 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/wix-hit-with-class-action-over-allegedly-deceptive-subscription-terms/
-  - <p>A new class action lawsuit alleges Wix unilaterally increases the price of its website subscription services without customers' consent, then denies refunds despite telling consumers they can cancel at any time.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settle
-- **Chrysler recalls 239K Ram 1500 trucks over rearview camera issue** `class-action`
-  - 2026-09-15 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/chrysler-recalls-239k-ram-1500-trucks-over-rearview-camera-issue/
-  - <p>Chrysler is recalling more than 239,000 Ram 1500 trucks due to a defect that can prevent the rearview camera image from displaying, increasing the risk of a crash.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/chrysler-recalls-239k-ram-150
-- **Misclassified employee lawsuit: Did your job duties match your classification?** `class-action`
-  - 2026-09-14 — https://topclassactions.com/lawsuit-settlements/investigations/california-misclassified-employee-lawsuit-investigation/
-  - <p>Workers who were labeled as managers, salaried employees or contractors may qualify for a California misclassified employee investigation. ... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investigations/california-misclassified-employee-lawsuit-investigation/">
-- **California unpaid wages lawsuit: Are you owed back pay?** `class-action`
-  - 2026-09-14 — https://topclassactions.com/lawsuit-settlements/investigations/california-unpaid-wages-and-overtime-lawsuit/
-  - <p>Workers in California may be entitled to back pay for unpaid overtime, off-the-clock work, missed breaks or other wage and hour violations. See if you qualify for a California unpaid wages investigation.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/investiga
-- **$3.57M Lloyd’s of London insurance price-fixing class action settlement** `class-action`
-  - 2026-09-14 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/
-  - <p>Lloyd’s of London has agreed to pay $3.57 million to settle claims that it conspired to raise insurance prices. Submit a claim for the Lloyd’s of London class action settlement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloy
-- **$2.5M ABC Legal Services data breach class action settlement** `class-action`
-  - 2026-09-14 — https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/
-  - <p>If you were affected by the ABC Legal Services data breach, you may qualify for a cash payment from the $2.5 million class action settlement.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-acti
-- **H&M class action alleges spam emails use false sale deadlines** `class-action`
-  - 2026-09-14 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/hm-class-action-alleges-spam-emails-use-false-sale-deadlines/
-  - <p>A new class action lawsuit alleges H&#038;M bombards Washington shoppers with spam emails that falsely claim discounts are about to disappear.... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/hm-class-action-alleges-spam-emails-use-false-sale-deadli
-- **Taste of the Wild lawsuit claims grain-free dog food recipes cause heart disease** `class-action`
-  - 2026-09-14 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/taste-of-the-wild-lawsuit-claims-grain-free-dog-food-recipes-cause-heart-disease/
-  - <p>A new class action lawsuit alleges Taste of the Wild grain-free dog food is misrepresented as healthy and safe when it may actually pose health risks to dogs.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/taste-of-the-wild-lawsuit-claims-g
-- **Data breach fuels multiple Aesto class action lawsuits** `multi-state, class-action`
-  - 2026-09-14 — https://topclassactions.com/lawsuit-settlements/lawsuit-news/data-breach-fuels-multiple-aesto-class-action-lawsuits/
-  - <p>Three new class action lawsuits accuse Aesto Health of failing to protect the personal and medical information of thousands of patients in a nationwide data breach.<br />
-... <a class="simple-btn-link" href="https://topclassactions.com/lawsuit-settlements/lawsuit-news/data-breach-fuels-multiple-a
 
