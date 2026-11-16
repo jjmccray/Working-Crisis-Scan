@@ -1,5 +1,13 @@
 [
   {
+    "file": "2026-11-16.json",
+    "window_start": "2026-11-09",
+    "window_end": "2026-11-16",
+    "generated_at": "2026-11-16T21:28:16.468807",
+    "total_candidates": 99,
+    "watchlist_hit_count": 1
+  },
+  {
     "file": "2026-11-09.json",
     "window_start": "2026-11-02",
     "window_end": "2026-11-09",
